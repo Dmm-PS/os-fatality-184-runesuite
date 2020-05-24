@@ -1,0 +1,45 @@
+[
+  {"id": 1539, "x": 1763, "y": 5357, "walkRange": 3}, // Skeleton warlord
+  {"id": 2916, "x": 1763, "y": 5359, "walkRange": 6}, // Waterfiend
+  {"id": 2918, "x": 1765, "y": 5334, "walkRange": 5}, // Brutal green dragon
+  {"id": 2916, "x": 1766, "y": 5360, "walkRange": 7}, // Waterfiend
+  {"id": 2920, "x": 1767, "y": 5344, "walkRange": 3}, // Confused barbarian
+  {"id": 2916, "x": 1767, "y": 5355, "walkRange": 8}, // Waterfiend
+  {"id": 2918, "x": 1769, "y": 5342, "walkRange": 5}, // Brutal green dragon
+  {"id": 2918, "x": 1772, "y": 5357, "walkRange": 5}, // Brutal green dragon
+  {"id": 2918, "x": 1774, "y": 5349, "walkRange": 5}, // Brutal green dragon
+  {"id": 5564, "x": 1775, "y": 5324, "walkRange": 2}, // Enraged barbarian spirit
+  {"id": 2918, "x": 1776, "y": 5331, "walkRange": 4}, // Brutal green dragon
+  {"id": 5565, "x": 1778, "y": 5325, "walkRange": 2}, // Berserk barbarian spirit
+  {"id": 1541, "x": 1786, "y": 5338, "walkRange": 3}, // Skeleton thug
+  {"id": 2919, "x": 1755, "y": 5324, "walkRange": 2, "z": 1}, // Mithril dragon
+  {"id": 2919, "x": 1763, "y": 5336, "walkRange": 3, "z": 1}, // Mithril dragon
+  {"id": 1540, "x": 1756, "y": 5353, "walkRange": 0}, // Skeleton heavy
+  {"id": 2919, "x": 1765, "y": 5333, "walkRange": 3, "z": 1}, // Mithril dragon
+  {"id": 2919, "x": 1766, "y": 5342, "walkRange": 1, "z": 1}, // Mithril dragon
+  {"id": 2919, "x": 1779, "y": 5339, "walkRange": 1, "z": 1}, // Mithril dragon
+  {"id": 2919, "x": 1780, "y": 5355, "walkRange": 1, "z": 1}, // Mithril dragon
+  {"id": 2919, "x": 1782, "y": 5327, "walkRange": 1, "z": 1}, // Mithril dragon
+  {"id": 1539, "x": 1786, "y": 5331, "walkRange": 3, "z": 1}, // Skeleton warlord
+  {"id": 1540, "x": 1764, "y": 5334, "walkRange": 2}, // Skeleton heavy
+  {"id": 2916, "x": 1740, "y": 5343, "walkRange": 5}, // Waterfiend
+  {"id": 2916, "x": 1739, "y": 5349, "walkRange": 6}, // Waterfiend
+  {"id": 2916, "x": 1740, "y": 5351, "walkRange": 6}, // Waterfiend
+  {"id": 2916, "x": 1741, "y": 5357, "walkRange": 6}, // Waterfiend
+  {"id": 2916, "x": 1743, "y": 5342, "walkRange": 6}, // Waterfiend
+  {"id": 2916, "x": 1743, "y": 5359, "walkRange": 5}, // Waterfiend
+  {"id": 5563, "x": 1746, "y": 5327, "walkRange": 3}, // Angry barbarian spirit
+  {"id": 2916, "x": 1746, "y": 5340, "walkRange": 6}, // Waterfiend
+  {"id": 2916, "x": 1745, "y": 5362, "walkRange": 4}, // Waterfiend
+  {"id": 1538, "x": 1748, "y": 5324, "walkRange": 2}, // Skeleton brute
+  {"id": 5564, "x": 1751, "y": 5332, "walkRange": 3}, // Enraged barbarian spirit
+  {"id": 2916, "x": 1750, "y": 5339, "walkRange": 6}, // Waterfiend
+  {"id": 2916, "x": 1755, "y": 5352, "walkRange": 5}, // Waterfiend
+  {"id": 2916, "x": 1756, "y": 5355, "walkRange": 6}, // Waterfiend
+  {"id": 2916, "x": 1759, "y": 5357, "walkRange": 8}, // Waterfiend
+  {"id": 2918, "x": 1762, "y": 5337, "walkRange": 10}, // Brutal green dragon
+  {"id": 2916, "x": 1759, "y": 5357, "walkRange": 4}, // Waterfiend
+  {"id": 239, "x": 2271, "y": 4702, "walkRange": 5}, // KBD
+  {"id": 2921, "x": 1761, "y": 5322, "walkRange": 0}, // Lost barbarian
+  {"id": 2918, "x": 1764, "y": 5328, "walkRange": 4} // Brutal green dragon
+]

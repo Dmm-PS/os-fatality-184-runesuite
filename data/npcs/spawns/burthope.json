@@ -1,0 +1,55 @@
+[
+  {"id": 4088, "x": 2885, "y": 3528, "walkRange": 1}, // Soldier
+  {"id": 4088, "x": 2885, "y": 3535, "walkRange": 3}, // Soldier
+  {"id": 4086, "x": 2891, "y": 3537, "direction": "N"}, // Soldier
+  {"id": 4086, "x": 2891, "y": 3539, "direction": "N"}, // Soldier
+  {"id": 4089, "x": 2892, "y": 3532, "direction": "E"}, // Soldier
+  {"id": 4086, "x": 2892, "y": 3537, "direction": "N"}, // Soldier
+  {"id": 4086, "x": 2892, "y": 3539, "direction": "N"}, // Soldier
+  {"id": 4086, "x": 2894, "y": 3537, "direction": "N"}, // Soldier
+  {"id": 4086, "x": 2894, "y": 3539, "direction": "N"}, // Soldier
+  {"id": 4086, "x": 2895, "y": 3537, "direction": "N"}, // Soldier
+  {"id": 4086, "x": 2895, "y": 3539, "direction": "N"}, // Soldier
+  {"id": 4091, "x": 2894, "y": 3532, "direction": "W"}, // Soldier
+  {"id": 4090, "x": 2893, "y": 3533, "walkRange": 0}, // Soldier
+  {"id": 4086, "x": 2893, "y": 3537, "direction": "N"}, // Soldier
+  {"id": 4086, "x": 2893, "y": 3539, "direction": "N"}, // Soldier
+  {"id": 4084, "x": 2893, "y": 3541, "walkRange": 0}, // Sergeant
+  {"id": 4095, "x": 2892, "y": 3558, "walkRange": 5}, // Eadburg
+  {"id": 4083, "x": 2896, "y": 3528, "walkRange": 1}, // Denulth
+  {"id": 4099, "x": 2896, "y": 3566, "walkRange": 0}, // Guard
+  {"id": 4099, "x": 2897, "y": 3556, "walkRange": 0}, // Guard
+  {"id": 4087, "x": 2900, "y": 3531, "direction": "E"}, // Soldier
+  {"id": 4085, "x": 2900, "y": 3532, "walkRange": 2}, // Sergeant
+  {"id": 4087, "x": 2900, "y": 3533, "direction": "E"}, // Soldier
+  {"id": 4088, "x": 2899, "y": 3538, "walkRange": 4}, // Soldier
+  {"id": 4100, "x": 2900, "y": 3556, "walkRange": 0}, // Guard
+  {"id": 4104, "x": 2900, "y": 3564, "walkRange": 4}, // Servant
+  {"id": 4102, "x": 2906, "y": 3537, "walkRange": 2}, // Tostig
+  {"id": 4088, "x": 2907, "y": 3540, "walkRange": 3}, // Soldier
+  {"id": 4109, "x": 2909, "y": 3539, "walkRange": 2}, // Penda
+  {"id": 4088, "x": 2911, "y": 3543, "walkRange": 5}, // Soldier
+  {"id": 4111, "x": 2916, "y": 3522, "walkRange": 4}, // Ceolburg
+  {"id": 1389, "x": 2917, "y": 3534, "walkRange": 3}, // Bernald
+  {"id": 6202, "x": 2919, "y": 3559, "walkRange": 2}, // Unferth
+  {"id": 4107, "x": 2919, "y": 3550, "walkRange": 5}, // Breoca
+  {"id": 4105, "x": 2920, "y": 3574, "walkRange": 3}, // Dunstan
+  {"id": 4110, "x": 2927, "y": 3536, "walkRange": 4}, // Hygd
+  {"id": 4108, "x": 2927, "y": 3559, "walkRange": 4}, // Ocga
+  {"id": 4106, "x": 2927, "y": 3546, "walkRange": 3}, // Wistan
+  {"id": 4112, "x": 2931, "y": 3567, "walkRange": 2}, // Hild
+  {"id": 401, "x": 2931, "y": 3536, "walkRange": 1}, // Turael
+  {"id": 4096, "x": 2896, "y": 3549, "walkRange": 1}, // Archer
+  {"id": 4097, "x": 2901, "y": 3549, "walkRange": 1}, // Archer
+  {"id": 5613, "x": 2201, "y": 4943, "walkRange": 0}, // Sam
+  {"id": 4923, "x": 2902, "y": 3508, "walkRange": 4}, // Achietties
+  {"id": 4114, "x": 2919, "y": 3516, "walkRange": 3}, // White Knight
+  {"id": 520, "x": 2935, "y": 3515, "walkRange": 4}, // Monk of Zamorak
+  {"id": 520, "x": 2933, "y": 3515, "walkRange": 3}, // Monk of Zamorak
+  {"id": 519, "x": 2935, "y": 3515, "walkRange": 4}, // Monk of Zamorak
+  {"id": 519, "x": 2933, "y": 3515, "walkRange": 3}, // Monk of Zamorak
+  {"id": 520, "x": 2935, "y": 3515, "walkRange": 5}, // Monk of Zamorak
+  {"id": 520, "x": 2939, "y": 3516, "walkRange": 1}, // Monk of Zamorak
+  {"id": 4924, "x": 2894, "y": 3510, "walkRange": 4, "z": 1}, // Helemos
+  {"id": 6481, "x": 2791, "y": 3540, "walkRange": 3} //Mac
+]

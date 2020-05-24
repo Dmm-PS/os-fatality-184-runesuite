@@ -1,0 +1,22 @@
+{
+  "name": "Achievement Rewards",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 5527, "option": "rewards" }
+  ],
+  "items": [
+    { "id": 5509, "price": 5000, "achievement": "INTO_THE_ABYSS" }, //Small pouch
+    { "id": 5510, "price": 15000, "achievement": "ESSENCE_EXTRACTOR" }, //Medium pouch
+    { "id": 5512, "price": 50000, "achievement": "ABYSSAL_DISTURBANCE" }, //Large pouch
+    { "id": 5514, "price": 100000, "achievement": "EXPERT_RUNECRAFTER" }, //Giant pouch
+    { "id": 775, "price": 300000, "achievement": "PRACTICE_MAKES_PERFECT" }, //Cooking gauntlets
+    { "id": 776, "price": 300000, "achievement": "GOLDEN_TOUCH" }, //Goldsmith gauntlets
+    { "id": 88, "price": 10000, "achievement": "LIGHTNESS" }, //Boots of lightness
+    { "id": 7409, "price": 50000, "achievement": "NATURES_TOUCH" }, //Magic secateurs
+    { "id": 4251, "price": 10000, "achievement": "MORYTANIA_FARMING" }, //Ectophial
+	  { "id": 4587, "price": 100000, "achievement": "WELCOME_TO_THE_JUNGLE" },	// Dragon scimitar
+	  { "id": 6746, "price": 60000, "achievement": "DEMON_SLAYER" }, //Darklight
+    { "id": 11259, "price": 75000, "achievement": "IMPLING_HUNTER" } //Magic butterfly net
+  ]
+}

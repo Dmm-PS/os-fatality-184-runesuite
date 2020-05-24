@@ -1,0 +1,37 @@
+{
+  "name": "Blood Money Misc Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 4579, "option": "misc" }
+  ],
+  "items": [
+    { "id": 12934, "price": 1 }, //Zulrah's scales
+    { "id": 11936, "price": 3 }, //Dark crab
+    { "id": 13441, "price": 6 }, //Anglerfish
+    { "id": 12695, "price": 5 }, //Super combat potion(4)
+    { "id": 12625, "price": 3 }, //Stamina potion(4)
+    { "id": 3024, "price": 4 }, //Super restore(4)
+    { "id": 2436, "price": 3 }, //Super attack(4)
+    { "id": 2440, "price": 3 }, //Super strength(4)
+    { "id": 2442, "price": 3 }, //Super defence(4)
+    { "id": 2444, "price": 3 }, //Ranging potion(4)
+    { "id": 12853, "price": 300 }, //Amulet of the damned
+    { "id": 12905, "price": 3 }, //Anti-venom(4)
+    { "id": 12913, "price": 4 }, //Anti-venom+(4)
+    { "id": 11133, "price": 100 }, //Regen bracelet
+    { "id": 11128, "price": 250 }, //Berserker necklace
+    { "id": 6585, "price": 300 }, //Amulet of fury
+    { "id": 12002, "price": 350 }, //Occult necklace
+    { "id": 6735, "price": 250 }, //Warrior ring
+    { "id": 6733, "price": 400 }, //Archers ring
+    { "id": 6731, "price": 400 }, //Seers ring
+    { "id": 6737, "price": 400 }, //Berserker ring
+    { "id": 21739, "price": 175 }, //Granite ring
+    { "id": 12605, "price": 300 }, //Treasonous ring
+    { "id": 12601, "price": 300 }, //Ring of the gods
+    { "id": 12603, "price": 300 }, //Tyrannical ring
+    { "id": 2550, "price": 2}, //Ring of recoiil
+    { "id": 2572, "price": 175} //Ring of wealth
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Shanomi's Warrior Guild Token Exchange",
+  "currency": "WARRIOR_GUILD_TOKEN",
+  "ironman": true,
+  "npcs": [
+    { "id": 2462, "option": "trade" }
+  ],
+  "items": [
+    { "id": 10549, "price": 500 }, // Runner hat
+    { "id": 10548, "price": 750 }, // Fighter hat
+    { "id": 10550, "price": 500 }, // Ranger hat
+    { "id": 10547, "price": 500 }, // Healer hat
+    { "id": 10555, "price": 100 }, // Penance skirt
+    { "id": 10553, "price": 750 }, // Penance gloves
+    { "id": 10552, "price": 500 } // Runner boots
+  ]
+}

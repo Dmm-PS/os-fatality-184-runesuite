@@ -1,0 +1,68 @@
+{
+  "name": "Wilderness Points Exchange",
+  "currency": "WILDERNESS_POINTS",
+  "ironman": true,
+  "npcs": [
+    { "id": 315, "option": "Buy-Items" }
+  ],
+  "items": [
+    { "id":  5020, "price":  1}, //PK Ticket
+    { "id": 13442, "price": 15 }, //Anglerfish
+    { "id": 12696, "price": 25 }, //Super combat potion(4)
+    { "id": 10926, "price": 25 }, //Sanfew serum(4)
+    { "id": 12626, "price": 20 }, //Stamina
+    { "id": 454, "price": 15 }, //Coal
+    { "id": 537, "price": 45 }, //Dragon bone
+    { "id": 11941, "price": 1000 }, //Looting bag
+    { "id": 12791, "price": 8000 }, //Rune pouch
+    { "id": 11802, "price": 40000 }, //Armadyl godsword
+    { "id": 13652, "price": 50000 }, //Dragon claws
+    { "id": 11785, "price": 50000 }, //Armadyl crossbow
+    { "id": 19481, "price": 40000 }, //Ballista
+    { "id": 11791, "price": 10000 }, //Staff of the dead
+    { "id": 21034, "price": 50000 }, //Dexterous prayer scroll
+    { "id": 21047, "price": 60000 }, //Torn prayer scroll
+    { "id": 21079, "price": 50000 }, //Arcane prayer scroll
+    { "id": 12877, "price": 2500 }, //Dharok Armour Set
+    { "id": 12881, "price": 2500 }, //Ahrim Armour Set
+    { "id": 12883, "price": 2500 }, //Karil Armour Set
+    { "id": 12875, "price": 10000 }, //Veracs Armour Set
+    { "id": 12873, "price": 5000 }, //Guthan Armour Set
+    { "id": 12879, "price": 5000 }, //Torags Armour Set
+    { "id": 10551, "price": 1000 }, //Fighter torso
+    { "id": 6570, "price": 3000 }, //Fire cape
+    { "id": 12954, "price": 1000 }, //Dragon defender
+    { "id": 6585, "price": 5000 }, //Amulet of fury
+    { "id": 4151, "price": 5000 }, //Whip
+    { "id": 4153, "price": 500}, // Granite maul
+    { "id": 11840, "price": 1000}, // Dragon boots
+    { "id": 10887, "price": 2000}, // Barrelchest anchor
+    { "id": 12914, "price": 50}, // Antivenom+ noted
+    { "id": 6889, "price": 8000}, // Mage's book
+    { "id": 11235, "price": 5000}, // Dark bow
+    { "id": 11212, "price": 10}, // Dragon arrows
+    { "id": 4740, "price": 4}, // Boltrack
+    { "id": 19484, "price": 2}, // Dragon javelins
+    { "id": 22804, "price": 5}, // Dragon knives
+    { "id": 20849, "price": 10}, // Dragon thrownaxe
+    { "id": 21326, "price":  2}, //Amethyst arrow
+    { "id": 21946, "price":  8}, //Diamond dragon bolts
+    { "id": 21948, "price":  10}, //Dragonstone dragon bolts
+    { "id": 21950, "price":  15}, //Onyx dragon bolts
+    { "id": 6737, "price": 5000 }, //Berserker
+    { "id": 6733, "price": 5000 }, //Archer
+    { "id": 6731, "price": 5000 }, //Seers
+    { "id": 12846, "price": 10000}, // Bounty hunter teleport scroll
+    { "id": 20595, "price": 2500 }, //Elder chaos hood
+    { "id": 20517, "price": 2500 }, //Elder chaos top
+    { "id": 20520, "price": 2500 }, //Ender chaos robe
+    { "id": 1249, "price": 1000 }, //Dragon spear
+    { "id": 21902, "price": 15000 }, //Dragon crossbow
+    { "id": 6920, "price": 3000 }, //Infinity boots
+    { "id": 12831, "price": 1000 }, //Blessed Spirit shield
+    { "id": 12829, "price": 500 }, //Spirit shield
+    { "id": 20714, "price": 5000 }, //Tome of fire
+    { "id": 20178, "price": 100 }, //Burnt pages
+    { "id": 21880, "price": 10 } //Wrath rune
+]
+}

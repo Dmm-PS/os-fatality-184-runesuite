@@ -1,0 +1,20 @@
+[
+  {"id": 3347, "x": 3358, "y": 3242, "walkRange": 6}, // Sabeil
+  {"id": 3351, "x": 3361, "y": 3239, "walkRange": 8}, // Jeed
+  {"id": 2570, "x": 3363, "y": 3222, "walkRange": 5}, // Captain Daerkin
+  {"id": 3350, "x": 3392, "y": 3210, "walkRange": 4}, // Afrah
+  {"id": 3344, "x": 3358, "y": 3276, "walkRange": 3}, // Jaraah
+  {"id": 3341, "x": 3362, "y": 3275, "walkRange": 4}, // A'abla
+  {"id": 3342, "x": 3368, "y": 3276, "walkRange": 5}, // Sabreen
+  {"id": 3345, "x": 3373, "y": 3277, "walkRange": 4}, // Zahwa
+  {"id": 3343, "x": 3372, "y": 3272, "walkRange": 4}, // Surgeon General Tafani
+  {"id": 3331, "x": 3314, "y": 3240, "walkRange": 1}, // Mubariz
+  {"id": 3352, "x": 3375, "y": 3284, "walkRange": 1}, // Hamid
+  {"id": 3340, "x": 3383, "y": 3269, "walkRange": 1}, // Fadli
+  {"id": 2854, "x": 3317, "y": 3251, "walkRange": 6}, // Rat
+  {"id": 2835, "x": 3314, "y": 3268, "walkRange": 3}, // Camel
+  {"id": 3349, "x": 3330, "y": 3235, "walkRange": 7}, // Dalal
+  {"id": 3346, "x": 3330, "y": 3234, "walkRange": 8}, // Ima
+  {"id": 3348, "x": 3359, "y": 3220, "walkRange": 7}, // Jadid
+  {"id": 3745, "x": 3367, "y": 3266, "z": 0, "walkRange": 6} // Ranis Drakan
+]

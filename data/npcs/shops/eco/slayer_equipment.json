@@ -1,0 +1,36 @@
+{
+  "name": "Slayer Equipment",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 7663, "option": "trade" }
+  ],
+  "items": [
+      {"id": 4155}, // Slayer gem
+      {"id": 4156}, // Mirror shield
+      {"id": 4158}, // Leaf-bladed spear
+      {"id": 4160}, // Broad arrows
+      {"id": 4161}, // Bag of salt
+      {"id": 4162}, // Rock hammer
+      {"id": 4164}, // Facemask
+      {"id": 4166}, // Earmuffs
+      {"id": 4168}, // Earmuffs
+      {"id": 4170}, // Slayer's staff
+      {"id": 4551}, // Spiny helmet
+      {"id": 6664}, // Fishing explosive
+      {"id": 6696}, // Ice cooler
+      {"id": 6720}, // Slayer gloves
+      {"id": 7051}, // Unlit bug lantern
+      {"id": 7159}, // Insulated boots
+      {"id": 7421}, // Fungicide spray
+      {"id": 7432}, // Fungicide
+      {"id": 8923}, // Witchwood icon
+      {"id": 10952}, // Slayer bell
+      {"id": 11874}, // Broad arrowheads
+      {"id": 11885}, // Broad arrowhead pack
+      {"id": 11876}, // Unfinished broad bolts
+      {"id": 11887}, // Unfinished broad bolt pack
+	    {"id": 2890}, // Elemental shield
+      {"id": 23037} // Boots of stone
+  ]
+}

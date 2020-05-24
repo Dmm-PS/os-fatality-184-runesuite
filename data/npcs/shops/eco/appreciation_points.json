@@ -1,0 +1,19 @@
+{
+  "name": "Appreciation Points Exchange",
+  "currency": "APPRECIATION_POINTS",
+  "ironman": true,
+  "npcs": [
+    { "id": 6002, "option": "trade" }
+  ],
+  "items": [
+    { "id": 6758, "price": 25500 }, //Bonus XP scroll
+    { "id": 608, "price": 17000 }, //Pet drop scroll
+    { "id": 607, "price": 8500 }, //Rare drop scroll
+    { "id": 7394, "price": 30000 }, //Blue wizard hat (g)
+    { "id": 12453, "price": 30000 }, //Black wizard hat (g)
+    { "id": 7003, "price": 100000 }, //Camel mask
+    { "id": 11015, "price": 100000 }, //Chicken mask
+    { "id": 20029, "price": 30000 }, //Old demon mask
+    { "id": 12432, "price": 125000 } //Top hat
+]
+}

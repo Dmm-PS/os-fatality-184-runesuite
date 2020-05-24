@@ -1,0 +1,156 @@
+[
+   {"id": 3270, "x": 3041, "y": 3355, "walkRange": 2}, // Ranging guard
+  {"id": 3269, "x": 3036, "y": 3355, "walkRange": 2}, // Melee guard
+  {"id": 1027, "x": 3010, "y": 3353, "direction": "N"}, // Banker
+  {"id": 1027, "x": 3011, "y": 3353, "direction": "N"}, // Banker
+  {"id": 1027, "x": 3012, "y": 3353, "direction": "N"}, // Banker
+  {"id": 1027, "x": 3013, "y": 3353, "direction": "N"}, // Banker
+  {"id": 1027, "x": 3014, "y": 3353, "direction": "N"}, // Banker
+  {"id": 1027, "x": 3015, "y": 3353, "direction": "N"}, // Banker
+  {"id": 4687, "x": 2997, "y": 3373, "direction": "N"}, // Sir tiffy cashien
+  {"id": 2679, "x": 3001, "y": 3373, "walkRange": 4}, // Heskel
+  {"id": 3275, "x": 3001, "y": 3373, "walkRange": 6}, // Gardener
+  {"id": 5423, "x": 3012, "y": 3373, "walkRange":  5}, // Garden supplier
+
+  // Crafting guild man!
+  {"id": 2790, "x": 2919, "y": 3288, "walkRange": 3}, // Cow
+  {"id": 2793, "x": 2921, "y": 3287, "walkRange": 4}, // Cow
+  {"id": 2697, "x": 2921, "y": 3287, "walkRange": 4}, // Cow calf
+  {"id": 2691, "x": 2920, "y": 3291, "walkRange": 0}, //
+  {"id": 2791, "x": 2922, "y": 3286, "walkRange": 4}, // Cow
+  {"id": 2691, "x": 2923, "y": 3285, "walkRange": 0}, //
+  {"id": 2793, "x": 2925, "y": 3277, "walkRange": 4}, // Cow
+  {"id": 2793, "x": 2923, "y": 3286, "walkRange": 4}, // Cow
+  {"id": 2790, "x": 2925, "y": 3282, "walkRange": 5}, // Cow
+  {"id": 2790, "x": 2927, "y": 3272, "walkRange": 4}, // Cow
+  {"id": 2793, "x": 2930, "y": 3271, "walkRange": 5}, // Cow
+  {"id": 5811, "x": 2931, "y": 3280, "walkRange": 3}, // Master Crafter
+  {"id": 5810, "x": 2932, "y": 3286, "walkRange": 4}, // Master Crafter
+  {"id": 2791, "x": 2933, "y": 3273, "walkRange": 4}, // Cow
+  {"id": 2816, "x": 2933, "y": 3274, "walkRange": 4}, // Cow calf
+  {"id": 2790, "x": 2934, "y": 3275, "walkRange": 3}, // Cow
+  {"id": 5812, "x": 2936, "y": 3289, "walkRange": 2}, // Master Crafter
+  {"id": 5809, "x": 2933, "y": 3284, "z": 1, "walkRange": 2}, // Tanner upstairs
+
+
+  {"id": 6561, "x": 3057, "y": 9770, "walkRange": 2}, // Guard
+  {"id": 3271, "x": 2965, "y": 3391, "walkRange": 5}, // Guard
+  {"id": 2692, "x": 2966, "y": 3346, "walkRange": 5}, // Chicken
+  {"id": 1831, "x": 2969, "y": 3360, "walkRange": 3}, // Swan
+  {"id": 3272, "x": 2968, "y": 3379, "walkRange": 5}, // Guard
+  {"id": 1831, "x": 2970, "y": 3359, "walkRange": 4}, // Swan
+  {"id": 1798, "x": 2972, "y": 3346, "walkRange": 5}, // White Knight
+  {"id": 1799, "x": 2973, "y": 3347, "walkRange": 5}, // White Knight
+  {"id": 1831, "x": 2974, "y": 3358, "walkRange": 4}, // Swan
+  {"id": 1799, "x": 2976, "y": 3340, "walkRange": 5}, // White Knight
+  {"id": 4737, "x": 2976, "y": 3342, "walkRange": 3}, // Squire
+  {"id": 1027, "x": 3010, "y": 3353, "walkRange": 0}, // Banker
+  {"id": 1838, "x": 2974, "y": 3358, "walkRange": 8}, // Duck
+  {"id": 1798, "x": 2978, "y": 3346, "walkRange": 5}, // White Knight
+  {"id": 1027, "x": 3011, "y": 3353, "walkRange": 0}, // Banker
+  {"id": 1839, "x": 2974, "y": 3358, "walkRange": 8}, // Duck
+  {"id": 3276, "x": 3011, "y": 3386, "walkRange": 3}, // Gardener
+  {"id": 1831, "x": 2978, "y": 3358, "walkRange": 4}, // Swan
+  {"id": 295, "x": 3015, "y": 3339, "walkRange": 4}, // Dwarf
+  {"id": 3214, "x": 2976, "y": 3383, "walkRange": 2}, // Cassie
+  {"id": 1027, "x": 3012, "y": 3353, "walkRange": 0}, // Banker
+  {"id": 1838, "x": 2974, "y": 3359, "walkRange": 8}, // Duck
+  {"id": 1027, "x": 3013, "y": 3353, "walkRange": 0}, // Banker
+  {"id": 1839, "x": 2975, "y": 3358, "walkRange": 7}, // Duck
+  {"id": 1027, "x": 3014, "y": 3353, "walkRange": 0}, // Banker
+  {"id": 2002, "x": 2975, "y": 3357, "walkRange": 6}, // Ducklings
+  {"id": 6523, "x": 3015, "y": 3353, "walkRange": 0}, // Banker
+  {"id": 1798, "x": 2982, "y": 3331, "walkRange": 4}, // White Knight
+  {"id": 7712, "x": 3018, "y": 3340, "walkRange": 2}, // Dwarf
+  {"id": 1798, "x": 2982, "y": 3335, "walkRange": 4}, // White Knight
+  {"id": 296, "x": 3021, "y": 3333, "walkRange": 5}, // Dwarf
+  {"id": 1798, "x": 2983, "y": 3342, "walkRange": 4}, // White Knight
+  {"id": 7716, "x": 3019, "y": 3337, "walkRange": 2}, // Dwarf
+  {"id": 1798, "x": 2984, "y": 3340, "walkRange": 4}, // White Knight
+  {"id": 1831, "x": 2988, "y": 3383, "walkRange": 0}, // Swan
+  {"id": 3275, "x": 3019, "y": 3371, "walkRange": 3}, // Gardener
+  {"id": 1839, "x": 2988, "y": 3383, "walkRange": 0}, // Duck
+  {"id": 7713, "x": 3021, "y": 3339, "walkRange": 2}, // Dwarf
+  {"id": 3264, "x": 2991, "y": 3365, "walkRange": 1}, // Man
+  {"id": 2003, "x": 2987, "y": 3374, "walkRange": 3}, // Duck
+  {"id": 294, "x": 3019, "y": 3346, "walkRange": 3}, // Dwarf
+  {"id": 1838, "x": 2992, "y": 3383, "walkRange": 1}, // Duck
+  {"id": 1839, "x": 2992, "y": 3384, "walkRange": 1}, // Duck
+  {"id": 3253, "x": 3027, "y": 3379, "walkRange": 0}, // Wyson the gardener
+  {"id": 2004, "x": 2994, "y": 3385, "walkRange": 3}, // Drake
+  {"id": 1798, "x": 2994, "y": 3341, "walkRange": 3}, // White Knight
+  {"id": 3275, "x": 2996, "y": 3381, "walkRange": 3}, // Gardener
+  {"id": 3267, "x": 2990, "y": 3384, "walkRange": 1}, // Woman
+  {"id": 3081, "x": 2959, "y": 3306, "walkRange": 5}, // Man
+  {"id": 5897, "x": 2972, "y": 3312, "walkRange": 3}, // Wayne
+  {"id": 3094, "x": 3005, "y": 3323, "walkRange": 2}, // Guard
+  {"id": 3094, "x": 3006, "y": 3321, "walkRange": 2}, // Guard
+  {"id": 3094, "x": 3007, "y": 3323, "walkRange": 2}, // Guard
+  {"id": 3269, "x": 2962, "y": 3397, "walkRange": 2}, // Guard
+  {"id": 2816, "x": 3026, "y": 3313, "walkRange": 0}, // Cow calf
+  {"id": 3269, "x": 2964, "y": 3394, "walkRange": 2}, // Guard
+  {"id": 3271, "x": 2966, "y": 3394, "walkRange": 5}, // Guard
+  {"id": 3269, "x": 2967, "y": 3393, "walkRange": 2}, // Guard
+  {"id": 6529, "x": 2945, "y": 3335, "walkRange": 1}, // Herquin
+  {"id": 3270, "x": 2944, "y": 3375, "walkRange": 2}, // Guard
+  {"id": 1028, "x": 2945, "y": 3366, "walkRange": 0}, // Banker
+  {"id": 1028, "x": 2946, "y": 3366, "walkRange": 0}, // Banker
+  {"id": 1305, "x": 2945, "y": 3379, "walkRange": 2}, // Hairdresser
+  {"id": 1028, "x": 2947, "y": 3366, "walkRange": 0}, // Banker
+  {"id": 3269, "x": 2948, "y": 3354, "walkRange": 1}, // Guard
+  {"id": 1028, "x": 2948, "y": 3366, "walkRange": 0}, // Banker
+  {"id": 6523, "x": 2949, "y": 3366, "walkRange": 0}, // Banker
+  {"id": 3272, "x": 2949, "y": 3376, "walkRange": 5}, // Guard
+  {"id": 5007, "x": 2958, "y": 3371, "walkRange": 11}, // Imp
+  {"id": 5896, "x": 2950, "y": 3387, "walkRange": 2}, // Flynn
+  {"id": 278, "x": 2952, "y": 3380, "walkRange": 3}, // Town crier
+  {"id": 1315, "x": 2954, "y": 3372, "walkRange": 2}, // Emily
+  {"id": 513, "x": 2956, "y": 3387, "walkRange": 3}, // Shop assistant
+  {"id": 1798, "x": 2958, "y": 3338, "walkRange": 3}, // White Knight
+  {"id": 3271, "x": 2956, "y": 3381, "walkRange": 5}, // Guard
+  {"id": 1316, "x": 2957, "y": 3370, "walkRange": 4}, // Kaylee
+  {"id": 2817, "x": 2957, "y": 3387, "walkRange": 3}, // Shop keeper
+  {"id": 1831, "x": 2959, "y": 3359, "walkRange": 2}, // Swan
+  {"id": 1831, "x": 2960, "y": 3359, "walkRange": 3}, // Swan
+  {"id": 1798, "x": 2961, "y": 3338, "walkRange": 5}, // White Knight
+  {"id": 3269, "x": 2962, "y": 3381, "walkRange": 2}, // Guard
+  {"id": 3271, "x": 2964, "y": 3376, "walkRange": 5}, // Guard
+  {"id": 3269, "x": 2965, "y": 3384, "walkRange": 2}, // Guard
+
+  // Dwarven mine entrance
+  {"id": 1421, "x": 3035, "y": 3443, "walkRange": 8}, // Raccoon
+  {"id": 1419, "x": 3040, "y": 3449, "walkRange": 7}, // Raccoon
+  {"id": 290, "x": 3004, "y": 3449, "walkRange": 3}, // Dwarf
+  {"id": 290, "x": 3006, "y": 3452, "walkRange": 5}, // Dwarf
+  {"id": 1407, "x": 3009, "y": 3458, "walkRange": 3}, // Dwarf
+  {"id": 5185, "x": 3015, "y": 3458, "walkRange": 3}, // Guard
+  {"id": 5185, "x": 3018, "y": 3456, "walkRange": 3}, // Guard
+  {"id": 1408, "x": 3023, "y": 3458, "walkRange": 6}, // Dwarf
+  {"id": 5007, "x": 3043, "y": 3463, "walkRange": 0}, // Imp
+  {"id": 1405, "x": 3024, "y": 3462, "walkRange": 3}, // Dwarf
+  {"id": 290, "x": 3010, "y": 3433, "walkRange": 3}, // Dwarf
+  {"id": 5185, "x": 3025, "y": 3457, "walkRange": 5}, // Guard
+  {"id": 1415, "x": 3009, "y": 3441, "walkRange": 1}, // Engineer
+  {"id": 1400, "x": 3011, "y": 3453, "walkRange": 3}, // Nulodion
+  {"id": 1409, "x": 3010, "y": 3449, "walkRange": 3}, // Black Guard
+  {"id": 1413, "x": 3016, "y": 3447, "walkRange": 4}, // Engineering assistant
+  {"id": 290, "x": 3016, "y": 3435, "walkRange": 3}, // Dwarf
+  {"id": 1412, "x": 3020, "y": 3452, "walkRange": 3}, // Black Guard
+  {"id": 1410, "x": 3011, "y": 3450, "walkRange": 8}, // Black Guard
+  {"id": 1406, "x": 3029, "y": 3465, "walkRange": 5}, // Dwarf
+  {"id": 1401, "x": 3019, "y": 3452, "walkRange": 2}, // Dwarf
+  {"id": 1404, "x": 3015, "y": 3447, "walkRange": 5}, // Dwarf
+  {"id": 1403, "x": 3016, "y": 3447, "walkRange": 5}, // Dwarf
+  {"id": 1414, "x": 3016, "y": 3447, "walkRange": 4}, // Engineering assistant
+  {"id": 1411, "x": 3020, "y": 3452, "walkRange": 3}, // Black Guard
+  {"id": 290, "x": 3020, "y": 3439, "walkRange": 5}, // Dwarf
+  {"id": 1402, "x": 3022, "y": 3447, "walkRange": 1}, // Dwarf
+  {"id": 1417, "x": 3024, "y": 3435, "walkRange": 3}, // Squirrel
+  {"id": 290, "x": 3031, "y": 3446, "walkRange": 5}, // Dwarf
+  {"id": 3078, "x": 3006, "y": 3457, "walkRange": 5}, // Man
+  {"id": 1418, "x": 3029, "y": 3439, "walkRange": 8}, // Squirrel
+  {"id": 1416, "x": 3040, "y": 3440, "walkRange": 2}, // Squirrel
+  {"id": 1420, "x": 3035, "y": 3450, "walkRange": 5}, // Raccoon
+  {"id": 0, "x": 3053, "y": 3305, "direction": "N"}, // Tool Leprechaun
+  {"id": 2663, "x": 3053, "y": 3308, "walkRange": 2} // Elstan
+]

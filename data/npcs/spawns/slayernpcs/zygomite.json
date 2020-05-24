@@ -1,0 +1,8 @@
+[
+  {"id": 537, "x": 2490, "y": 4452, "walkRange": 4}, // Zygomite
+  {"id": 537, "x": 2481, "y": 4452, "walkRange": 3}, // Zygomite
+  {"id": 537, "x": 2479, "y": 4459, "walkRange": 4}, // Zygomite
+  {"id": 537, "x": 2474, "y": 4461, "walkRange": 5}, // Zygomite
+  {"id": 537, "x": 2479, "y": 4466, "walkRange": 5}, // Zygomite
+  {"id": 537, "x": 2465, "y": 4467, "walkRange": 4} // Zygomite
+]

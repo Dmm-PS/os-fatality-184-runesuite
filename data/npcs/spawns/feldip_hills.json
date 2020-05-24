@@ -1,0 +1,74 @@
+[
+  // Chin spot 1
+  {"id": 2911, "x": 2554, "y": 2935, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2558, "y": 2936, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2557, "y": 2939, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2551, "y": 2935, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2554, "y": 2928, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2557, "y": 2929, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2559, "y": 2934, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2564, "y": 2937, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2563, "y": 2941, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2567, "y": 2941, "walkRange": 5}, // Red chinchompa
+
+  // chins 2
+  {"id": 2911, "x": 2556, "y": 2918, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2560, "y": 2915, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2556, "y": 2911, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2552, "y": 2917, "walkRange": 5}, // Red chinchompa
+
+  // chins 3
+  {"id": 2911, "x": 2542, "y": 2922, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2538, "y": 2920, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2539, "y": 2915, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2542, "y": 2914, "walkRange": 5}, // Red chinchompa
+  {"id": 2911, "x": 2545, "y": 2916, "walkRange": 5}, // Red chinchompa
+
+  // Coastline 1
+  {"id": 5549, "x": 2612, "y": 2932, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2608, "y": 2931, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2605, "y": 2927, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2610, "y": 2926, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2609, "y": 2922, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2604, "y": 2922, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2607, "y": 2919, "walkRange": 5}, // Crimson swift
+
+  // Swift spot 2
+  {"id": 5549, "x": 2607, "y": 2903, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2612, "y": 2905, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2610, "y": 2899, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2608, "y": 2894, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2603, "y": 2895, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2601, "y": 2898, "walkRange": 5}, // Crimson swift
+  {"id": 5549, "x": 2602, "y": 2903, "walkRange": 5}, // Crimson swift
+
+  // Spot 1
+  {"id": 5548, "x": 2524, "y": 2938, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2528, "y": 2940, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2532, "y": 2936, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2528, "y": 2931, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2521, "y": 2933, "walkRange": 7}, // Wagtail
+
+  // Spot 2
+  {"id": 5548, "x": 2507, "y": 2914, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2513, "y": 2913, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2511, "y": 2908, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2506, "y": 2907, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2510, "y": 2910, "walkRange": 7}, // Wagtail
+
+  // Spot 3
+  {"id": 5548, "x": 2498, "y": 2890, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2504, "y": 2888, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2503, "y": 2884, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2508, "y": 2883, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2502, "y": 2888, "walkRange": 7}, // Wagtail
+
+  // Spot 4
+  {"id": 5548, "x": 2542, "y": 2892, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2547, "y": 2894, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2548, "y": 2888, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2544, "y": 2886, "walkRange": 7}, // Wagtail
+  {"id": 5548, "x": 2550, "y": 2892, "walkRange": 7}, // Wagtail
+
+  {"id": 1504, "x": 2525, "y": 2915, "walkRange": 3} // Hunting expert
+]

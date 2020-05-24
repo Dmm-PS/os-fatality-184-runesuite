@@ -1,0 +1,18 @@
+[
+  {"id": 6566, "x": 3717, "y": 5668, "direction": "W"}, // Runite Minor
+  {"id": 6565, "x": 3723, "y": 5679, "walkRange": 3},   // Miner
+  {"id": 6567, "x": 3726, "y": 5650, "walkRange": 3},   // Miner
+  {"id": 6645, "x": 3748, "y": 5690, "walkRange": 3},   // Miner
+  {"id": 6568, "x": 3748, "y": 5636, "walkRange": 3},   // Miner
+  {"id": 5781, "x": 3745, "y": 5666, "walkRange": 3},   // Baby Mole
+  {"id": 6572, "x": 3753, "y": 5687, "walkRange": 3},   // Miner
+  {"id": 6562, "x": 3756, "y": 5666, "walkRange": 1},   // Prospector Percy
+  {"id": 6569, "x": 3768, "y": 5647, "walkRange": 1},   // Miner
+  {"id": 6570, "x": 3766, "y": 5672, "walkRange": 1},   // Miner
+  {"id": 6571, "x": 3762, "y": 5686, "walkRange": 3},   // Miner
+  {"id": 5814, "x": 3745, "y": 5686, "walkRange": 2},   // Miner
+  {"id": 5562, "x": 3752, "y": 5677},				    // Mercy  
+  {"id": 5606, "x": 3760, "y": 5671, "walkRange": 1},   // Miner
+  {"id": 5813, "x": 3760, "y": 5672, "walkRange": 1},   // Miner
+  {"id": 7721, "x": 3720, "y": 5678, "walkRange": 1}    // Dwarf
+]

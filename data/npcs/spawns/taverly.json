@@ -1,0 +1,68 @@
+[
+  {"id": 3893, "x": 2951, "y": 3450, "walkRange": 1}, // Doric
+  {"id": 107, "x": 2872, "y": 3445, "walkRange": 0}, // White wolf
+  {"id": 2087, "x": 2825,	"y": 3507, "z": 0, "direction": "S", "walkRange": 3},
+	{"id": 108, "x": 2830, "y": 3513, "z": 0, "direction": "E", "walkRange": 3},
+	{"id": 108, "x": 2834, "y": 3512, "z": 0, "direction": "W", "walkRange": 3},
+	{"id": 110, "x": 2839, "y": 3498, "z": 0, "direction": "E", "walkRange": 2},
+	{"id": 110, "x": 2842, "y": 3496, "z": 0, "direction": "N", "walkRange": 3},
+	{"id": 110, "x": 2842, "y": 3496, "z": 0, "direction": "E", "walkRange": 3},
+	{"id": 109, "x": 2845, "y": 3497, "z": 0, "direction": "W", "walkRange": 3},
+	{"id": 110, "x": 2854, "y": 3510, "z": 0, "direction": "E", "walkRange": 2},
+	{"id": 110, "x": 2845, "y": 3499, "z": 0, "direction": "N", "walkRange": 2},
+	{"id": 107, "x": 2848, "y": 3478, "z": 0, "direction": "N", "walkRange": 4},
+	{"id": 107, "x": 2848, "y": 3472, "z": 0, "direction": "W", "walkRange": 3},
+	{"id": 6090, "x": 2847, "y": 3499, "z": 0, "direction": "S", "walkRange": 3},
+	{"id": 2841, "x": 2849,	"y": 3513, "z": 0, "direction": "S", "walkRange": 4},
+	{"id": 108, "x": 2847, "y": 3488, "z": 0, "direction": "E", "walkRange": 2},
+	{"id": 108, "x": 2849, "y": 3483, "z": 0, "direction": "W", "walkRange": 4},
+	{"id": 2841, "x": 2848,	"y": 3515, "z": 0, "direction": "E", "walkRange": 2},
+	{"id": 108, "x": 2855, "y": 3508, "z": 0, "direction": "N", "walkRange": 3},
+	{"id": 108, "x": 2857, "y": 3510, "z": 0, "direction": "W", "walkRange": 2},
+	{"id": 107, "x": 2860, "y": 3491, "z": 0, "direction": "N", "walkRange": 3},
+	{"id": 6274, "x": 2861,	"y": 3510, "z": 0, "direction": "S", "walkRange": 3},
+	{"id": 107, "x": 2867,	"y": 3499, "z": 0, "direction": "S", "walkRange": 3},
+	{"id": 4077, "x": 2874,	"y": 3483, "z": 0, "direction": "N", "walkRange": 3},
+  {"id": 1416, "x": 2963, "y": 3451, "walkRange": 3}, // Squirrel
+  {"id": 3283, "x": 2968, "y": 3452, "walkRange": 3}, // Guard
+  {"id": 1417, "x": 2966, "y": 3443, "walkRange": 6}, // Squirrel
+  {"id": 1419, "x": 2967, "y": 3447, "walkRange": 5}, // Raccoon
+  {"id": 1420, "x": 2969, "y": 3448, "walkRange": 4}, // Raccoon
+  {"id": 3098, "x": 2884, "y": 3432, "walkRange": 3}, // Druid
+  {"id": 3098, "x": 2884, "y": 3433, "walkRange": 4}, // Druid
+  {"id": 3098, "x": 2885, "y": 3418, "walkRange": 5}, // Druid
+  {"id": 3995, "x": 2917, "y": 3463, "walkRange": 13}, // Nora T. Hagg
+  {"id": 7798, "x": 2884, "y": 3450, "walkRange": 2}, // Gaius
+  {"id": 3098, "x": 2919, "y": 3486, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2888, "y": 3440, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2889, "y": 3448, "walkRange": 5}, // Druid
+  {"id": 5045, "x": 2924, "y": 3486, "walkRange": 5}, // Kaqemeex
+  {"id": 3098, "x": 2890, "y": 3435, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2925, "y": 3479, "walkRange": 5}, // Druid
+  {"id": 5118, "x": 2891, "y": 3454, "walkRange": 2}, // Sylas
+  {"id": 3098, "x": 2893, "y": 3419, "walkRange": 5}, // Druid
+  {"id": 3994, "x": 2928, "y": 3456, "walkRange": 1}, // Boy
+  {"id": 3098, "x": 2928, "y": 3490, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2893, "y": 3440, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2929, "y": 3484, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2896, "y": 3442, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2930, "y": 3480, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2897, "y": 3428, "walkRange": 3}, // Druid
+  {"id": 3098, "x": 2897, "y": 3436, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2899, "y": 3418, "walkRange": 4}, // Druid
+  {"id": 8532, "x": 2898, "y": 3428, "walkRange": 4}, // Jatix
+  {"id": 4077, "x": 2876, "y": 3484, "walkRange": 1}, // Austri
+  {"id": 3098, "x": 2901, "y": 3449, "walkRange": 4}, // Druid
+  {"id": 3098, "x": 2902, "y": 3449, "walkRange": 5}, // Druid
+  {"id": 3098, "x": 2905, "y": 3440, "walkRange": 4}, // Druid
+  {"id": 4766, "x": 2913, "y": 3417, "walkRange": 0}, // Tegid
+  {"id": 3098, "x": 2911, "y": 3449, "walkRange": 3}, // Druid
+  {"id": 4113, "x": 2903, "y": 3421, "walkRange": 24}, // Bob
+  {"id": 3098, "x": 2915, "y": 3446, "walkRange": 4}, // Druid
+  {"id": 3530, "x": 2924, "y": 3405, "walkRange": 1}, // The Lady of the Lake
+  {"id": 2678, "x": 2934, "y": 3439, "walkRange": 3}, // Alain
+  {"id": 0, "x": 2934, "y": 3442, "walkRange": 0}, // Tool Leprechaun
+  {"id": 5007, "x": 2928, "y": 3492, "walkRange": 6}, // Imp
+  {"id": 2839, "x": 2966, "y": 3453, "walkRange": 4}, // Black bear
+  {"id": 5122, "x": 2966, "y": 3466, "walkRange": 0} // Drain pipe
+]

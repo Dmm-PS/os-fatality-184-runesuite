@@ -1,0 +1,21 @@
+{
+  "name": "TzHaar-Hur-Zal's Equipment Store",
+  "currency": "TOKKUL",
+  "ironman": true,
+  "npcs": [
+    { "id": 7688, "option": "trade" }
+  ],
+  "items": [
+    {"id": 6522, price: 375},      // Toktz-xil-ul
+    {"id": 6523, price: 60000},    // Toktz-xil-ak
+	  {"id": 6524, price: 67500},    // Toktz-ket-xil
+    {"id": 6525, price: 37500},    // Toktz-xil-ek
+    {"id": 6526, price: 52500},    // Toktz-mej-tal
+    {"id": 6527, price: 45000},    // Tzhaar-ket-em
+    {"id": 6528, price: 75000},    // Tzhaar-ket-em
+    {"id": 6568, price: 90000},    // Obsidian cape
+    {"id": 21298, price: 84480},   // Obsidian helmet
+    {"id": 21301, price: 126000},  // Obsidian platebody
+    {"id": 21304, price: 100500}   // Obsidian platelegs
+  ]
+}

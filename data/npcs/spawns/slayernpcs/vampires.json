@@ -1,0 +1,8 @@
+[
+  {"id": 3237, "x": 3452, "y": 3217, "walkRange": 4}, // Vampire
+  {"id": 3237, "x": 3460, "y": 3240, "walkRange": 3}, // Vampire
+  {"id": 3237, "x": 3451, "y": 3227, "walkRange": 4}, // Vampire
+  {"id": 3237, "x": 3452, "y": 3226, "walkRange": 5}, // Vampire
+  {"id": 3237, "x": 3451, "y": 3228, "walkRange": 5}, // Vampire
+  {"id": 3237, "x": 3457, "y": 3233, "walkRange": 4} // Vampire
+]

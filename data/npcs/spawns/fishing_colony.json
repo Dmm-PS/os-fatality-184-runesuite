@@ -1,0 +1,19 @@
+[
+  {"id": 4294, "x": 2313, "y": 3686, "walkRange": 5}, // Devin Mendelberg
+  {"id": 4319, "x": 2318, "y": 3684, "walkRange": 3}, // Skeleton Mage
+  {"id": 4319, "x": 2318, "y": 3687, "walkRange": 2}, // Skeleton Mage
+  {"id": 4319, "x": 2318, "y": 3686, "walkRange": 2}, // Skeleton Mage
+  {"id": 4319, "x": 2319, "y": 3687, "walkRange": 2}, // Skeleton Mage
+  {"id": 4319, "x": 2318, "y": 3679, "walkRange": 2}, // Skeleton Mage
+  {"id": 4319, "x": 2319, "y": 3685, "walkRange": 3}, // Skeleton Mage
+  {"id": 4319, "x": 2319, "y": 3687, "walkRange": 2}, // Skeleton Mage
+  {"id": 4319, "x": 2326, "y": 3669, "walkRange": 2}, // Skeleton Mage
+  {"id": 4293, "x": 2329, "y": 3689, "walkRange": 3}, // Arnold Lydspor
+  {"id": 4319, "x": 2329, "y": 3668, "walkRange": 3}, // Skeleton Mage
+  {"id": 4319, "x": 2329, "y": 3668, "walkRange": 3}, // Skeleton Mage
+  {"id": 4319, "x": 2331, "y": 3668, "walkRange": 2}, // Skeleton Mage
+  {"id": 4292, "x": 2343, "y": 3667, "walkRange": 2}, // Franklin Caranos
+  {"id": 4296, "x": 2342, "y": 3676, "walkRange": 4}, // Ramara du Croissant
+  {"id": 3365, "x": 2353, "y": 3683, "walkRange": 0}, // null
+  {"id": 4291, "x": 2354, "y": 3683, "walkRange": 0} // Herman Caranos
+]

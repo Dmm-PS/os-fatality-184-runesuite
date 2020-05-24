@@ -1,0 +1,24 @@
+{
+  "name": "Battle Runes",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 2581, "option": "trade" }
+  ],
+  "items": [
+    { "id": 554 }, // Fire rune
+    { "id": 555 }, // Water rune
+    { "id": 556 }, // Air rune
+    { "id": 557 }, // Earth rune
+    { "id": 558 }, // Mind rune
+    { "id": 562 }, // Chaos rune
+    { "id": 560 }, // Death rune
+    { "id": 565 }, // Blood rune
+    { "id": 12734 }, // Fire rune pack
+    { "id": 12730 }, // Water rune pack
+    { "id": 12728 }, // Air rune pack
+    { "id": 12732 }, // Earth rune pack
+    { "id": 12736 }, // Mind rune pack
+    { "id": 12738 }  // Chaos rune pack
+  ]
+}

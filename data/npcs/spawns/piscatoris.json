@@ -1,0 +1,29 @@
+[
+  {"id": 2910, "x": 2339, "y": 3591, "walkRange": 5}, // Grey chinchompa
+  {"id": 2910, "x": 2344, "y": 3591, "walkRange": 5}, // Grey chinchompa
+  {"id": 2910, "x": 2349, "y": 3591, "walkRange": 5}, // Grey chinchompa
+  {"id": 2910, "x": 2340, "y": 3594, "walkRange": 5}, // Grey chinchompa
+  {"id": 2910, "x": 2340, "y": 3598, "walkRange": 5}, // Grey chinchompa
+  {"id": 2910, "x": 2344, "y": 3595, "walkRange": 5}, // Grey chinchompa
+  {"id": 2910, "x": 2344, "y": 3599, "walkRange": 5}, // Grey chinchompa
+
+
+  {"id": 5552, "x": 2344, "y": 3591, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2340, "y": 3594, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2346, "y": 3595, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2341, "y": 3600, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2346, "y": 3607, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2343, "y": 3611, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2347, "y": 3614, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2352, "y": 3610, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2345, "y": 3618, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2351, "y": 3582, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2351, "y": 3582, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2346, "y": 3584, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2354, "y": 3585, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2350, "y": 3588, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2356, "y": 3575, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2357, "y": 3581, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2361, "y": 3584, "walkRange": 5}, // Longtails
+  {"id": 5552, "x": 2361, "y": 3573, "walkRange": 5} // Longtails
+]

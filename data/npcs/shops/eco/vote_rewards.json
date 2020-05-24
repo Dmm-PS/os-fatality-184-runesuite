@@ -1,0 +1,63 @@
+{
+  "name": "Voting Rewards",
+  "currency": "VOTE_TICKETS",
+  "ironman": true,
+  "npcs": [
+    { "id": 1815, "option": "trade" }
+  ],
+  "items": [
+    { "id": 989, "price": 4 }, //Crystal key
+    { "id": 19564, "price": 25 }, //Royal seed pod
+    { "id": 13071, "price": 100 }, //Chompy chick
+    { "id": 11738, "price": 5 }, //Herb box
+    { "id": 19473, "price": 5 }, //Bag of gems
+    { "id": 11941, "price": 100 }, //Looting bag
+    { "id": 12791, "price": 50 }, //Rune pouch
+    { "id": 12846, "price": 100 }, //Bounty teleport scroll
+    { "id": 1505, "price": 100 }, //Obelisk destination scroll
+    { "id": 21295, "price": 1400 }, //Infernal Cape
+    { "id": 6758, "price": 8 }, //Bonus XP scroll
+    { "id": 608, "price": 8 }, //Pet drop scroll
+    { "id": 607, "price": 8 }, //Rare drop scroll
+    { "id": 12637, "price": 250 }, //Saradomin halo
+    { "id": 12638, "price": 250 }, //Guthix halo
+    { "id": 12639, "price": 250 }, //Zamorak halo
+    { "id": 20017, "price": 400 }, //Ring of coins
+    { "id": 20005, "price": 400 }, //Ring of nature
+    { "id": 12538, "price": 150 }, //Dragon full helm ornament kit
+    { "id": 12534, "price": 150 }, //Dragon chainbody ornament kit
+    { "id": 12536, "price": 150 }, //Dragon legs/skirt ornament kit
+    { "id": 12532, "price": 150 }, //Dragon sq shield ornament kit
+    { "id": 20002, "price": 150 }, //Dragon scimitar ornament kit
+    { "id": 20143, "price": 150 }, //Dragon defender ornament kit
+    { "id": 22231, "price": 150 }, //Dragon boots ornament kit
+    { "id": 20068, "price": 150 }, //Armadyl godsword ornament kit
+    { "id": 20071, "price": 150 }, //Bandos godsword ornament kit
+    { "id": 20077, "price": 150 }, //Zamorak godsword ornament kit
+    { "id": 20074, "price": 150 }, //Saradomin godsword ornament kit
+    { "id": 12528, "price": 150 }, //Dark infinity colour kit
+    { "id": 12530, "price": 150 }, //Light infinity colour kit
+    { "id": 12526, "price": 150 }, //Fury ornament kit
+    { "id": 20062, "price": 150 }, //Torture ornament kit
+    { "id": 22246, "price": 150 }, //Anguish ornament kit
+    { "id": 20065, "price": 150 }, //Occult ornament kit
+    { "id": 12798, "price": 150 }, //Steam staff upgrade kit
+    { "id": 21202, "price": 150 }, //Lava staff upgrade kit
+    { "id": 12802, "price": 50 }, //Ward upgrade kit
+    { "id": 12849, "price": 150 }, //Granite clamp
+    { "id": 12804, "price": 150 }, //Saradomin's tear
+    { "id": 13256, "price": 150 }, //Saradomin's Light
+    { "id": 12759, "price": 150 }, //Green dark bow paint
+    { "id": 12761, "price": 150 }, //Yellow dark bow paint
+    { "id": 12763, "price": 150 }, //White dark bow paint
+    { "id": 12757, "price": 150 }, //Blue dark bow paint
+    { "id": 12771, "price": 50 }, //Volcanic whip mix
+    { "id": 12769, "price": 50 }, //Frozen whip mix
+    { "id": 6109, "price": 9}, //Ghostly robe hood
+    { "id": 6111, "price": 9}, //Ghostly cloak
+    { "id": 6107, "price": 9}, //Ghostly robe top
+    { "id": 6108, "price": 9}, //Ghostly robe bottom
+    { "id": 6110, "price": 9}, //Ghostly gloves
+    { "id": 6106, "price": 9} //Ghostly robe boots
+]
+}

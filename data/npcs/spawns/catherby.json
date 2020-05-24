@@ -1,0 +1,91 @@
+[
+  {"id": 3901, "x": 2736, "y": 3593, "walkRange": 1}, // Fox
+  {"id": 2854, "x": 2725, "y": 3580, "walkRange": 4}, // Rat
+  {"id": 2854, "x": 2732, "y": 3574, "walkRange": 8}, // Rat
+  {"id": 2854, "x": 2731, "y": 3576, "walkRange": 6}, // Rat
+  {"id": 2854, "x": 2733, "y": 3571, "walkRange": 8}, // Rat
+  {"id": 2854, "x": 2732, "y": 3569, "walkRange": 10}, // Rat
+  {"id": 4217, "x": 2729, "y": 3577, "walkRange": 3}, // Stanford
+  {"id": 2805, "x": 2733, "y": 3561, "walkRange": 5}, // Cow
+  {"id": 6195, "x": 2734, "y": 3575, "walkRange": 0}, // Anna
+  {"id": 4215, "x": 2736, "y": 3578, "walkRange": 2}, // Louisa
+  {"id": 510, "x": 2737, "y": 3520, "walkRange": 11}, // Highwayman
+  {"id": 2692, "x": 2734, "y": 3559, "walkRange": 4}, // Chicken
+  {"id": 2692, "x": 2735, "y": 3562, "walkRange": 5}, // Chicken
+  {"id": 4214, "x": 2738, "y": 3576, "walkRange": 3}, // Hobbes
+  {"id": 2693, "x": 2736, "y": 3560, "walkRange": 5}, // Chicken
+  {"id": 6194, "x": 2739, "y": 3577, "walkRange": 0}, // Guard
+  {"id": 6198, "x": 2739, "y": 3581, "walkRange": 0}, // David
+  {"id": 4218, "x": 2741, "y": 3562, "walkRange": 5}, // Guard
+  {"id": 4219, "x": 2741, "y": 3556, "walkRange": 4}, // Gossip
+  {"id": 6200, "x": 2742, "y": 3577, "walkRange": 0}, // Frank
+  {"id": 6196, "x": 2748, "y": 3559, "walkRange": 0}, // Bob
+  {"id": 510, "x": 2749, "y": 3525, "walkRange": 5}, // Highwayman
+  {"id": 4213, "x": 2749, "y": 3576, "walkRange": 5}, // Pierre
+  {"id": 4228, "x": 2749, "y": 3580, "walkRange": 2}, // Sinclair Guard dog
+  {"id": 3084, "x": 2690, "y": 3489, "walkRange": 4}, // Woman
+  {"id": 1318, "x": 2690, "y": 3493, "walkRange": 2}, // Bartender
+  {"id": 3083, "x": 2692, "y": 3494, "walkRange": 3}, // Woman
+  {"id": 3079, "x": 2692, "y": 3488, "walkRange": 4}, // Man
+  {"id": 3078, "x": 2694, "y": 3495, "walkRange": 4}, // Man
+  {"id": 2834, "x": 2752, "y": 3408, "walkRange": 7}, // Giant bat
+  {"id": 4227, "x": 2696, "y": 3494, "walkRange": 4}, // Poison Salesman
+  {"id": 2834, "x": 2752, "y": 3395, "walkRange": 7}, // Giant bat
+  {"id": 3083, "x": 2695, "y": 3495, "walkRange": 4}, // Woman
+  {"id": 2834, "x": 2757, "y": 3402, "walkRange": 5}, // Giant bat
+  {"id": 3083, "x": 2696, "y": 3496, "walkRange": 3}, // Woman
+  {"id": 3517, "x": 2766, "y": 3398, "walkRange": 3}, // Renegade Knight
+  {"id": 3080, "x": 2698, "y": 3491, "walkRange": 5}, // Man
+  {"id": 3517, "x": 2767, "y": 3399, "walkRange": 4}, // Renegade Knight
+  {"id": 3084, "x": 2698, "y": 3496, "walkRange": 1}, // Woman
+  {"id": 3517, "x": 2771, "y": 3400, "walkRange": 4}, // Renegade Knight
+  {"id": 5231, "x": 2702, "y": 3474, "walkRange": 5}, // Seer
+  {"id": 3199, "x": 2799, "y": 3439, "walkRange": 2}, // Candle maker
+  {"id": 5231, "x": 2705, "y": 3473, "walkRange": 4}, // Seer
+  {"id": 3078, "x": 2802, "y": 3433, "walkRange": 4}, // Man
+  {"id": 1357, "x": 2702, "y": 3473, "walkRange": 2}, // Phantuwti Fanstuwi Farsight
+  {"id": 3078, "x": 2713, "y": 3480, "walkRange": 4}, // Man
+  {"id": 1027, "x": 2807, "y": 3443, "walkRange": 0}, // Banker
+  {"id": 5231, "x": 2715, "y": 3471, "walkRange": 4}, // Seer
+  {"id": 5231, "x": 2715, "y": 3486, "walkRange": 4}, // Seer
+  {"id": 1028, "x": 2809, "y": 3443, "direction": "S"}, // Banker
+  {"id": 1027, "x": 2721, "y": 3495, "direction": "S"}, // Banker
+  {"id": 6560, "x": 2810, "y": 3443, "direction": "S"}, // Banker
+  {"id": 1028, "x": 2722, "y": 3495, "direction": "S"}, // Banker
+  {"id": 1028, "x": 2811, "y": 3443, "direction": "S"}, // Banker
+  {"id": 1027, "x": 2724, "y": 3495, "direction": "S"}, // Banker
+  {"id": 1028, "x": 2726, "y": 3496, "direction": "S"}, // Banker
+  {"id": 1028, "x": 2727, "y": 3495, "direction": "S"}, // Banker
+  {"id": 6560, "x": 2728, "y": 3495, "direction": "S"}, // Banker
+  {"id": 1331, "x": 2797, "y": 3414, "walkRange": 1}, // Trader Crewmember
+  {"id": 1027, "x": 2729, "y": 3495, "direction": "S"}, // Banker
+  {"id": 1334, "x": 2799, "y": 3414, "walkRange": 1}, // Trader Crewmember
+  {"id": 1028, "x": 2729, "y": 3496, "direction": "S"}, // Banker
+  {"id": 3200, "x": 2803, "y": 3430, "walkRange": 0}, // Arhein
+  {"id": 5419, "x": 2737, "y": 3501, "walkRange": 2}, // Estate agent
+  {"id": 3078, "x": 2805, "y": 3429, "walkRange": 4}, // Man
+  {"id": 280, "x": 2739, "y": 3480, "walkRange": 3}, // Town crier
+  {"id": 4335, "x": 2735, "y": 3469, "walkRange": 3}, // Guard
+  {"id": 4336, "x": 2735, "y": 3469, "walkRange": 3}, // Guard
+  {"id": 2837, "x": 2709, "y": 3450, "walkRange": 0}, // Unicorn
+  {"id": 5522, "x": 2743, "y": 3445, "walkRange": 2}, // Flax keeper
+  {"id": 3080, "x": 2817, "y": 3442, "walkRange": 5}, // Man
+  {"id": 3084, "x": 2820, "y": 3443, "walkRange": 4}, // Woman
+  {"id": 4986, "x": 2817, "y": 3452, "walkRange": 2}, // Caleb
+  {"id": 3212, "x": 2823, "y": 3443, "walkRange": 2}, // Hickton
+  {"id": 3213, "x": 2834, "y": 3443, "walkRange": 3}, // Harry
+  {"id": 2670, "x": 2859, "y": 3430, "walkRange": 3}, // Ellena
+  {"id": 0, "x": 2856, "y": 3435, "walkRange": 0}, // Tool Leprechaun
+  {"id": 502, "x": 2820, "y": 3461, "walkRange": 0}, // Vanessa
+  {"id": 4078, "x": 2820, "y": 3486, "walkRange": 4}, // Vestri
+  {"id": 106, "x": 2653, "y": 3586, "walkRange": 3}, // Wolf
+  {"id": 3921, "x": 2655, "y": 3591, "walkRange": 1}, // Council workman
+  {"id": 3526, "x": 2752, "y": 3509, "walkRange": 5}, // Sir Palomedes
+  {"id": 3525, "x": 2754, "y": 3515, "walkRange": 1}, // Sir Lucan
+  {"id": 5517, "x": 2760, "y": 3476, "walkRange": 3}, // The 'Wedge'
+  {"id": 2837, "x": 2778, "y": 3470, "walkRange": 8}, // Unicorn
+  {"id": 2837, "x": 2793, "y": 3463, "walkRange": 4}, // Unicorn
+  {"id": 2664, "x": 2809, "y": 3465, "walkRange": 2}, // Dantaera
+  {"id": 0, "x": 2815, "y": 3466, "walkRange": 0}, // Tool Leprechaun
+  {"id": 382, "x": 2683, "y": 3484, "walkRange": 3} // Tramp
+]

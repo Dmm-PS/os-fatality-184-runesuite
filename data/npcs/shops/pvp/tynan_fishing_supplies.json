@@ -1,0 +1,20 @@
+{
+  "name": "Tynan's Fishing Supplies",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 6964, "option": "trade" }
+  ],
+  "items": [
+    {"id": 1925, "price": 20},   // Bucket
+    {"id": 303, "price": 20}, // Small fishing net
+	{"id": 305, "price": 20},   // Big fishing net
+    {"id": 307, "price": 20}, // Fishing rod
+    {"id": 311, "price": 20},   // Harpoon
+    {"id": 301, "price": 20}, // Loboster pot
+    {"id": 313, "price": 20},   // Fishing bait
+    {"id": 13431, "price": 60}, // Sand worms
+    {"id": 11883, "price": 300},   // Bait pack
+    {"id": 13432, "price": 600} // Worms pack
+  ]
+}

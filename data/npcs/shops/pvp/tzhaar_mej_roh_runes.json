@@ -1,0 +1,18 @@
+{
+  "name": "TzHaar-Mej-Roh's Rune Store",
+  "currency": "TOKKUL",
+  "ironman": true,
+  "npcs": [
+    { "id": 2185, "option": "trade" }
+  ],
+  "items": [
+    {"id": 554, price: 6},      // Fire rune
+    {"id": 555, price: 6},    // Water rune
+	  {"id": 556, price: 6},    // Air rune
+    {"id": 557, price: 6},    // Earth rune
+    {"id": 558, price: 4},    // Mind rune
+    {"id": 559, price: 4},    // Body rune
+    {"id": 562, price: 45},    // Chaos rune
+    {"id": 560, price: 252}    // Death rune
+  ]
+}

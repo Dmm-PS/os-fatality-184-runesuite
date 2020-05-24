@@ -1,0 +1,8 @@
+[
+  {"id": 291, "x": 3243, "y": 3796, "walkRange": 4}, // Chaos Dwarf
+  {"id": 291, "x": 3248, "y": 3796, "walkRange": 3}, // Chaos Dwarf
+  {"id": 291, "x": 3246, "y": 3793, "walkRange": 4}, // Chaos Dwarf
+  {"id": 291, "x": 3244, "y": 3791, "walkRange": 5}, // Chaos Dwarf
+  {"id": 291, "x": 3246, "y": 3789, "walkRange": 5}, // Chaos Dwarf
+  {"id": 291, "x": 3242, "y": 3787, "walkRange": 4} // Chaos Dwarf
+]

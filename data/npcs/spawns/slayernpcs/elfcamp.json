@@ -1,0 +1,15 @@
+[
+  {"id": 3429, "x": 2192, "y": 3249, "walkRange": 3}, // Elf warrior melee
+  {"id": 3429, "x": 2199, "y": 3255, "walkRange": 3}, // Elf warrior melee
+  {"id": 3429, "x": 2206, "y": 3258, "walkRange": 3}, // Elf warrior melee
+  {"id": 3429, "x": 2202, "y": 3251, "walkRange": 3}, // Elf warrior melee
+  {"id": 3429, "x": 2205, "y": 3253, "walkRange": 3}, // Elf warrior melee
+  {"id": 3429, "x": 2207, "y": 3251, "walkRange": 3}, // Elf warrior melee
+  {"id": 3429, "x": 2202, "y": 3259, "walkRange": 3}, // Elf warrior melee
+  {"id": 3429, "x": 2193, "y": 3254, "walkRange": 3}, // Elf warrior melee
+  {"id": 3428, "x": 2194, "y": 3252, "walkRange": 3}, // Elf warrior Ranger
+  {"id": 3428, "x": 2204, "y": 3253, "walkRange": 6}, // Elf warrior Ranger
+  {"id": 3428, "x": 2210, "y": 3262, "walkRange": 6}, // Elf warrior Ranger
+  {"id": 3428, "x": 2197, "y": 3259, "walkRange": 6} // Elf warrior Ranger
+]
+

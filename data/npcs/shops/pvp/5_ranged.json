@@ -1,0 +1,30 @@
+{
+  "name": "Blood Money Ranged Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 5051, "option": "ranged" }
+  ],
+  "items": [
+    { "id": 19478, "price": 750 }, //Light ballista
+    { "id": 4732, "price": 100 }, //Karil's coif
+    { "id": 4736, "price": 150 }, //Karil's leathertop
+    { "id": 4738, "price": 100 }, //Karil's leatherskirt
+    { "id": 4734, "price": 100 }, //Karil's crossbow
+    { "id": 19481, "price": 2000 }, //Heavy ballista
+    { "id": 21902, "price": 1200 }, //Dragon crossbow
+    { "id": 11235, "price": 450 }, //Dark bow
+    { "id": 11230, "price": 3 }, //Dragon dart
+    { "id": 2581, "price": 500 }, //Robin hood hat
+    { "id": 2577, "price": 750 }, //Ranger boots
+    { "id": 12596, "price": 500 }, //Rangers' tunic
+    { "id": 19994, "price": 250 }, //Ranger gloves
+    { "id": 11926, "price": 500 }, //Odium ward
+    { "id": 6522, "price": 5 }, //Toktz-xil-ul
+    { "id": 21326, "price": 3 }, //Amethyst arrow
+    { "id": 11212, "price": 5 }, //Dragon arrow
+    { "id": 19484, "price": 10 }, //Dragon javelin
+    { "id": 20849, "price": 15 }, //Dragon thrownaxe
+    { "id": 22804, "price": 15 } //Dragon knife
+  ]
+}

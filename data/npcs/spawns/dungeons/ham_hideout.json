@@ -1,0 +1,68 @@
+[
+  {"id": 2540, "x": 3160, "y": 9638, "walkRange": 10}, // H.A.M member
+  {"id": 2541, "x": 3161, "y": 9633, "walkRange": 10}, // H.A.M member
+  {"id": 2540, "x": 3158, "y": 9630, "walkRange": 10}, // H.A.M member
+  {"id": 2541, "x": 3161, "y": 9627, "walkRange": 10}, // H.A.M member
+  {"id": 2540, "x": 3163, "y": 9624, "walkRange": 10}, // H.A.M member
+  {"id": 2541, "x": 3168, "y": 9626, "walkRange": 10}, // H.A.M member
+  {"id": 2540, "x": 3171, "y": 9628, "walkRange": 10}, // H.A.M member
+  {"id": 2541, "x": 3171, "y": 9632, "walkRange": 10}, // H.A.M member
+  {"id": 2540, "x": 3174, "y": 9635, "walkRange": 10}, // H.A.M member
+  {"id": 2541, "x": 3170, "y": 9637, "walkRange": 10}, // H.A.M member
+  {"id": 2540, "x": 3166, "y": 9637, "walkRange": 10}, // H.A.M member
+  {"id": 2541, "x": 3165, "y": 9634, "walkRange": 10}, // H.A.M member
+  {"id": 2540, "x": 3167, "y": 9632, "walkRange": 10}, // H.A.M member
+  {"id": 2541, "x": 3164, "y": 9630, "walkRange": 10}, // H.A.M member
+  {"id": 2538, "x": 3160, "y": 9630, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3160, "y": 9634, "walkRange": 4}, // H.A.M Guard
+  {"id": 2538, "x": 3165, "y": 9637, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3170, "y": 9635, "walkRange": 4}, // H.A.M Guard
+  {"id": 2538, "x": 3174, "y": 9631, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3170, "y": 9630, "walkRange": 4}, // H.A.M Guard
+  {"id": 2538, "x": 3168, "y": 9624, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3163, "y": 9624, "walkRange": 4}, // H.A.M Guard
+  {"id": 2537, "x": 3159, "y": 9618, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3161, "y": 9618, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3162, "y": 9615, "walkRange": 4}, // H.A.M Guard
+  {"id": 2540, "x": 3159, "y": 9614, "walkRange": 4}, // H.A.M Member
+  {"id": 2541, "x": 3158, "y": 9611, "walkRange": 4}, // H.A.M Member
+  {"id": 2540, "x": 3161, "y": 9613, "walkRange": 4}, // H.A.M Member
+  {"id": 2540, "x": 3159, "y": 9616, "walkRange": 4}, // H.A.M Member
+  {"id": 2537, "x": 3154, "y": 9628, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3152, "y": 9627, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3151, "y": 9621, "walkRange": 4}, // H.A.M Guard
+  {"id": 2540, "x": 3149, "y": 9623, "walkRange": 4}, // H.A.M Member
+  {"id": 2540, "x": 3148, "y": 9620, "walkRange": 4}, // H.A.M Member
+  {"id": 2540, "x": 3146, "y": 9620, "walkRange": 4}, // H.A.M Member
+  {"id": 2541, "x": 3144, "y": 9617, "walkRange": 4}, // H.A.M Member
+  {"id": 2537, "x": 3176, "y": 9617, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3179, "y": 9612, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3179, "y": 9616, "walkRange": 4}, // H.A.M Guard
+  {"id": 1361, "x": 3185, "y": 9610, "walkRange": 8}, // Jimmy
+  {"id": 2535, "x": 3173, "y": 9617, "walkRange": 8}, // Johanus
+  {"id": 2537, "x": 3174, "y": 9643, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3177, "y": 9645, "walkRange": 4}, // H.A.M Guard
+  {"id": 2536, "x": 3174, "y": 9646, "walkRange": 4}, // H.A.M Guard
+  {"id": 2540, "x": 3171, "y": 9646, "walkRange": 4}, // H.A.M Member
+  {"id": 2541, "x": 3172, "y": 9651, "walkRange": 4}, // H.A.M Member
+  {"id": 2540, "x": 3173, "y": 9651, "walkRange": 4}, // H.A.M Member
+  {"id": 2541, "x": 3171, "y": 9651, "walkRange": 4}, // H.A.M Member
+  {"id": 2541, "x": 3183, "y": 9629, "walkRange": 4}, // H.A.M Member
+  {"id": 2540, "x": 3183, "y": 9633, "walkRange": 4}, // H.A.M Member
+  {"id": 2541, "x": 3177, "y": 9630, "walkRange": 4}, // H.A.M Member
+  {"id": 2537, "x": 3155, "y": 9644, "walkRange": 4}, // H.A.M Guard
+  {"id": 2538, "x": 3153, "y": 9649, "walkRange": 4}, // H.A.M Guard
+  {"id": 2537, "x": 3149, "y": 9648, "walkRange": 4}, // H.A.M Guard
+  {"id": 2543, "x": 3162, "y": 9635, "direction": "S"}, // H.A.M member Sitting
+  {"id": 2543, "x": 3162, "y": 9633, "direction": "S"}, // H.A.M member Sitting
+  {"id": 2543, "x": 3164, "y": 9633, "direction": "S"}, // H.A.M member Sitting
+  {"id": 2543, "x": 3164, "y": 9631, "direction": "S"}, // H.A.M member Sitting
+  {"id": 2543, "x": 3166, "y": 9631, "direction": "S"}, // H.A.M member Sitting
+  {"id": 2543, "x": 3167, "y": 9633, "direction": "S"}, // H.A.M member Sitting
+  {"id": 2539, "x": 3165, "y": 9629, "direction": "S"}, // H.A.M Deacon
+  {"id": 2542, "x": 3151, "y": 9625, "direction": "E"}, // H.A.M member Sitting by fire
+  {"id": 2542, "x": 3153, "y": 9625, "direction": "W"}, // H.A.M member Sitting by fire
+  {"id": 2542, "x": 3181, "y": 9632, "direction": "S"}, // H.A.M member Sitting by fire
+  {"id": 2542, "x": 3182, "y": 9631, "direction": "W"}, // H.A.M member Sitting by fire
+  {"id": 2542, "x": 3180, "y": 9630, "direction": "NE"} // H.A.M member Sitting by fire
+]

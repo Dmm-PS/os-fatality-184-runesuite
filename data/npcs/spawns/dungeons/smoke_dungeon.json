@@ -1,0 +1,80 @@
+[
+  {"id": 720, "x": 3213, "y": 9334, "walkRange": 1}, // Mummy
+  {"id": 720, "x": 3205, "y": 9334, "walkRange": 0}, // Mummy
+  {"id": 722, "x": 3208, "y": 9334, "walkRange": 3}, // Mummy
+  {"id": 720, "x": 3219, "y": 9334, "walkRange": 11}, // Mummy
+  {"id": 433, "x": 3266, "y": 9398, "walkRange": 3}, // Pyrefiend
+  {"id": 1365, "x": 3271, "y": 9358, "walkRange": 3}, // Fire elemental
+  {"id": 1365, "x": 3272, "y": 9362, "walkRange": 2}, // Fire elemental
+  {"id": 433, "x": 3271, "y": 9381, "walkRange": 3}, // Pyrefiend
+  {"id": 1365, "x": 3271, "y": 9383, "walkRange": 4}, // Fire elemental
+  {"id": 435, "x": 3272, "y": 9358, "walkRange": 4}, // Pyrefiend
+  {"id": 433, "x": 3272, "y": 9387, "walkRange": 4}, // Pyrefiend
+  {"id": 435, "x": 3275, "y": 9366, "walkRange": 2}, // Pyrefiend
+  {"id": 434, "x": 3274, "y": 9395, "walkRange": 3}, // Pyrefiend
+  {"id": 434, "x": 3274, "y": 9389, "walkRange": 3}, // Pyrefiend
+  {"id": 435, "x": 3278, "y": 9354, "walkRange": 3}, // Pyrefiend
+  {"id": 434, "x": 3279, "y": 9376, "walkRange": 5}, // Pyrefiend
+  {"id": 435, "x": 3279, "y": 9368, "walkRange": 3}, // Pyrefiend
+  {"id": 1365, "x": 3283, "y": 9352, "walkRange": 2}, // Fire elemental
+  {"id": 434, "x": 3284, "y": 9400, "walkRange": 2}, // Pyrefiend
+  {"id": 434, "x": 3285, "y": 9382, "walkRange": 4}, // Pyrefiend
+  {"id": 1365, "x": 3282, "y": 9402, "walkRange": 1}, // Fire elemental
+  {"id": 1365, "x": 3204, "y": 9348, "walkRange": 1}, // Fire elemental
+  {"id": 1365, "x": 3288, "y": 9360, "walkRange": 3}, // Fire elemental
+  {"id": 1365, "x": 3207, "y": 9362, "walkRange": 3}, // Fire elemental
+  {"id": 1365, "x": 3288, "y": 9360, "walkRange": 3}, // Fire elemental
+  {"id": 1365, "x": 3207, "y": 9394, "walkRange": 1}, // Fire elemental
+  {"id": 434, "x": 3288, "y": 9392, "walkRange": 4}, // Pyrefiend
+  {"id": 1365, "x": 3209, "y": 9377, "walkRange": 4}, // Fire elemental
+  {"id": 436, "x": 3290, "y": 9363, "walkRange": 3}, // Pyrefiend
+  {"id": 1365, "x": 3206, "y": 9396, "walkRange": 1}, // Fire elemental
+  {"id": 2078, "x": 3294, "y": 9376, "walkRange": 4}, // Fire giant
+  {"id": 1365, "x": 3212, "y": 9351, "walkRange": 4}, // Fire elemental
+  {"id": 436, "x": 3296, "y": 9377, "walkRange": 3}, // Pyrefiend
+  {"id": 1365, "x": 3212, "y": 9378, "walkRange": 3}, // Fire elemental
+  {"id": 436, "x": 3302, "y": 9351, "walkRange": 4}, // Pyrefiend
+  {"id": 423, "x": 3213, "y": 9361, "walkRange": 3}, // Dust devil
+  {"id": 436, "x": 3301, "y": 9395, "walkRange": 2}, // Pyrefiend
+  {"id": 423, "x": 3214, "y": 9356, "walkRange": 4}, // Dust devil
+  {"id": 1365, "x": 3301, "y": 9399, "walkRange": 2}, // Fire elemental
+  {"id": 423, "x": 3220, "y": 9399, "walkRange": 2}, // Dust devil
+  {"id": 2079, "x": 3306, "y": 9399, "walkRange": 4}, // Fire giant
+  {"id": 423, "x": 3216, "y": 9365, "walkRange": 4}, // Dust devil
+  {"id": 1365, "x": 3307, "y": 9402, "walkRange": 4}, // Fire elemental
+  {"id": 423, "x": 3219, "y": 9374, "walkRange": 3}, // Dust devil
+  {"id": 436, "x": 3312, "y": 9353, "walkRange": 3}, // Pyrefiend
+  {"id": 423, "x": 3220, "y": 9349, "walkRange": 4}, // Dust devil
+  {"id": 436, "x": 3318, "y": 9402, "walkRange": 2}, // Pyrefiend
+  {"id": 423, "x": 3221, "y": 9382, "walkRange": 3}, // Dust devil
+  {"id": 1365, "x": 3317, "y": 9351, "walkRange": 3}, // Fire elemental
+  {"id": 423, "x": 3224, "y": 9395, "walkRange": 5}, // Dust devil
+  {"id": 1365, "x": 3320, "y": 9401, "walkRange": 2}, // Fire elemental
+  {"id": 423, "x": 3227, "y": 9352, "walkRange": 5}, // Dust devil
+  {"id": 1365, "x": 3319, "y": 9355, "walkRange": 1}, // Fire elemental
+  {"id": 1365, "x": 3230, "y": 9356, "walkRange": 4}, // Fire elemental
+  {"id": 1365, "x": 3321, "y": 9399, "walkRange": 2}, // Fire elemental
+  {"id": 1365, "x": 3229, "y": 9372, "walkRange": 4}, // Fire elemental
+  {"id": 1365, "x": 3231, "y": 9358, "walkRange": 4}, // Fire elemental
+  {"id": 423, "x": 3235, "y": 9398, "walkRange": 4}, // Dust devil
+  {"id": 423, "x": 3234, "y": 9364, "walkRange": 5}, // Dust devil
+  {"id": 423, "x": 3234, "y": 9399, "walkRange": 3}, // Dust devil
+  {"id": 423, "x": 3238, "y": 9377, "walkRange": 5}, // Dust devil
+  {"id": 423, "x": 3241, "y": 9383, "walkRange": 5}, // Dust devil
+  {"id": 2078, "x": 3244, "y": 9356, "walkRange": 3}, // Fire giant
+  {"id": 2080, "x": 3244, "y": 9369, "walkRange": 3}, // Fire giant
+  {"id": 423, "x": 3245, "y": 9349, "walkRange": 6}, // Dust devil
+  {"id": 423, "x": 3245, "y": 9400, "walkRange": 3}, // Dust devil
+  {"id": 433, "x": 3248, "y": 9372, "walkRange": 4}, // Pyrefiend
+  {"id": 433, "x": 3248, "y": 9357, "walkRange": 4}, // Pyrefiend
+  {"id": 423, "x": 3249, "y": 9349, "walkRange": 5}, // Dust devil
+  {"id": 1365, "x": 3249, "y": 9401, "walkRange": 3}, // Fire elemental
+  {"id": 2079, "x": 3251, "y": 9358, "walkRange": 2}, // Fire giant
+  {"id": 2078, "x": 3251, "y": 9370, "walkRange": 3}, // Fire giant
+  {"id": 433, "x": 3251, "y": 9363, "walkRange": 5}, // Pyrefiend
+  {"id": 1365, "x": 3256, "y": 9350, "walkRange": 4}, // Fire elemental
+  {"id": 423, "x": 3259, "y": 9373, "walkRange": 5}, // Dust devil
+  {"id": 1365, "x": 3257, "y": 9389, "walkRange": 3}, // Fire elemental
+  {"id": 423, "x": 3262, "y": 9399, "walkRange": 1}, // Dust devil
+  {"id": 434, "x": 3262, "y": 9399, "walkRange": 4} // Pyrefiend
+]

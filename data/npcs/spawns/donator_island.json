@@ -1,0 +1,43 @@
+[
+  {"id": 3656, "x": 3811, "y": 2834, "walkRange": 3}, // Gardener
+  {"id": 5422, "x": 3830, "y": 2846, "z": 1, "walkRange": 3}, // Sawmill operator
+  {"id": 4398, "x": 3814, "y": 2865, "z": 1, "walkRange": 1}, // Wizard
+  {"id": 1027, "x": 3806, "y": 2849, "z": 1, "direction": "S"}, // Banker
+  {"id": 1028, "x": 3807, "y": 2849, "z": 1, "direction": "S"}, // Banker
+  {"id": 1027, "x": 3810, "y": 2849, "z": 1, "direction": "S"}, // Banker
+  {"id": 1028, "x": 3811, "y": 2849, "z": 1, "direction": "S"}, // Banker
+  {"id": 1028, "x": 3812, "y": 2849, "z": 1, "direction": "S"}, // Banker
+  {"id": 1027, "x": 3814, "y": 2849, "z": 1, "direction": "S"}, // Banker
+
+  {"id": 2882, "x": 3804, "y": 2845, "z": 1, "direction": "E"}, // Horvik
+  {"id": 3894, "x": 3804, "y": 2843, "z": 1, "direction": "E"}, // Sigmund the Merchant
+  {"id": 6481, "x": 3804, "y": 2842, "z": 1, "direction": "E"}, // Mac
+  {"id": 2108, "x": 3806, "y": 2840, "z": 1, "direction": "N"}, // Credit Manager
+  {"id": 5527, "x": 3807, "y": 2840, "z": 1, "direction": "N"}, // Achievements
+  {"id": 1815, "x": 3809, "y": 2840, "z": 1, "direction": "N"}, // Vote manager
+
+  // Hunter
+  {"id": 2912, "x": 3795, "y": 2820, "walkRange": 6}, // black chinchompa
+  {"id": 2912, "x": 3798, "y": 2821, "walkRange": 6}, // black chinchompa
+  {"id": 2912, "x": 3800, "y": 2819, "walkRange": 6}, // black chinchompa
+  {"id": 2912, "x": 3802, "y": 2822, "walkRange": 6}, // black chinchompa
+  {"id": 2912, "x": 3805, "y": 2825, "walkRange": 6}, // black chinchompa
+  {"id": 2912, "x": 3805, "y": 2821, "walkRange": 6}, // black chinchompa
+
+  {"id": 2911, "x": 3813, "y": 2822, "walkRange": 6}, // red chinchompa
+  {"id": 2911, "x": 3814, "y": 2825, "walkRange": 6}, // red chinchompa
+  {"id": 2911, "x": 3817, "y": 2825, "walkRange": 6}, // red chinchompa
+  {"id": 2911, "x": 3819, "y": 2827, "walkRange": 6}, // red chinchompa
+
+  // Decorative goblins
+  {"id": 3049, "x": 3787, "y": 2834, "walkRange": 4}, //hobgoblin
+  {"id": 3049, "x": 3790, "y": 2832, "walkRange": 4}, //hobgoblin
+  {"id": 3049, "x": 3794, "y": 2830, "walkRange": 4}, //hobgoblin
+  {"id": 3049, "x": 3791, "y": 2834, "walkRange": 4} //hobgoblin
+
+  /*{"id": 7411, "x": 2427, "y": 9525, "z": 0, "walkRange": 3}, // Nechryarch
+  {"id": 7411, "x": 2424, "y": 9519, "z": 0, "walkRange": 3}, // Nechryarch
+  {"id": 7411, "x": 2419, "y": 9519, "z": 0, "walkRange": 3}, // Nechryarch
+  {"id": 7411, "x": 2414, "y": 9523, "z": 0, "walkRange": 3}, // Nechryarch
+  {"id": 7411, "x": 2417, "y": 9528, "z": 0, "walkRange": 3} // Nechryarch*/
+]

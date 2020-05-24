@@ -1,0 +1,25 @@
+[
+  {"id": 1965, "x": 2956, "y": 3510, "walkRange": 2}, //Grubfoot
+  {"id": 669, "x": 2958, "y": 3512, "walkRange": 2}, //General Bentnoze
+  {"id": 670, "x": 2956, "y": 3514, "walkRange": 5}, // General Wartface
+
+  //Goblins
+  {"id": 665, "x": 2955, "y": 3513, "walkRange": 5},
+  {"id": 662, "x": 2953, "y": 3512, "walkRange": 5},
+  {"id": 664, "x": 2953, "y": 3507, "walkRange": 5},
+  {"id": 663, "x": 2956, "y": 3507, "walkRange": 5},
+  {"id": 664, "x": 2961, "y": 3509, "walkRange": 5},
+  {"id": 664, "x": 2960, "y": 3502, "walkRange": 5},
+  {"id": 658, "x": 2952, "y": 3506, "walkRange": 2},
+  {"id": 661, "x": 2955, "y": 3503, "walkRange": 5},
+  {"id": 661, "x": 2958, "y": 3500, "walkRange": 5},
+  {"id": 668, "x": 2956, "y": 3498, "walkRange": 5},
+  {"id": 661, "x": 2952, "y": 3497, "walkRange": 5},
+  {"id": 667, "x": 2956, "y": 3495, "walkRange": 5},
+  {"id": 657, "x": 2955, "y": 3493, "walkRange": 5},
+  {"id": 659, "x": 2957, "y": 3492, "walkRange": 5},
+  {"id": 657, "x": 2958, "y": 3495, "walkRange": 5},
+  {"id": 659, "x": 2955, "y": 3484, "walkRange": 5},
+  {"id": 659, "x": 2956, "y": 3481, "walkRange": 5},
+  {"id": 664, "x": 2956, "y": 3481, "walkRange": 5}
+]

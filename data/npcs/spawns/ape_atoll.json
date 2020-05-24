@@ -1,0 +1,176 @@
+[
+  {"id": 5238, "x": 2758, "y": 2771, "walkRange": 4}, // Spider
+  {"id": 5242, "x": 2760, "y": 2803, "walkRange": 2}, // Scorpion
+  {"id": 5248, "x": 2768, "y": 2799, "walkRange": 4}, // Aberab
+  {"id": 5241, "x": 2717, "y": 2720, "walkRange": 22}, // Bird
+  {"id": 5241, "x": 2717, "y": 2718, "walkRange": 23}, // Bird
+  {"id": 5242, "x": 2765, "y": 2759, "walkRange": 3}, // Scorpion
+  {"id": 5244, "x": 2717, "y": 2718, "walkRange": 3}, // Snake
+  {"id": 7195, "x": 2767, "y": 2776, "walkRange": 2}, // null
+  {"id": 5243, "x": 2716, "y": 2722, "walkRange": 4}, // Jungle spider
+  {"id": 5238, "x": 2768, "y": 2795, "walkRange": 2}, // Spider
+  {"id": 5241, "x": 2760, "y": 2758, "walkRange": 0}, // Bird
+  {"id": 5240, "x": 2715, "y": 2728, "walkRange": 10}, // Bird
+  {"id": 5247, "x": 2771, "y": 2796, "walkRange": 0}, // Trefaji
+  {"id": 5243, "x": 2721, "y": 2729, "walkRange": 4}, // Jungle spider
+  {"id": 5244, "x": 2725, "y": 2711, "walkRange": 4}, // Snake
+  {"id": 5249, "x": 2769, "y": 2789, "walkRange": 1}, // Solihib
+  {"id": 5244, "x": 2731, "y": 2724, "walkRange": 5}, // Snake
+  {"id": 5242, "x": 2770, "y": 2803, "walkRange": 0}, // Scorpion
+  {"id": 5243, "x": 2732, "y": 2714, "walkRange": 4}, // Jungle spider
+  {"id": 5238, "x": 2768, "y": 2766, "walkRange": 2}, // Spider
+  {"id": 5241, "x": 2735, "y": 2712, "walkRange": 10}, // Bird
+  {"id": 7120, "x": 2774, "y": 2778, "walkRange": 1}, // Oobapohk
+  {"id": 5243, "x": 2737, "y": 2722, "walkRange": 4}, // Jungle spider
+  {"id": 5238, "x": 2776, "y": 2775, "walkRange": 3}, // Spider
+  {"id": 5244, "x": 2739, "y": 2720, "walkRange": 4}, // Snake
+  {"id": 7183, "x": 2775, "y": 2796, "walkRange": 1}, // null
+  {"id": 5240, "x": 2743, "y": 2707, "walkRange": 12}, // Bird
+  {"id": 7185, "x": 2775, "y": 2798, "walkRange": 1}, // null
+  {"id": 5243, "x": 2743, "y": 2704, "walkRange": 5}, // Jungle spider
+  {"id": 7187, "x": 2775, "y": 2801, "walkRange": 1}, // null
+  {"id": 5244, "x": 2742, "y": 2707, "walkRange": 5}, // Snake
+  {"id": 5242, "x": 2777, "y": 2763, "walkRange": 2}, // Scorpion
+  {"id": 5243, "x": 2742, "y": 2711, "walkRange": 5}, // Jungle spider
+  {"id": 5241, "x": 2772, "y": 2796, "walkRange": 8}, // Bird
+  {"id": 5243, "x": 2749, "y": 2710, "walkRange": 5}, // Jungle spider
+  {"id": 5238, "x": 2780, "y": 2792, "walkRange": 3}, // Spider
+  {"id": 6765, "x": 2780, "y": 2782, "walkRange": 1}, // Jumaane
+  {"id": 5253, "x": 2781, "y": 2792, "walkRange": 1}, // Hamab
+  {"id": 7196, "x": 2780, "y": 2798, "walkRange": 1}, // null
+  {"id": 5241, "x": 2778, "y": 2741, "walkRange": 13}, // Bird
+  {"id": 2975, "x": 2787, "y": 2795, "walkRange": 0}, // Mizaru
+  {"id": 5275, "x": 2788, "y": 2779, "walkRange": 3}, // Monkey Guard
+  {"id": 2976, "x": 2788, "y": 2795, "walkRange": 0}, // Kikazaru
+  {"id": 5244, "x": 2789, "y": 2757, "walkRange": 5}, // Snake
+  {"id": 2977, "x": 2789, "y": 2795, "walkRange": 0}, // Iwazaru
+  {"id": 5238, "x": 2792, "y": 2780, "walkRange": 4}, // Spider
+  {"id": 5242, "x": 2789, "y": 2800, "walkRange": 0}, // Scorpion
+  {"id": 5242, "x": 2792, "y": 2776, "walkRange": 2}, // Scorpion
+  {"id": 5275, "x": 2793, "y": 2783, "walkRange": 3}, // Monkey Guard
+  {"id": 5275, "x": 2794, "y": 2791, "walkRange": 4}, // Monkey Guard
+  {"id": 5275, "x": 2796, "y": 2777, "walkRange": 3}, // Monkey Guard
+  {"id": 5238, "x": 2798, "y": 2763, "walkRange": 2}, // Spider
+  {"id": 5277, "x": 2798, "y": 2760, "walkRange": 0}, // Elder Guard
+  {"id": 5238, "x": 2798, "y": 2790, "walkRange": 5}, // Spider
+  {"id": 5278, "x": 2801, "y": 2757, "walkRange": 0}, // Elder Guard
+  {"id": 5265, "x": 2801, "y": 2764, "walkRange": 1}, // Uwogo
+  {"id": 5238, "x": 2800, "y": 2780, "walkRange": 4}, // Spider
+  {"id": 5275, "x": 2800, "y": 2780, "walkRange": 3}, // Monkey Guard
+  {"id": 5275, "x": 2798, "y": 2788, "walkRange": 2}, // Monkey Guard
+  {"id": 5276, "x": 2803, "y": 2785, "walkRange": 1}, // Monkey Guard
+  {"id": 5266, "x": 2804, "y": 2763, "walkRange": 1}, // Muruwoi
+  {"id": 5242, "x": 2807, "y": 2798, "walkRange": 2}, // Scorpion
+  {"id": 7181, "x": 2805, "y": 2761, "walkRange": 1}, // null
+  {"id": 5276, "x": 2805, "y": 2782, "walkRange": 1}, // Monkey Guard
+  {"id": 5276, "x": 2805, "y": 2786, "walkRange": 0}, // Monkey Guard
+  {"id": 5244, "x": 2807, "y": 2754, "walkRange": 3}, // Snake
+  {"id": 5241, "x": 2813, "y": 2757, "walkRange": 0}, // Bird
+  {"id": 5274, "x": 2752, "y": 2782, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2754, "y": 2778, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2755, "y": 2774, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2756, "y": 2789, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2759, "y": 2756, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2761, "y": 2778, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2762, "y": 2793, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2765, "y": 2779, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2767, "y": 2784, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2769, "y": 2754, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2770, "y": 2774, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2772, "y": 2781, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2774, "y": 2787, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2775, "y": 2756, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2777, "y": 2790, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2780, "y": 2773, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2785, "y": 2768, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2789, "y": 2754, "walkRange": 0}, // Monkey Archer
+  {"id": 5274, "x": 2791, "y": 2763, "walkRange": 0}, // Monkey Archer
+  {"id": 5243, "x": 2755, "y": 2705, "walkRange": 5}, // Jungle spider
+  {"id": 5244, "x": 2755, "y": 2708, "walkRange": 5}, // Snake
+  {"id": 5243, "x": 2756, "y": 2715, "walkRange": 5}, // Jungle spider
+  {"id": 5240, "x": 2762, "y": 2707, "walkRange": 13}, // Bird
+  {"id": 5242, "x": 2761, "y": 2749, "walkRange": 2}, // Scorpion
+  {"id": 5241, "x": 2756, "y": 2704, "walkRange": 29}, // Bird
+  {"id": 5244, "x": 2765, "y": 2714, "walkRange": 4}, // Snake
+  {"id": 5243, "x": 2767, "y": 2704, "walkRange": 3}, // Jungle spider
+  {"id": 5242, "x": 2767, "y": 2733, "walkRange": 4}, // Scorpion
+  {"id": 5243, "x": 2770, "y": 2709, "walkRange": 5}, // Jungle spider
+  {"id": 5241, "x": 2749, "y": 2763, "walkRange": 16}, // Bird
+  {"id": 5242, "x": 2773, "y": 2738, "walkRange": 3}, // Scorpion
+  {"id": 5240, "x": 2776, "y": 2705, "walkRange": 9}, // Bird
+  {"id": 5244, "x": 2773, "y": 2701, "walkRange": 4}, // Snake
+  {"id": 5243, "x": 2779, "y": 2707, "walkRange": 4}, // Jungle spider
+  {"id": 5241, "x": 2767, "y": 2736, "walkRange": 6}, // Bird
+  {"id": 5242, "x": 2778, "y": 2743, "walkRange": 2}, // Scorpion
+  {"id": 5240, "x": 2780, "y": 2708, "walkRange": 11}, // Bird
+  {"id": 5244, "x": 2784, "y": 2712, "walkRange": 5}, // Snake
+  {"id": 5241, "x": 2789, "y": 2697, "walkRange": 5}, // Bird
+  {"id": 5243, "x": 2787, "y": 2712, "walkRange": 4}, // Jungle spider
+  {"id": 5241, "x": 2780, "y": 2702, "walkRange": 11}, // Bird
+  {"id": 5241, "x": 2794, "y": 2752, "walkRange": 20}, // Bird
+  {"id": 5241, "x": 2793, "y": 2710, "walkRange": 18}, // Bird
+  {"id": 5245, "x": 2800, "y": 2744, "walkRange": 0}, // Dugopul
+  {"id": 2022, "x": 2803, "y": 2707, "walkRange": 2}, // Lumdo
+  {"id": 5241, "x": 2789, "y": 2714, "walkRange": 22}, // Bird
+  {"id": 5241, "x": 2801, "y": 2735, "walkRange": 5}, // Bird
+  {"id": 1450, "x": 2693, "y": 2784, "walkRange": 1}, // null
+  {"id": 5241, "x": 2700, "y": 2753, "walkRange": 10}, // Bird
+  {"id": 5241, "x": 2713, "y": 2759, "walkRange": 9}, // Bird
+  {"id": 5243, "x": 2700, "y": 2776, "walkRange": 5}, // Jungle spider
+  {"id": 5244, "x": 2701, "y": 2761, "walkRange": 5}, // Snake
+  {"id": 5244, "x": 2702, "y": 2780, "walkRange": 4}, // Snake
+  {"id": 5244, "x": 2703, "y": 2769, "walkRange": 5}, // Snake
+  {"id": 5243, "x": 2704, "y": 2768, "walkRange": 4}, // Jungle spider
+  {"id": 5243, "x": 2705, "y": 2785, "walkRange": 5}, // Jungle spider
+  {"id": 7198, "x": 2710, "y": 2802, "walkRange": 1}, // Captain Shoracks
+  {"id": 6813, "x": 2713, "y": 2756, "walkRange": 2}, // Monkey Archer
+  {"id": 7197, "x": 2712, "y": 2792, "walkRange": 2}, // Karam
+  {"id": 5273, "x": 2713, "y": 2753, "walkRange": 2}, // Monkey Archer
+  {"id": 5273, "x": 2713, "y": 2755, "walkRange": 2}, // Monkey Archer
+  {"id": 5273, "x": 2713, "y": 2757, "walkRange": 2}, // Monkey Archer
+  {"id": 6813, "x": 2712, "y": 2759, "walkRange": 2}, // Monkey Archer
+  {"id": 5273, "x": 2713, "y": 2761, "walkRange": 2}, // Monkey Archer
+  {"id": 5243, "x": 2714, "y": 2780, "walkRange": 5}, // Jungle spider
+  {"id": 5273, "x": 2714, "y": 2763, "walkRange": 2}, // Monkey Archer
+  {"id": 5244, "x": 2715, "y": 2783, "walkRange": 5}, // Snake
+  {"id": 5243, "x": 2722, "y": 2790, "walkRange": 5}, // Jungle spider
+  {"id": 5241, "x": 2719, "y": 2786, "walkRange": 18}, // Bird
+  {"id": 5244, "x": 2724, "y": 2787, "walkRange": 5}, // Snake
+  {"id": 7175, "x": 2728, "y": 2763, "walkRange": 3}, // null
+  {"id": 7177, "x": 2726, "y": 2766, "walkRange": 1}, // Duke
+  {"id": 5273, "x": 2727, "y": 2763, "walkRange": 2}, // Monkey Archer
+  {"id": 5244, "x": 2727, "y": 2790, "walkRange": 4}, // Snake
+  {"id": 5273, "x": 2729, "y": 2753, "walkRange": 1}, // Monkey Archer
+  {"id": 5273, "x": 2729, "y": 2755, "walkRange": 2}, // Monkey Archer
+  {"id": 5273, "x": 2729, "y": 2757, "walkRange": 2}, // Monkey Archer
+  {"id": 6813, "x": 2729, "y": 2759, "walkRange": 2}, // Monkey Archer
+  {"id": 6813, "x": 2729, "y": 2761, "walkRange": 2}, // Monkey Archer
+  {"id": 6813, "x": 2729, "y": 2755, "walkRange": 1}, // Monkey Archer
+  {"id": 5270, "x": 2738, "y": 2790, "walkRange": 5}, // The Monkey's Aunt
+  {"id": 5268, "x": 2742, "y": 2794, "walkRange": 1}, // Monkey Child
+  {"id": 5242, "x": 2753, "y": 2764, "walkRange": 2}, // Scorpion
+  {"id": 5241, "x": 2763, "y": 2752, "walkRange": 5}, // Bird
+  {"id": 5238, "x": 2753, "y": 2800, "walkRange": 3}, // Spider
+  {"id": 5252, "x": 2754, "y": 2775, "walkRange": 1}, // Ifaba
+  {"id": 5241, "x": 2742, "y": 2789, "walkRange": 19}, // Bird
+  {"id": 5251, "x": 2757, "y": 2770, "walkRange": 1}, // Tutab
+  {"id": 5263, "x": 2755, "y": 2784, "walkRange": 3}, // Padulah
+  {"id": 7195, "x": 2758, "y": 2789, "walkRange": 2}, // null
+  {"id": 5250, "x": 2759, "y": 2775, "walkRange": 1}, // Daga
+  {"id": 5267, "x": 2760, "y": 2771, "walkRange": 1}, // Sleeping Monkey
+  
+  {"id": 1443, "x": 2701, "y": 9196, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2701, "y": 9188, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2704, "y": 9179, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2709, "y": 9173, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2717, "y": 9178, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2719, "y": 9173, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2726, "y": 9179, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2729, "y": 9173, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2726, "y": 9189, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2725, "y": 9197, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2719, "y": 9201, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2716, "y": 9197, "z": 1, "walkRange": 4}, // Jungle Demon
+  {"id": 1443, "x": 2708, "y": 9200, "z": 1, "walkRange": 4} // Jungle Demon
+  
+]

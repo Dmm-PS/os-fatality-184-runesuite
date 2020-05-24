@@ -1,0 +1,82 @@
+[
+  {"id": 2616, "x": 3475, "y": 3476, "walkRange": 3}, // Joseph
+  {"id": 3483, "x": 3474, "y": 3506, "walkRange": 1}, // Will o' the wisp
+  {"id": 6525, "x": 3477, "y": 3496, "walkRange": 3}, // Fidelio
+  {"id": 3483, "x": 3474, "y": 3506, "walkRange": 3}, // Will o' the wisp
+  {"id": 2628, "x": 3479, "y": 3493, "walkRange": 4}, // Yadviga
+  {"id": 2629, "x": 3479, "y": 3497, "walkRange": 4}, // Nikita
+  {"id": 3483, "x": 3482, "y": 3468, "walkRange": 3}, // Will o' the wisp
+  {"id": 3483, "x": 3480, "y": 3470, "walkRange": 0}, // Will o' the wisp
+  {"id": 3483, "x": 3483, "y": 3467, "walkRange": 2}, // Will o' the wisp
+  {"id": 2620, "x": 3483, "y": 3478, "walkRange": 4}, // Georgy
+  {"id": 2626, "x": 3483, "y": 3495, "walkRange": 5}, // Sofiya
+  {"id": 3483, "x": 3483, "y": 3507, "walkRange": 0}, // Will o' the wisp
+  {"id": 3483, "x": 3483, "y": 3466, "walkRange": 2}, // Will o' the wisp
+  {"id": 2622, "x": 3485, "y": 3488, "walkRange": 5}, // Irina
+  {"id": 3483, "x": 3484, "y": 3508, "walkRange": 3}, // Will o' the wisp
+  {"id": 2613, "x": 3489, "y": 3490, "walkRange": 5}, // Boris
+  {"id": 2630, "x": 3490, "y": 3473, "walkRange": 4}, // Vera
+  {"id": 2614, "x": 3490, "y": 3474, "walkRange": 5}, // Imre
+  {"id": 6527, "x": 3493, "y": 3474, "walkRange": 4}, // Roavar
+  {"id": 3483, "x": 3492, "y": 3511, "walkRange": 2}, // Will o' the wisp
+  {"id": 2617, "x": 3496, "y": 3478, "walkRange": 5}, // Nikolai
+  {"id": 2624, "x": 3497, "y": 3475, "walkRange": 4}, // Milla
+  {"id": 686, "x": 3497, "y": 3478, "walkRange": 0}, // Malak
+  {"id": 2615, "x": 3497, "y": 3496, "walkRange": 5}, // Yuri
+  {"id": 3483, "x": 3498, "y": 3513, "walkRange": 4}, // Will o' the wisp
+  {"id": 2621, "x": 3501, "y": 3493, "walkRange": 5}, // Svetlana
+  {"id": 3483, "x": 3501, "y": 3513, "walkRange": 4}, // Will o' the wisp
+  {"id": 2619, "x": 3501, "y": 3487, "walkRange": 5}, // Lev
+  {"id": 6269, "x": 3503, "y": 3477, "walkRange": 0}, // Vanstrom Klause
+  {"id": 3483, "x": 3504, "y": 3465, "walkRange": 1}, // Will o' the wisp
+  {"id": 3483, "x": 3504, "y": 3514, "walkRange": 3}, // Will o' the wisp
+  {"id": 3483, "x": 3504, "y": 3514, "walkRange": 2}, // Will o' the wisp
+  {"id": 3483, "x": 3505, "y": 3514, "walkRange": 2}, // Will o' the wisp
+  {"id": 3483, "x": 3509, "y": 3512, "walkRange": 0}, // Will o' the wisp
+  {"id": 3483, "x": 3515, "y": 3491, "walkRange": 2}, // Will o' the wisp
+  {"id": 402, "x": 3511, "y": 3508, "walkRange": 3}, // Mazchna
+  {"id": 3483, "x": 3513, "y": 3467, "walkRange": 3}, // Will o' the wisp
+  {"id": 3483, "x": 3514, "y": 3488, "walkRange": 3}, // Will o' the wisp
+  {"id": 3483, "x": 3514, "y": 3487, "walkRange": 2}, // Will o' the wisp
+  {"id": 3483, "x": 3513, "y": 3502, "walkRange": 2}, // Will o' the wisp
+  {"id": 3483, "x": 3514, "y": 3490, "walkRange": 0}, // Will o' the wisp
+  {"id": 3483, "x": 3515, "y": 3493, "walkRange": 3}, // Will o' the wisp
+  {"id": 3483, "x": 3515, "y": 3497, "walkRange": 3}, // Will o' the wisp
+  {"id": 3483, "x": 3515, "y": 3470, "walkRange": 4}, // Will o' the wisp
+  {"id": 5418, "x": 3480, "y": 3484, "walkRange": 0}, // Taxidermist
+  {"id": 6526, "x": 3489, "y": 3501, "walkRange": 3}, // Sbott
+  {"id": 6524, "x": 3500, "y": 3505, "walkRange": 3}, // Barker
+  {"id": 2631, "x": 3505, "y": 3492, "walkRange": 5}, // Zoja
+  {"id": 6478, "x": 3506, "y": 3495, "walkRange": 4}, // Rufus
+  {"id": 2618, "x": 3511, "y": 3482, "walkRange": 5}, // Eduard
+  {"id": 2633, "x": 3514, "y": 3479, "direction": "W"}, // Banker
+  {"id": 2633, "x": 3514, "y": 3481, "direction": "W"}, // Banker
+  {"id": 3483, "x": 3466, "y": 3488, "walkRange": 0}, // Will o' the wisp
+  {"id": 3483, "x": 3467, "y": 3466, "walkRange": 1}, // Will o' the wisp
+  {"id": 5521, "x": 3468, "y": 3475, "walkRange": 2}, // Le-sabrè
+  {"id": 3483, "x": 3468, "y": 3496, "walkRange": 3}, // Will o' the wisp
+  {"id": 3483, "x": 3470, "y": 3496, "walkRange": 2}, // Will o' the wisp
+  {"id": 3483, "x": 3466, "y": 3488, "walkRange": 0}, // Will o' the wisp
+  {"id": 3483, "x": 3468, "y": 3499, "walkRange": 0}, // Will o' the wisp
+  {"id": 3483, "x": 3469, "y": 3510, "walkRange": 0}, // Will o' the wisp
+  {"id": 3483, "x": 3468, "y": 3468, "walkRange": 2}, // Will o' the wisp
+  {"id": 3483, "x": 3469, "y": 3469, "walkRange": 0}, // Will o' the wisp
+  {"id": 3483, "x": 3471, "y": 3479, "walkRange": 2}, // Will o' the wisp
+
+  // Farming patch
+  {"id": 0, "x": 3599, "y": 3522, "walkRange": 0}, // Tool Leprechaun
+  {"id": 2666, "x": 3603, "y": 3528, "walkRange": 3}, // lyra
+  
+  //Swamp lizards
+  {"id": 2906, "x": 3548, "y": 3439, "walkRange": 2},
+  {"id": 2906, "x": 3544, "y": 3439, "walkRange": 2},
+  {"id": 2906, "x": 3552, "y": 3440, "walkRange": 2},
+  {"id": 2906, "x": 3557, "y": 3435, "walkRange": 2},
+  {"id": 2906, "x": 3561, "y": 3431, "walkRange": 2},
+  {"id": 2906, "x": 3537, "y": 3449, "walkRange": 2},
+  {"id": 2906, "x": 3535, "y": 3447, "walkRange": 2},
+  {"id": 2906, "x": 3539, "y": 3450, "walkRange": 2},
+  {"id": 2906, "x": 3549, "y": 3451, "walkRange": 2},
+  {"id": 2906, "x": 3552, "y": 3452, "walkRange": 2},
+  {"id": 2906, "x": 3555, "y": 3452, "walkRange": 2}
+]

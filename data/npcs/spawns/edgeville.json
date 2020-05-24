@@ -1,0 +1,71 @@
+[
+
+  //Custom
+  {"id": 4398, "x": 3088, "y": 3506, "walkRange": 1, "world": "ECO"},  // Wizard
+  {"id": 315, "x": 3091, "y": 3510, "direction": "E", "world": "ECO"},  // Rustin
+  {"id": 7333, "x": 3131, "y": 3498, "walkRange": 2, "world": "ECO"},  //  fixit
+  {"id": 7316, "x": 3112, "y": 3513, "direction": "E", "world": "ECO"},  // Lisa
+  {"id": 2882, "x": 3076, "y": 3511, "direction": "E", "world": "ECO"},  // Horvik
+  {"id": 2108, "x": 3079, "y": 3513, "direction": "S", "world": "ECO"},  // Donation Guy
+  {"id": 1815, "x": 3081, "y": 3513, "direction": "S", "world": "ECO"},  // Vote Guy
+  {"id": 3894, "x": 3076, "y": 3510, "direction": "E", "world": "ECO"},  // Sigmund the Merchant
+  {"id": 6481, "x": 3076, "y": 3509, "direction": "E", "world": "ECO"},  // Mac
+  {"id": 6002, "x": 3090, "y": 3498, "direction": "W", "world": "ECO"}, // Caretaker
+  {"id": 2668, "x": 3098, "y": 3506, "direction": "S", "world": "ECO"}, // Dummy
+  {"id": 2668, "x": 3099, "y": 3506, "direction": "S", "world": "ECO"}, // Dummy
+  {"id": 2668, "x": 3100, "y": 3506, "direction": "S", "world": "ECO"}, // Dummy
+  {"id": 5523, "x": 3083, "y": 3506, "direction": "S", "world": "ECO"}, // Risker
+  {"id": 3080, "x": 3080, "y": 3503, "walkRange": 3, "world": "ECO"}, // Man
+
+  {"id": 4159, "x": 3085, "y": 3500, "direction": "S", "walkRange": 1, "world": "PVP"}, // Wizard
+  {"id": 315, "x": 3092, "y": 3506, "direction": "S", "world": "PVP"},  // Rustin
+  {"id": 7316, "x": 3095, "y": 3470, "walkRange": 2, "world": "PVP"},  // Lisa
+  {"id": 2108, "x": 3094, "y": 3513, "direction": "S", "world": "PVP"},  // Donation Guy
+  {"id": 1815, "x": 3095, "y": 3513, "direction": "S", "world": "PVP"},  // Vote Guy
+  {"id": 3894, "x": 3104, "y": 3488, "direction": "N", "world": "PVP"},  // Sigmund the Merchant
+  {"id": 2882, "x": 3092, "y": 3495, "direction": "S", "world": "PVP"}, // Horvik
+  {"id": 6481, "x": 3095, "y": 3496, "direction": "S", "world": "PVP"},  // Mac
+  {"id": 4225, "x": 3098, "y": 3496, "direction": "S", "world": "PVP"}, // Untradeable shop
+  {"id": 5081, "x": 3099, "y": 3491, "z": 1, "direction": "W", "world": "PVP"}, // Magic shop
+  {"id": 5051, "x": 3094, "y": 3491, "z": 1, "direction": "E", "world": "PVP"}, // Range shop
+  {"id": 2153, "x": 3093, "y": 3488, "direction": "N", "world": "PVP"}, // Melee shop
+  {"id": 4579, "x": 3099, "y": 3488, "direction": "N", "world": "PVP"}, // Jewellery shop
+  {"id": 6650, "x": 3100, "y": 3489, "direction": "N", "world": "PVP"},  // Ornament shop
+
+  {"id": 2668, "x": 3092, "y": 3486, "direction": "S", "world": "PVP"}, // Dummy
+  {"id": 2668, "x": 3093, "y": 3486, "direction": "S", "world": "PVP"}, // Dummy
+  {"id": 2668, "x": 3094, "y": 3486, "direction": "S", "world": "PVP"}, // Dummy
+  {"id": 2668, "x": 3095, "y": 3486, "direction": "S", "world": "PVP"}, // Dummy
+  {"id": 2668, "x": 3096, "y": 3486, "direction": "S", "world": "PVP"}, // Dummy
+  {"id": 2668, "x": 3097, "y": 3486, "direction": "S", "world": "PVP"}, // Dummy
+
+  {"id": 1078, "x": 3093, "y": 3476, "walkRange": 1}, // Runa
+  {"id": 1307, "x": 3085, "y": 3512, "direction": "S"},  // Make-over mage
+  {"id": 306, "x": 3090, "y": 3512, "direction": "S"},  // Starter Guide
+  {"id": 5442, "x": 3085, "y": 3508, "direction": "N"},  // Security Advisorr
+  {"id": 5422, "x": 3107, "y": 3499, "direction": "S"},  // Sawmill operator
+  {"id": 5419, "x": 3113, "y": 3499, "direction": "S"},  // Estate agent
+  {"id": 5417, "x": 3111, "y": 3495, "walkRange": 1, "direction": "S"},  // Chief servant
+  {"id": 2200, "x": 3103, "y": 3513, "walkRange": 2}, // Richard
+  {"id": 3888, "x": 3285, "y": 9443, "direction": "E"}, // Jail banker
+  {"id": 6042, "x": 3079, "y": 3494, "direction": "E"}, // Trader
+  {"id": 6040, "x": 3079, "y": 3493, "direction": "E"}, // Trader
+  {"id": 311, "x": 3104, "y": 3509, "direction": "S"},  // Adam
+  {"id": 7663, "x": 3084, "y": 3506, "direction": "S"}, // Krystilia
+  {"id": 5527, "x": 3089, "y": 3512, "direction": "S"},  // Twiggy O'Korn
+
+
+
+  // Monastery
+  {"id": 2579, "x": 3050, "y": 3492, "walkRange": 2}, // Monk
+  {"id": 2804, "x": 3050, "y": 3516, "walkRange": 4}, // Sheep
+  {"id": 1265, "x": 3052, "y": 3517, "walkRange": 4}, // Ram
+  {"id": 2803, "x": 3053, "y": 3517, "walkRange": 4}, // Sheep
+  {"id": 2579, "x": 3053, "y": 3491, "walkRange": 3}, // Monk
+  {"id": 2804, "x": 3054, "y": 3516, "walkRange": 4}, // Sheep
+  {"id": 2577, "x": 3057, "y": 3484, "walkRange": 2}, // Abbot Langley
+  {"id": 508, "x": 3036, "y": 3505, "walkRange": 3}, // Black Knight
+  {"id": 2579, "x": 3046, "y": 3484, "walkRange": 2}, // Monk
+  {"id": 2579, "x": 3045, "y": 3496, "walkRange": 2}, // Monk
+  {"id": 1397, "x": 3048, "y": 3506, "walkRange": 2} // Brother Althric
+]

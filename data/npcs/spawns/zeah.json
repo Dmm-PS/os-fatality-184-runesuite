@@ -1,0 +1,73 @@
+[
+  //Woodcutting Guild
+  {"id": 7238, "x": 1626, "y": 3513, "walkRange": 2}, // Forester
+  {"id": 1838, "x": 1636, "y": 3501, "walkRange": 4}, // Duck
+  {"id": 1839, "x": 1636, "y": 3502, "walkRange": 4}, // Duck
+  {"id": 2002, "x": 1636, "y": 3502, "walkRange": 4}, // Ducklings
+  {"id": 1639, "x": 1662, "y": 3491, "walkRange": 1}, // Essence impling
+  {"id": 7236, "x": 1650, "y": 3499, "walkRange": 2}, // Guildmaster Lars
+  {"id": 7235, "x": 1657, "y": 3506, "walkRange": 0}, // Berry
+  {"id": 7237, "x": 1607, "y": 3508, "walkRange": 2}, // Murfet
+  {"id": 7238, "x": 1614, "y": 3491, "walkRange": 3}, // Forester
+  {"id": 5422, "x": 1623, "y": 3500, "direction": "E"}, // Sawmill operator
+  {"id": 7238, "x": 1582, "y": 3479, "walkRange": 3}, // Forester
+  {"id": 7238, "x": 1596, "y": 3489, "walkRange": 3},  // Forester
+  {"id": 7321, "x": 1615, "y": 3514, "direction": "S"},  // Nesty
+
+  //Woodcutting Guild Dungeon
+  {"id": 7234, "x": 1558, "y": 9902, "walkRange": 8}, // Ent
+  {"id": 7234, "x": 1566, "y": 9908, "walkRange": 6}, // Ent
+  {"id": 7234, "x": 1561, "y": 9866, "walkRange": 6}, // Ent
+  {"id": 7234, "x": 1566, "y": 9901, "walkRange": 4}, // Ent
+  {"id": 7234, "x": 1563, "y": 9903, "walkRange": 7}, // Ent
+  {"id": 7234, "x": 1571, "y": 9882, "walkRange": 4}, // Ent
+  {"id": 7234, "x": 1570, "y": 9880, "walkRange": 4}, // Ent
+  {"id": 7234, "x": 1575, "y": 9872, "walkRange": 7}, // Ent
+  {"id": 7234, "x": 1574, "y": 9888, "walkRange": 10}, // Ent
+  {"id": 7234, "x": 1576, "y": 9896, "walkRange": 8}, // Ent
+  {"id": 7234, "x": 1577, "y": 9886, "walkRange": 8}, // Ent
+  {"id": 7234, "x": 1578, "y": 9879, "walkRange": 7}, // Ent
+  {"id": 7234, "x": 1578, "y": 9910, "walkRange": 7}, // Ent
+  {"id": 7234, "x": 1579, "y": 9905, "walkRange": 6}, // Ent
+  {"id": 7234, "x": 1585, "y": 9866, "walkRange": 4}, // Ent
+  {"id": 7234, "x": 1589, "y": 9864, "walkRange": 5}, // Ent
+  {"id": 7234, "x": 1591, "y": 9866, "walkRange": 4}, // Ent
+  {"id": 7239, "x": 1593, "y": 9900, "walkRange": 2}, // Kai
+  {"id": 7234, "x": 1547, "y": 9888, "walkRange": 6}, // Ent
+  {"id": 7234, "x": 1551, "y": 9888, "walkRange": 6}, // Ent
+  {"id": 7234, "x": 1552, "y": 9899, "walkRange": 7}, // Ent
+  {"id": 7234, "x": 1554, "y": 9895, "walkRange": 10}, // Ent
+  {"id": 7234, "x": 1559, "y": 9866, "walkRange": 4}, // Ent
+  {"id": 7234, "x": 1561, "y": 9866, "walkRange": 6}, // Ent
+  
+  {"id": 7042, "x": 1817, "y": 3858, "walkRange": 1}, // Aretha
+  
+  //Angler fishing
+  {"id": 6964, "x": 1841, "y": 3786, "walkRange": 3},   // Tynan
+  {"id": 6969, "x": 1796, "y": 3792, "direction": "S"}, // Banker
+  {"id": 6970, "x": 1800, "y": 3792, "direction": "S"}, // Banker
+  {"id": 6969, "x": 1804, "y": 3792, "direction": "S"}, // Banker
+  {"id": 6970, "x": 1808, "y": 3792, "direction": "S"},  // Banker
+  {"id": 6767, "x": 1436, "y": 3713, "walkRange": 8}, // Shaman
+  {"id": 6767, "x": 1424, "y": 3717, "walkRange": 8}, // Shaman
+  {"id": 6767, "x": 1424, "y": 3702, "walkRange": 8}, // Shaman
+
+  {"id": 6915, "x": 1442, "y": 3697, "walkRange": 15}, // Lizardman
+  {"id": 6915, "x": 1442, "y": 3711, "walkRange": 15}, // Lizardman
+  {"id": 6915, "x": 1437, "y": 3712, "walkRange": 15}, // Lizardman
+  {"id": 6915, "x": 1423, "y": 3707, "walkRange": 15}, // Lizardman
+  {"id": 6915, "x": 1433, "y": 3717, "walkRange": 15}, // Lizardman
+
+  {"id": 6916, "x": 1430, "y": 3703, "walkRange": 15}, // Lizardman
+  {"id": 6916, "x": 1445, "y": 3701, "walkRange": 15}, // Lizardman
+  {"id": 6916, "x": 1422, "y": 3722, "walkRange": 15}, // Lizardman
+  {"id": 6916, "x": 1427, "y": 3701, "walkRange": 15}, // Lizardman
+
+  {"id": 6918, "x": 1442, "y": 3704, "walkRange": 15}, // Lizardman
+  {"id": 6918, "x": 1437, "y": 3719, "walkRange": 15}, // Lizardman
+  {"id": 6918, "x": 1437, "y": 3719, "walkRange": 15}, // Lizardman
+
+  // Farming patch
+  {"id": 0, "x": 1817, "y": 3483, "walkRange": 3}, // Leprechaun
+  {"id": 6921, "x": 1814, "y": 3485, "walkRange": 4} // Masiri
+]

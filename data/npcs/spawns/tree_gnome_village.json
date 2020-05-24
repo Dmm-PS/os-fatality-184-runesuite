@@ -1,0 +1,5 @@
+[
+    {"id": 4968, "x": 2502, "y": 3193, "walkRange":  2}, // Elkoy
+	{"id": 0, "x": 2489, "y": 3183, "walkRange":  2}, // Tool Leprechaun
+	{"id": 2683, "x": 2491, "y": 3182, "walkRange":  0} // Gileth
+]

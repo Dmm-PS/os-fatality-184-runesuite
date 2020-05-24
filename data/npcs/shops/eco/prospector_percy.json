@@ -1,0 +1,18 @@
+{
+  "name": "Prospector Percy's Nugget Shop",
+  "currency": "GOLDEN_NUGGETS",
+  "ironman": true,
+  "npcs": [
+    { "id": 6562, "option": "trade" }
+  ],
+  "items": [
+    { "id": 12013, "price": 40 }, // Prospector helmet
+    { "id": 12014, "price": 60 }, // Prospector jacket
+    { "id": 12015, "price": 50 }, // Prospector legs
+    { "id": 12016, "price": 30 }, // Prospector boots
+    { "id": 12019, "price": 100 }, // Coal bag
+    { "id": 12020, "price": 100 }, // Gem bag
+    { "id": 12009, "price": 10 }, // Soft clay pack
+    { "id": 19473, "price": 40 } // Bag full of gems
+  ]
+}

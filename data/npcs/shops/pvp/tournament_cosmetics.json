@@ -1,0 +1,28 @@
+{
+  "name": "Tournament Cosmetics",
+  "currency": "BLOOD_MONEY",
+  "ironman": true,
+  "npcs": [
+    { "id": 1078, "option": "trade" }
+  ],
+  "items": [
+    { "id": 11898, "price": 20 }, 	 // Decorative Magic Hat
+    { "id": 11896, "price": 20 }, 	 // Decorative Magic Robe Top
+    { "id": 11897, "price": 20 }, 	 // Decorative Magic Robe Legs
+    { "id": 11899, "price": 20 }, 	 // Decorative Ranged Top
+    { "id": 11900, "price": 20 }, 	 // Decorative Ranged Legs
+    { "id": 12637, "price": 40 }, 	 // Saradomin Halo
+    { "id": 12638, "price": 40 }, 	 // Zamorak Halo
+    { "id": 12639, "price": 40 }, 	 // Guthix Halo
+    { "id": 10386, "price": 15 }, 	 // Saradomin D'Hide Top
+    { "id": 10388, "price": 15 }, 	 // Saradomin D'hide Chaps
+    { "id": 10390, "price": 15 }, 	 // Saradomin D'hide Coif
+    { "id": 10378, "price": 15 }, 	 // Guthix D'Hide Top
+    { "id": 10380, "price": 15 }, 	 // Guthix D'hide Chaps
+    { "id": 10382, "price": 15 }, 	 // Guthix D'hide Coif
+    { "id": 10370, "price": 15 }, 	 // Zamorak D'Hide Top
+    { "id": 10372, "price": 15 }, 	 // Zamorak D'hide Chaps
+    { "id": 10374, "price": 15 }, 	 // Zamorak D'hide Coif
+    { "id": 20226, "price": 15 } 	 // Peaceful Blessing
+  ]
+}

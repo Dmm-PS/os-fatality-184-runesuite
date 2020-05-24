@@ -1,0 +1,41 @@
+[
+  {"id": 1838, "x": 2608, "y": 3428, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2616, "y": 3418, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2610, "y": 3420, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2609, "y": 3427, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2604, "y": 3430, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2599, "y": 3434, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2607, "y": 3428, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2611, "y": 3435, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2621, "y": 3437, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2613, "y": 3429, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2610, "y": 3419, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2602, "y": 3418, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2597, "y": 3428, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2608, "y": 3450, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2617, "y": 3451, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2608, "y": 3428, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2616, "y": 3418, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2610, "y": 3420, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2609, "y": 3427, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2604, "y": 3430, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2599, "y": 3434, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2607, "y": 3428, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2611, "y": 3435, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2621, "y": 3437, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2613, "y": 3429, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2610, "y": 3419, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2602, "y": 3418, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2597, "y": 3428, "walkRange": 6},   // Duck
+  {"id": 1839, "x": 2608, "y": 3450, "walkRange": 6},   // Duck
+  {"id": 1838, "x": 2617, "y": 3451, "walkRange": 6},   // Duck
+  {"id": 1299, "x": 2596, "y": 3401, "walkRange": 3},   // Roachary - fishing guild shop
+  {"id": 1027, "x": 2584, "y": 3418, "direction": "E"},  // Banker
+  {"id": 1027, "x": 2584, "y": 3419, "direction": "E"},  // Banker
+  {"id": 1028, "x": 2584, "y": 3421, "direction": "E"},  // Banker
+  {"id": 1027, "x": 2584, "y": 3422, "direction": "E"},  // Banker
+  {"id": 3078, "x": 2600, "y": 3423, "walkRange": 4},   // Man
+  {"id": 2913, "x": 2611, "y": 3392, "walkRange": 3},   // Master fisher
+  {"id": 7727, "x": 2599, "y": 3425, "direction": "S"}, // Kylie Minnow
+  {"id": 7728, "x": 2614, "y": 3446, "direction": "S"}  // Kylie Minnow
+]

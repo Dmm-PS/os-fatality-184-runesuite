@@ -1,0 +1,22 @@
+{
+  "name": "Farmer's Shop",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 502, "option": "trade" },
+    { "id": 757, "option": "trade" }
+  ],
+  "items": [
+    {"id": 5341 }, // Rake
+	{"id": 5343 }, // Seed dibber
+	{"id": 5329 }, // Secateurs
+	{"id": 952 }, // spade
+	{"id": 5325 }, // Gardening trowel
+	{"id": 5340 }, // Watering can
+	{"id": 5356 }, // Pl;ant pot
+	{"id": 13250 }, // Plant pot pack
+	{"id": 6032, "price": 150}, // Compost
+	{"id": 19704, "price": 15000}, // Compost pack
+	{"id": 6036 } // Plant cure
+  ]
+}

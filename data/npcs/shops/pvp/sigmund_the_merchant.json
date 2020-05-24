@@ -1,0 +1,265 @@
+{
+  "name": "Sigmund's Supply Exchange",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 3894, "option": "trade" }
+  ],
+  "items": [
+    { "id": 8013, "price": 1000 },       // House teleport
+    { "id": 1712, "price": 80000 },     // Amulet of glory (4)
+    { "id": 1731, "price": 2500 },       // Amulet of power
+    { "id": 1725, "price": 5000 },       // Amulet of strength
+    { "id": 4081, "price": 2000000 },    // Salve Amulet.
+    { "id": 1321, "price": 250 },        // Bronze scimitar
+    { "id": 1323, "price": 500 },        // Iron scimitar
+    { "id": 1329, "price": 1500 },       // Mithril scimitar
+    { "id": 1331, "price": 3000 },       // Adamant Scimitar
+    { "id": 1333, "price": 30000 },      // Rune scimitar
+    { "id": 1381, "price": 5000 },       // Air staff
+    { "id": 1383, "price": 5000 },       // Water staff
+    { "id": 1385, "price": 5000 },       // Earth staff
+    { "id": 1387, "price": 5000 },       // Fire staff
+    { "id": 4675, "price": 80000 },      // Ancient staff
+    { "id": 1307, "price": 500 },        // Bronze 2h sword
+    { "id": 1309, "price": 1000},        // Iron 2h sword
+    { "id": 1315, "price": 3000 },       // Mithril 2h sword
+    { "id": 1317, "price": 6000 },       // Adamant 2h sword
+    { "id": 1319, "price": 40000 },      // Rune 2h sword
+    { "id": 1215, "price": 30000 },      // Dragon dagger
+    { "id": 1305, "price": 80000 },      // Dragon longsword
+    { "id": 4587, "price": 120000 },     // Dragon scimitar
+    { "id": 1434, "price": 60000 },      // Dragon mace
+    { "id": 1377, "price": 150000 },     // Dragon battleaxe
+    { "id": 19675, "price": 2000000 },     // Archlight
+    { "id": 6746, "price": 2000000 },     // Darklight
+    { "id": 12960, "price": 782 },         // Bronze set legs
+    { "id": 12962, "price": 774 },        // Bronze set skirt
+    { "id": 12972, "price": 1200 },        // Iron set legs
+    { "id": 12974, "price": 1873 },        // Iron set skirt
+    { "id": 12984, "price": 6000 },        // Steel set legs
+    { "id": 12986, "price": 5872 },       // Steel set skirt
+    { "id": 13000, "price": 13000 },       // Mithril set legs
+    { "id": 13002, "price": 12877 },       // Mithril set skirt
+    { "id": 13012, "price": 30000 },       // Adamant set legs
+    { "id": 13014, "price": 29982 },      // Adamant set skirt
+    { "id": 13024, "price": 230000 },      // Rune set legs
+    { "id": 13026, "price": 228372 },      // Rune set skirt
+    { "id": 1201, "price": 55000 },      // Rune kiteshield
+    { "id": 9672, "price": 8000},        // Proselyte sallet
+    { "id": 9674, "price": 12000},       // Proselyte hauberk
+    { "id": 9676, "price": 10000},       // Proselyte cuisse
+    { "id": 9678, "price": 10000},       // Proselyte tasset
+    { "id": 1540, "price": 2500},        // Anti-dragon shield
+    { "id": 3122, "price": 60000},       // Granite shield
+    { "id": 3755, "price": 60000 },      // Farseer helm
+    { "id": 3749, "price": 60000 },      // Archer helm
+    { "id": 3753, "price": 60000 },      // Warrior helm
+    { "id": 3751, "price": 60000 },      // Berserker helm
+    { "id": 10828, "price": 75000 },     // Helm of neitiznot
+    { "id": 7458, "price": 5000 },       // Mithril gloves
+    { "id": 7460, "price": 15000 },      // Rune gloves
+    { "id": 7462, "price": 100000 },     // Barrows gloves
+    { "id": 3105, "price": 1000 },       // Rock climbing boots
+    { "id": 841, "price": 50 },          // Shortbow
+    { "id": 843, "price": 100 },         // Oak shortbow
+    { "id": 849, "price": 250 },         // Willow shortbow
+    { "id": 853, "price": 500 },         // Maple shortbow
+    { "id": 857, "price": 950 },         // Yew shortbow
+    { "id": 861, "price": 1750 },        // Magic shortbow
+    { "id": 9179, "price": 1500 },       // Steel crossbow
+    { "id": 9181, "price": 2500 },       // Mith crossbow
+    { "id": 9183, "price": 5000 },       // Adamant crossbow
+    { "id": 9185, "price": 17500 },      // Rune crossbow
+    { "id": 882, "price": 10 },          // Bronze arrow
+    { "id": 884, "price": 20 },          // Iron arrow
+    { "id": 886, "price": 50 },          // Steel arrow
+    { "id": 888, "price": 200 },          // Mithril arrow
+    { "id": 890, "price": 350 },          // Adamant arrow
+    { "id": 892, "price": 750 },         // Rune arrow
+    { "id": 11212, "price": 5000 },      // Dragon arrow
+    { "id": 877, "price": 30 },          // Bronze bolts
+    { "id": 9140, "price": 50 },         // Iron bolts
+    { "id": 9141, "price": 100 },        // Steel bolts
+    { "id": 864, "price": 100 },         // Bronze knife
+    { "id": 863, "price": 150 },         // Iron knife
+    { "id": 865, "price": 200 },         // Steel knife
+    { "id": 866, "price": 250 },         // Mithril knife
+    { "id": 867, "price": 500},          // Adamant knife
+    { "id": 868, "price": 1250 },        // Rune knife
+    { "id": 11230, "price": 4500 },      // Dragon dart
+    { "id": 9142, "price": 300 },        // Mithril bolts
+    { "id": 9143, "price": 350 },        // Adamant bolts
+    { "id": 9144, "price": 400 },        // Runite bolts
+    { "id": 1169, "price": 500 },        // Coif
+    { "id": 1129, "price": 500 },        // Leather body
+    { "id": 1133, "price": 850 },        // Studded body
+    { "id": 10499, "price": 50000 },     // Ava's accumulator
+    { "id": 12865, "price": 20000 },       // Green d'hide set
+    { "id": 12867, "price": 30000 },      // Blue d'hide set
+    { "id": 6326, "price": 5000 },       // Snakeskin bandana
+    { "id": 6322, "price": 10000 },      // Snakeskin body
+    { "id": 6324, "price": 8000 },       // Snakeskin chaps
+    { "id": 6328, "price": 6000 },       // Snakeskin boots
+    { "id": 12869, "price": 45000 },      // Red d'hide set
+    { "id": 12871, "price": 60000 },      // Black d'hide set
+    { "id": 554, "price": 3 },          // Fire rune
+    { "id": 555, "price": 3 },          // Water rune
+    { "id": 556, "price": 3 },          // Air rune
+    { "id": 557, "price": 3 },          // Earth rune
+    { "id": 558, "price": 3 },          // Mind rune
+    { "id": 559, "price": 3 },          // Body rune
+    { "id": 560, "price": 350 },         // Death rune
+    { "id": 2415, "price": 80000 },      // Saradomin staff
+    { "id": 2416, "price": 80000 },      // Guthix staff
+    { "id": 2417, "price": 80000 },      // Zamorak staff
+    { "id": 561, "price": 325 },         // Nature rune
+    { "id": 562, "price": 100 },         // Chaos rune
+    { "id": 563, "price": 300 },         // Law rune
+    { "id": 564, "price": 350 },         // Cosmic rune
+    { "id": 565, "price": 600 },         // Blood rune
+    { "id": 566, "price": 600 },         // Soul rune
+    { "id": 9075, "price": 270 },        // Astral rune
+    { "id": 6562, "price": 1000000 },        // Mud Battlestaff
+    { "id": 2412, "price": 50000 },       // Saradomin cape
+    { "id": 2413, "price": 50000 },       // Guthix cape
+    { "id": 2414, "price": 50000 },       // Zamorak cape
+    { "id": 3840, "price":10000 },       // Holy book
+    { "id": 3842, "price":10000 },       // Unholy book
+    { "id": 3844, "price":10000 },       // Book of balance
+    { "id": 579, "price": 500 },         // Blue wizard hat
+    { "id": 577, "price": 500 },         // Blue wizard robe
+    { "id": 1011, "price": 500 },        // Blue skirt
+    { "id": 544, "price": 500 },         // Monk's robe top
+    { "id": 542, "price": 500 },         // Monk's robe
+    { "id": 12608, "price": 10000 },     // Book of war
+    { "id": 12610, "price": 10000 },     // Book of law
+    { "id": 12612, "price": 10000 },     // Book of darkness
+    { "id": 4089, "price": 10000 },      // Mystic hat
+    { "id": 4091, "price": 80000 },      // Mystic robe top
+    { "id": 4093, "price": 50000 },      // Mystic robe bottom
+    { "id": 4095, "price": 6500 },       // Mystic gloves
+    { "id": 4097, "price": 6500 },       // Mystic boots
+    { "id": 4109, "price": 15000 },      // Mystic hat (light)
+    { "id": 4111, "price": 85000 },      // Mystic robe top (light)
+    { "id": 4113, "price": 55000 },      // Mystic robe bottom (light)
+    { "id": 4115, "price": 10000 },      // Mystic gloves (light)
+    { "id": 4117, "price": 10000 },      // Mystic boots (light)
+    { "id": 4099, "price": 15000 },      // Mystic hat (dark)
+    { "id": 4101, "price": 85000 },      // Mystic robe top (dark)
+    { "id": 4103, "price": 55000 },      // Mystic robe bottom (dark)
+    { "id": 4105, "price": 10000 },      // Mystic gloves (dark)
+    { "id": 4107, "price": 10000 },      // Mystic boots (dark)
+    { "id": 3385, "price": 10000 },      // Splitbark helm
+    { "id": 3387, "price": 30000 },      // Splitbark body
+    { "id": 3389, "price": 25000 },      // Splitbark legs
+    { "id": 3391, "price": 5000 },       // Splitbark gauntlets
+    { "id": 3393, "price": 5000 },       // Splitbark boots
+    { "id": 333, "price": 50 },          // Trout
+    { "id": 361, "price": 100 },         // Tuna
+    { "id": 379, "price": 300 },         // Lobster
+    { "id": 373, "price": 500 },         // Swordfish
+    { "id": 7946, "price": 900 },        // Monkfish
+    { "id": 385, "price": 1800 },        // Shark
+    { "id": 2289, "price": 750 },        // Plain pizza
+    { "id": 2301, "price": 900 },          // Pineapple pizza
+    { "id": 4417, "price": 700 },          // Guthix rest
+    { "id": 3144, "price": 1250 },        // Karambwan
+    { "id": 2436, "price": 4000 },        // Super attack(4)
+    { "id": 2440, "price": 6000 },        // Super strength(4)
+    { "id": 2442, "price": 3325 },        // Super defence(4)
+    { "id": 2444, "price": 3325 },        // Ranging potion(4)
+    { "id": 3040, "price": 1500 },        // Magic potion(4)
+    { "id": 2446, "price": 1500 },         // Antipoison(4)
+    { "id": 3008, "price": 1250 },        // Energy potion(4)
+    { "id": 2434, "price": 8645 },        // Prayer potion(4)
+    { "id": 3024, "price": 10640 },       // Super restore(4)
+    { "id": 6685, "price": 10640 },       // Saradomin brew(4)
+    { "id": 2452, "price": 10000 },       // Antifire potion(4)
+    { "id": 5935, "price": 1250 },        // Coconut milk
+    { "id": 245, "price": 1300 },         // Wine of zamorak
+    { "id": 7510, "price": 1000 },         // Rock cake
+    { "id": 221, "price": 10 },            // Eye of newt
+    { "id": 235, "price": 1000 },          // Unicorn horn dust
+    { "id": 225, "price": 2500 },         // Limpwurt root
+    { "id": 223, "price": 60 },           // Red spiders' eggs
+    { "id": 1975, "price": 90 },          // Chocolate dust
+    { "id": 239, "price": 850 },          // White berries
+    { "id": 2152, "price": 75 },          // Toad's legs
+    { "id": 9736, "price": 250 },         // Goat horn dust
+    { "id": 231, "price": 50 },           // Snape grass
+    { "id": 2970, "price": 950 },         // Mort myre fungus
+    { "id": 241, "price": 150 },          // Dragon scale dust
+    { "id": 6049, "price": 550 },         // Yew roots
+    { "id": 6051, "price": 2750 },        // Magic roots
+    { "id": 6016, "price": 5700 },        // Cactus spine
+    { "id": 3138, "price": 250 },         // Potato cactus
+    { "id": 12640, "price": 6000 },        // Amylase crystal
+    { "id": 247, "price": 450 },          // Jangerberries
+    { "id": 6018, "price": 1250 },        // Poison ivy berries
+    { "id": 1349, "price": 500 },         // Iron axe
+    { "id": 1353, "price": 1000 },        // Steel axe
+    { "id": 1355, "price": 2500 },        // Mithril axe
+    { "id": 1357, "price": 5000 },        // Adamant axe
+    { "id": 1359, "price": 15500 },       // Rune axe
+    { "id": 1267, "price": 500 },         // Iron pickaxe
+    { "id": 1269, "price": 1000 },        // Steel pickaxe
+    { "id": 1273, "price": 2500 },        // Mithril pickaxe
+    { "id": 1271, "price": 5000 },        // Adamant pickaxe
+    { "id": 1275, "price": 19200 },       // Rune pickaxe
+    { "id": 303, "price": 500},         // Small fishing net
+    { "id": 305, "price": 500},         // Big fishing net
+    { "id": 307, "price": 500},         // Fishing rod
+    { "id": 309, "price": 500},         // Fly fishing rod
+    { "id": 1585, "price": 500},        // Oily fishing rod
+    { "id": 11323, "price": 500},       // Barbarian rod
+    { "id": 301, "price": 500},         // Lobster pot
+    { "id": 311, "price": 500},         // Harpoon
+    { "id": 313, "price": 1},           // Fishing bait
+    { "id": 3157, "price": 3},           //karambwanji vessel
+    { "id": 3150, "price": 40},           //karambwanji
+    { "id": 11940, "price": 50},          // Dark fishing bait
+    { "id": 314, "price": 10},           // Feather
+    { "id": 590, "price": 250},          // Tinderbox
+    { "id": 946, "price":250 },          // Knife
+    { "id": 2347, "price": 150 },         // Hammer
+    { "id": 1755, "price": 55 },         // Chisel
+    { "id": 1733, "price": 94 },         // Needle
+    { "id": 1734, "price": 9 },          // Thread
+    { "id": 1741, "price": 400 },        // Leather
+    { "id": 952, "price": 500 },         // Spade
+    { "id": 233, "price": 5000 },        // Pestle and mortar
+    { "id": 227, "price": 10 },          // Vial of water
+    { "id": 9434, "price": 250 },       // Bolt mould
+    { "id": 1592, "price": 250 },       // Ring mould
+    { "id": 1595, "price": 250 },       // Amulet mould
+    { "id": 1597, "price": 250 },       // Necklace mould
+    { "id": 11065, "price": 250 },      // Bracelet mould
+    { "id": 5523, "price": 250 },       // Tiara mould
+    { "id": 5341, "price": 250 },       // Rake
+    { "id": 5343, "price": 250 },       // Seed dibber
+    { "id": 5329, "price": 250 },       // Secateurs
+    { "id": 5340, "price": 100 },       // Watering can(8)
+    { "id": 5325, "price": 250 },       // Gardening trowel
+    { "id": 954, "price": 250 },        // Rope
+    { "id": 9436, "price": 80000 },        // Sinew
+    { "id": 10006, "price": 500 },      // Bird snare
+    { "id": 10008, "price": 250 },       // Box trap
+    { "id": 1523, "price": 250 },       // Lockpick
+    { "id": 1735, "price": 250 },       // Shears
+    { "id": 1925, "price": 10 },       // Bucket
+    { "id": 1757, "price": 150 },        // Brown Apron
+    { "id": 1949, "price": 150 },        // Chef's Hat
+    { "id": 1759, "price": 250 },        // Ball of wool  
+    { "id": 1785, "price": 125 },        // Glassblowing pipe
+    { "id": 10010, "price": 250 },        // Butterfly net 
+    { "id": 11260, "price": 100 },        // Impling jar
+    { "id": 4, "price": 5000 },        // Ammo mould
+    { "id": 1938, "price": 500 }  ,      // Jugs of water
+    { "id": 1625, "price": 28 },        // Uncut opal
+    { "id": 1623, "price": 47 },        // Uncut sapphire
+    { "id": 1621, "price": 92 },        // Uncut emerald
+    { "id": 1619, "price": 152 },        // Uncut ruby
+    { "id": 1617, "price": 384 }        // Uncut diamond
+  ]
+}

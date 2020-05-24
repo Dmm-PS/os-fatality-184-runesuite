@@ -1,0 +1,12 @@
+{
+  "name": "Fairy Fixit's Fairy Enchantment",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 7333, "option": "trade" }
+  ],
+  "items": [
+    {"id": 20609, price: 750000},   // Fairy enchantment
+    {"id": 772, price: 500000}     // Dramen staff
+  ]
+}

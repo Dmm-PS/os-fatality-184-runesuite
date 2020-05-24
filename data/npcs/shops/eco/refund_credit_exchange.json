@@ -1,0 +1,28 @@
+{
+  "name": "Refunded Credit Exchange",
+  "currency": "REFUNDED_CREDITS",
+  "ironman": true,
+  "npcs": [
+    { "id": 2108, "option": "Open-shop" }
+  ],
+  "items": [
+    { "id": 290, "price": 100 },// Super M Box
+    { "id": 6199, "price": 50 },// Regular M Box
+    { "id": 6828, "price": 300 },// Pet M box
+    { "id": 21295, "price": 550 },// Infernal cape
+    { "id": 6570, "price": 50  },// Fire cape
+    { "id": 12954, "price": 50 },// Dragon Defender
+    { "id": 10551, "price": 50 },// Fighter torso
+    { "id": 21034, "price": 400 },// Dex Prayer Scroll
+    { "id": 21079, "price": 400 },// Arcane Prayer Scroll
+    { "id": 11773, "price": 50 },// Berserker ring (i)
+    { "id": 11771, "price": 50 },// Archer ring (i)
+    { "id": 11770, "price": 30 },// Seers ring (i)
+    { "id": 11772, "price": 30 },// Warrior ring (i)
+    { "id": 2572, "price": 50 },// Ring of wealth
+    { "id": 10834, "price": 900 },// Dice Bag
+    { "id": 12791, "price": 70 },// Rune pouch
+    { "id": 12019, "price": 100 }// Coal bag
+
+  ]
+}

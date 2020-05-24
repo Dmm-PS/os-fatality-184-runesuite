@@ -1,0 +1,26 @@
+{
+  "name": "TzHaar-Hur-Rin's Ore and Gem Store",
+  "currency": "TOKKUL",
+  "ironman": true,
+  "npcs": [
+    { "id": 7689, "option": "trade" }
+  ],
+  "items": [
+    {"id": 438, price: 4},       // Tin ore
+    {"id": 436, price: 4},       // Copper ore
+	  {"id": 440, price: 25},      // Iron ore
+    {"id": 442, price: 112},     // Silver ore
+    {"id": 453, price: 67},      // Coal ore
+    {"id": 444, price: 225},     // Gold ore
+    {"id": 447, price: 243},     // Mithril ore
+    {"id": 449, price: 600},     // Adamant ore
+    {"id": 451, price: 4800},    // Runite ore
+    {"id": 1623, price: 37},     // Uncut sapphire
+    {"id": 1621, price: 75},     // Uncut emerald
+    {"id": 1619, price: 150},    // Uncut ruby
+    {"id": 1617, price: 300},    // Uncut diamond
+    {"id": 1631, price: 1500},   // Uncut dragonstone
+    {"id": 6571, price: 300000}, // Uncut onyx
+    {"id": 9194, price: 1500}    // Onyx bolt tips
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Voting Rewards",
+  "currency": "VOTE_TICKETS",
+  "ironman": true,
+  "npcs": [
+    { "id": 1815, "option": "trade" }
+  ],
+  "items": [
+    { "id": 6199, "price": 60 },  //Mystery Box
+    { "id": 290, "price": 100 },  //Super Mystery Box
+    { "id": 6829, "price": 6 },  //Voting Mystery Box
+    { "id": 6831, "price": 600 },  //3rd Age Mystery Box
+    { "id": 11862, "price": 1500 },  //Black Party Hat
+    { "id": 13343, "price": 1000 },  //Black Santa Hat
+    { "id": 11847, "price": 800 },  //Black h'ween mask
+    { "id": 299, "price": 1 },  //Mithril Seeds
+    { "id": 962, "price": 1000 },  //Christmas Cracker
+    { "id": 7462, "price": 20 },  //barrows gloves
+    { "id": 7409, "price": 15 },  //magic secs
+    { "id": 4212, "price": 50 },  //crystal bow
+    { "id": 4225, "price": 50 },  //c shield
+    { "id": 13092, "price": 50 },  //c hally
+    { "id": 5514, "price": 15 },  //Giant Pouch
+    { "id": 12791, "price": 100 },  //Rune Pouch
+    { "id": 19556, "price": 1000 },  //Monkey Backpack
+    { "id": 20017, "price": 100 },  //Ring Of Coins
+    { "id": 21859, "price": 600 },  //Wise Old Man's Santa Hat
+    { "id": 4084, "price": 500 },  //Sled
+    { "id": 1419, "price": 500 },  //Scythe
+    { "id": 4565, "price": 600 }  //Easter Basket
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {"id": 3194, "x": 3042, "y": 4972, "z": 1, "walkRange": 0}, // Emerald Benedict
+  {"id": 3193, "x": 3047, "y": 4975, "z": 1, "walkRange": 5}, // Martin Thwait
+  {"id": 3189, "x": 3049, "y": 4977, "z": 1, "walkRange": 5}, // Brian O'Richard
+  {"id": 5919, "x": 3050, "y": 4962, "z": 1, "walkRange": 1}, // Grace
+  {"id": 5920, "x": 3051, "y": 4963, "z": 1, "walkRange": 0}  // Mark
+]

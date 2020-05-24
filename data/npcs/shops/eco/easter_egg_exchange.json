@@ -1,0 +1,19 @@
+{
+  "name": "Old Man's Easter Egg Exchange",
+  "currency": "EASTER_EGGS",
+  "ironman": true,
+  "npcs": [
+    { "id": 8500, "option": "trade" }
+  ],
+  "items": [
+    {"id": 4566, "price": 30}, // Rubber Chicken
+    {"id": 21214, "price": 10}, // Easter egg helm
+    {"id": 22351, "price": 15}, // Eggshell body
+    {"id": 22353, "price": 15}, // Eggshell legs
+    {"id": 1037, "price": 20}, // Bunny ears
+    {"id": 13663, "price": 10}, // Bunny top
+    {"id": 13664, "price": 10}, // Bunny legs
+    {"id": 13182, "price": 20}, // Bunny feet
+    {"id": 13665, "price": 5} // Bunny paws
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {"id": 460, "x": 3322, "y": 2913, "walkRange": 3}, // Desert Lizard
+  {"id": 460, "x": 3316, "y": 2915, "walkRange": 3}, // Desert Lizard
+  {"id": 460, "x": 3326, "y": 2916, "walkRange": 3}, // Desert Lizard
+  {"id": 460, "x": 3331, "y": 2914, "walkRange": 3}, // Desert Lizard
+  {"id": 460, "x": 3336, "y": 2917, "walkRange": 3}, // Desert Lizard
+  {"id": 460, "x": 3341, "y": 2921, "walkRange": 3}, // Desert Lizard
+  {"id": 460, "x": 3345, "y": 2919, "walkRange": 3}, // Desert Lizard
+  {"id": 460, "x": 3351, "y": 2920, "walkRange": 3} // Desert Lizard
+]

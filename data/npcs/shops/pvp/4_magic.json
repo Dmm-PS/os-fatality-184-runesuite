@@ -1,0 +1,37 @@
+{
+  "name": "Blood Money Magic Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 5081, "option": "magic" }
+  ],
+  "items": [
+    { "id": 20724, "price": 1150 }, //Imbued heart
+    { "id": 11791, "price": 2000 }, //Staff of the dead
+    { "id": 6914, "price": 450 }, //Master wand
+    { "id": 6889, "price": 400 }, //Mage's book
+    { "id": 20733, "price": 100 }, //Mystic mist staff
+    { "id": 20739, "price": 100 }, //Mystic dust staff
+    { "id": 12000, "price": 100 }, //Mystic smoke staff
+    { "id": 6563, "price": 150 }, //Mystic mud staff
+    { "id": 4170, "price": 75 }, //Slayer's staff
+    { "id": 11924, "price": 1500 }, //Malediction ward
+    { "id": 20716, "price": 500 }, //Tome of fire
+    { "id": 20718, "price": 10 }, //Burnt page
+    { "id": 20595, "price": 450 }, //Elder chaos hood
+    { "id": 6918, "price": 50 }, //Infinity hat
+    { "id": 20128, "price": 350 }, //Hood of darkness
+    { "id": 4708, "price": 100 }, //Ahrim's hood
+    { "id": 20517, "price": 500 }, //Elder chaos top
+    { "id": 6916, "price": 75 }, //Infinity top
+    { "id": 20131, "price": 400 }, //Robe top of darkness
+    { "id": 4712, "price": 100 }, //Ahrim's robetop
+    { "id": 20520, "price": 500 }, //Elder chaos robe
+    { "id": 6924, "price": 75 }, //Infinity bottoms
+    { "id": 20137, "price": 400 }, //Robe bottom of darkness
+    { "id": 4714, "price": 100 }, //Ahrim's robeskirt
+    { "id": 6920, "price": 500 }, //Infinity boots
+    { "id": 20140, "price": 550 }, //Boots of darkness
+    { "id": 4710, "price": 100 } //Ahrim's staff
+  ]
+}

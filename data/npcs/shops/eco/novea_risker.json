@@ -1,0 +1,11 @@
+{
+  "name": "Gambling Shop",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 5523, "option": "trade" }
+  ],
+  "items": [
+    { "id": 299, "price": 25000 } //Mithril seeds
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Blood Money Untradeable Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": true,
+  "npcs": [
+    { "id": 4225, "option": "untradeable" }
+  ],
+  "items": [
+    { "id": 12846, "price": 2500 }, //Bounty teleport scroll
+    { "id": 12855, "price": 500 }, //Hunter's honour
+    { "id": 12856, "price": 500 }, //Rogue's revenge
+    { "id": 11941, "price": 300 }, //Looting bag
+    { "id": 12791, "price": 500 }, //Rune pouch
+    { "id": 13124, "price": 450 }, //Ardougne cloak 4
+    { "id": 6570, "price": 1500 }, //Fire cape
+    { "id": 21295, "price": 10000 }, //Infernal cape
+    { "id": 7462, "price": 50 }, //Barrows gloves
+    { "id": 12608, "price": 50 }, //Book of war
+    { "id": 12610, "price": 50 }, //Book of law
+    { "id": 12612, "price": 50 }, //Book of darkness
+    { "id": 8850, "price": 100 }, //Rune defender
+    { "id": 12954, "price": 500 }, //Dragon defender
+    { "id": 12638, "price": 300 }, //Zamorak halo
+    { "id": 12637, "price": 300 }, //Saradomin halo
+    { "id": 12639, "price": 300 }, //Guthix halo
+    { "id": 11898, "price": 200 }, //Decorative armour
+    { "id": 11896, "price": 200 }, //Decorative armour
+    { "id": 11897, "price": 200 }, //Decorative armour
+    { "id": 11899, "price": 200 }, //Decorative armour
+    { "id": 11900, "price": 200 }, //Decorative armour
+    { "id": 11901, "price": 200 }, //Decorative armour
+    { "id": 11663, "price": 250 }, //Void mage helm
+    { "id": 11665, "price": 250 }, //Void melee helm
+    { "id": 11664, "price": 250 }, //Void ranger helm
+    { "id": 8839, "price": 300 }, //Void knight top
+    { "id": 8840, "price": 300 }, //Void knight robe
+    { "id": 8842, "price": 175 }, //Void knight gloves
+    { "id": 10548, "price": 100 }, //Fighter hat
+    { "id": 10551, "price": 150 }, //Fighter torso
+    { "id": 10555, "price": 200 }, //Penance skirt
+    { "id": 13111, "price": 3000 }, //Wilderness sword (4)
+    { "id": 22114, "price": 40 }, //Mythical cape
+    { "id": 22109, "price": 500 }, //Ava's assembler
+    { "id": 19564, "price": 2500 } //Royal seed pod
+  ]
+}

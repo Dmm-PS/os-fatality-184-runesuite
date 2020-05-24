@@ -1,0 +1,17 @@
+{
+  "name": "Grace's Graceful Clothing",
+  "currency": "MARKS_OF_GRACE",
+  "ironman": true,
+  "npcs": [
+    { "id": 5919, "option": "trade" }
+  ],
+  "items": [
+    { "id": 11850, "price": 35 }, // Graceful hood
+    { "id": 11854, "price": 55 }, // Graceful top
+    { "id": 11856, "price": 60 }, // Graceful legs
+    { "id": 11858, "price": 30 }, // Graceful gloves
+    { "id": 11860, "price": 40 }, // Graceful boots
+    { "id": 11852, "price": 40 }, // Graceful cape
+    { "id": 12641, "price": 10 } // Amylase pack
+  ]
+}

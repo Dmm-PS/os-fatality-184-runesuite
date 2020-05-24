@@ -1,0 +1,50 @@
+[
+  {"id": 404, "x": 2448, "y": 4431, "walkRange": 5}, 
+  {"id": 5736, "x": 2426, "y": 4442, "walkRange": 5}, //Fairy Aeryka
+  {"id": 5735, "x": 2589, "y": 4317, "walkRange": 1}, //Fairy Aeryka
+  //static impling spawns
+  {"id": 1635, "x": 2563, "y": 4291, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2563, "y": 4348, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2569, "y": 4323, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2571, "y": 4305, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2581, "y": 4300, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2596, "y": 4296, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2609, "y": 4339, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2610, "y": 4304, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2615, "y": 4322, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2620, "y": 4291, "z": 0, "walkRange": 10},//BABY
+  {"id": 1635, "x": 2620, "y": 4348, "z": 0, "walkRange": 10},//BABY
+
+  {"id": 1636, "x": 2564, "y": 4321, "z": 0, "walkRange": 10},//YOUNG
+  {"id": 1636, "x": 2573, "y": 4330, "z": 0, "walkRange": 10},//YOUNG
+  {"id": 1636, "x": 2574, "y": 4321, "z": 0, "walkRange": 10},//YOUNG
+  {"id": 1636, "x": 2590, "y": 4348, "z": 0, "walkRange": 10},//YOUNG
+  {"id": 1636, "x": 2592, "y": 4291, "z": 0, "walkRange": 10},//YOUNG
+  {"id": 1636, "x": 2595, "y": 4343, "z": 0, "walkRange": 10},//YOUNG
+  {"id": 1636, "x": 2612, "y": 4327, "z": 0, "walkRange": 10},//YOUNG
+  {"id": 1636, "x": 2612, "y": 4309, "z": 0, "walkRange": 10},//YOUNG
+  {"id": 1636, "x": 2619, "y": 4322, "z": 0, "walkRange": 10},//YOUNG
+  {"id": 1636, "x": 2587, "y": 4300, "z": 0, "walkRange": 10},//YOUNG
+
+  {"id": 1637, "x": 2568, "y": 4296, "z": 0, "walkRange": 10},//GOURMET
+  {"id": 1637, "x": 2569, "y": 4327, "z": 0, "walkRange": 10},//GOURMET
+  {"id": 1637, "x": 2574, "y": 4311, "z": 0, "walkRange": 10},//GOURMET
+  {"id": 1637, "x": 2574, "y": 4311, "z": 0, "walkRange": 10},//GOURMET
+  {"id": 1637, "x": 2585, "y": 4296, "z": 0, "walkRange": 10},//GOURMET
+  {"id": 1637, "x": 2597, "y": 4293, "z": 0, "walkRange": 10},//GOURMET
+  {"id": 1637, "x": 2609, "y": 4317, "z": 0, "walkRange": 10},//GOURMET
+  {"id": 1637, "x": 2615, "y": 4298, "z": 0, "walkRange": 10},//GOURMET
+  {"id": 1637, "x": 2618, "y": 4321, "z": 0, "walkRange": 10},//GOURMET
+
+  {"id": 1638, "x": 2570, "y": 4330, "z": 0, "walkRange": 10},//EARTH
+  {"id": 1638, "x": 2598, "y": 4340, "z": 0, "walkRange": 10},//EARTH
+  {"id": 1638, "x": 2587, "y": 4342, "z": 0, "walkRange": 10},//EARTH
+  {"id": 1638, "x": 2612, "y": 4310, "z": 0, "walkRange": 10},//EARTH
+  {"id": 1638, "x": 2611, "y": 4334, "z": 0, "walkRange": 10},//EARTH
+
+  {"id": 1640, "x": 2567, "y": 4319, "z": 0, "walkRange": 10},//ECLECTIC
+  {"id": 1640, "x": 2591, "y": 4340, "z": 0, "walkRange": 10},//ECLECTIC
+  {"id": 1640, "x": 2591, "y": 4295, "z": 0, "walkRange": 10},//ECLECTIC
+  {"id": 1640, "x": 2615, "y": 4326, "z": 0, "walkRange": 10}//ECLECTIC
+
+]

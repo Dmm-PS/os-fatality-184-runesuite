@@ -1,0 +1,111 @@
+  [
+  {"id": 2856, "x": 3099, "y": 9883, "walkRange": 4},  //Rat
+  {"id": 3017, "x": 3099, "y": 9884, "walkRange": 4},  //Spider
+  {"id": 3017, "x": 3096, "y": 9873, "walkRange": 6},  //Spider
+  {"id": 76, "x": 3094, "y": 9889, "walkRange": 4},  //Skeleton
+  {"id": 75, "x": 3096, "y": 9895, "walkRange": 5},  //Skeleton
+  {"id": 74, "x": 3095, "y": 9899, "walkRange": 3},  //Skeleton
+  {"id": 76, "x": 3097, "y": 9905, "walkRange": 3},  //Skeleton
+  {"id": 74, "x": 3096, "y": 9911, "walkRange": 3},  //Skeleton
+  {"id": 2863, "x": 3090, "y": 9894, "walkRange": 3},  //Rat
+  {"id": 2856, "x": 3091, "y": 9898, "walkRange": 3},  //Rat
+  {"id": 75, "x": 3100, "y": 9912, "walkRange": 3},  //Skeleton
+  {"id": 2854, "x": 3110, "y": 9882, "walkRange": 3},  //Baby rat
+  {"id": 2863, "x": 3122, "y": 9890, "walkRange": 2},  //Rat
+  {"id": 2856, "x": 3120, "y": 9893, "walkRange": 2},  //Rat
+  {"id": 71, "x": 3113, "y": 9909, "walkRange": 5},  //Skeleton
+  {"id": 77, "x": 3120, "y": 9909, "walkRange": 5},  //Skeleton
+  {"id": 70, "x": 3134, "y": 9905, "walkRange": 2},  //Skeleton
+  {"id": 77, "x": 3133, "y": 9907, "walkRange": 4},  //Skeleton
+  {"id": 81, "x": 3140, "y": 9878, "walkRange": 4},  //Skeleton
+  {"id": 77, "x": 3139, "y": 9872, "walkRange": 4},  //Skeleton
+  {"id": 73, "x": 3136, "y": 9871, "walkRange": 4},  //Skeleton
+  {"id": 79, "x": 3136, "y": 9877, "walkRange": 4},  //Skeleton
+  {"id": 73, "x": 3132, "y": 9913, "walkRange": 4},  //Skeleton
+  {"id": 71, "x": 3131, "y": 9910, "walkRange": 2},  //Skeleton
+  {"id": 79, "x": 3150, "y": 9876, "walkRange": 3},  //Skeleton
+  {"id": 80, "x": 3149, "y": 9870, "walkRange": 3},  //Skeleton
+  {"id": 82, "x": 3105, "y": 9951, "walkRange": 2},  //Skeleton
+  {"id": 82, "x": 3106, "y": 9954, "walkRange": 2},  //Skeleton
+  {"id": 82, "x": 3109, "y": 9954, "walkRange": 2},  //Skeleton
+  {"id": 82, "x": 3110, "y": 9957, "walkRange": 2},  //Skeleton
+  {"id": 82, "x": 3109, "y": 9953, "walkRange": 2},  //Skeleton
+  {"id": 3050, "x": 3127, "y": 9873, "walkRange": 4},  //HobGob
+  {"id": 3049, "x": 3124, "y": 9874, "walkRange": 4},  //HobGob
+  {"id": 3049, "x": 3123, "y": 9879, "walkRange": 4},  //HobGob
+  {"id": 3050, "x": 3119, "y": 9873, "walkRange": 4},  //HobGob
+  {"id": 3050, "x": 3116, "y": 9870, "walkRange": 4},  //HobGob
+  {"id": 56, "x": 3119, "y": 9869, "walkRange": 4},  //Zombie
+  {"id": 55, "x": 3120, "y": 9862, "walkRange": 4},  //Zombie
+  {"id": 57, "x": 3127, "y": 9861, "walkRange": 4},  //Zombie
+  {"id": 58, "x": 3126, "y": 9865, "walkRange": 4},  //Zombie
+  {"id": 55, "x": 3130, "y": 9862, "walkRange": 4},  //Zombie
+  {"id": 42, "x": 3141, "y": 9911, "walkRange": 3},  //Zombie
+  {"id": 42, "x": 3147, "y": 9906, "walkRange": 3},  //Zombie
+  {"id": 42, "x": 3150, "y": 9888, "walkRange": 3},  //Zombie
+  {"id": 42, "x": 3144, "y": 9883, "walkRange": 2},  //Zombie
+  {"id": 43, "x": 3147, "y": 9907, "walkRange": 4},  //Zombie
+  {"id": 43, "x": 3141, "y": 9915, "walkRange": 3},  //Zombie
+  {"id": 43, "x": 3141, "y": 9897, "walkRange": 3},  //Zombie
+  {"id": 43, "x": 3145, "y": 9890, "walkRange": 5},  //Zombie
+  {"id": 44, "x": 3151, "y": 9877, "walkRange": 3},  //Zombie
+  {"id": 44, "x": 3139, "y": 9890, "walkRange": 4},  //Zombie
+  {"id": 2098, "x": 3118, "y": 9849, "walkRange": 6}, // Hill giant
+  {"id": 2100, "x": 3120, "y": 9845, "walkRange": 6}, // Hill giant
+  {"id": 2099, "x": 3116, "y": 9845, "walkRange": 6}, // Hill giant
+  {"id": 2101, "x": 3110, "y": 9843, "walkRange": 6}, // Hill giant
+  {"id": 2098, "x": 3111, "y": 9840, "walkRange": 6}, // Hill giant
+  {"id": 2102, "x": 3117, "y": 9835, "walkRange": 6}, // Hill giant
+  {"id": 2102, "x": 3116, "y": 9832, "walkRange": 6}, // Hill giant
+  {"id": 2103, "x": 3112, "y": 9832, "walkRange": 6}, // Hill giant
+  {"id": 2101, "x": 3108, "y": 9833, "walkRange": 6}, // Hill giant
+  {"id": 2103, "x": 3106, "y": 9828, "walkRange": 6}, // Hill giant
+  {"id": 2099, "x": 3102, "y": 9831, "walkRange": 6}, // Hill giant
+  {"id": 2100, "x": 3100, "y": 9834, "walkRange": 6}, // Hill giant
+  {"id": 517, "x": 3133, "y": 9928, "walkRange": 2},  //Thug
+  {"id": 517, "x": 3130, "y": 9928, "walkRange": 2},  //Thug
+  {"id": 517, "x": 3132, "y": 9932, "walkRange": 4},  //Thug
+  {"id": 517, "x": 3129, "y": 9931, "walkRange": 4},  //Thug
+  {"id": 517, "x": 3132, "y": 9935, "walkRange": 4},  //Thug
+  {"id": 517, "x": 3128, "y": 9931, "walkRange": 4},  //Thug
+  {"id": 517, "x": 3130, "y": 9934, "walkRange": 4},  //Thug
+  {"id": 517, "x": 3131, "y": 9930, "walkRange": 4},  //Thug
+  {"id": 517, "x": 3130, "y": 9926, "walkRange": 4},  //Thug
+  {"id": 512, "x": 3110, "y": 9936, "walkRange": 2},  //Chaos Druids
+  {"id": 512, "x": 3108, "y": 9934, "walkRange": 2},  //Chaos Druids
+  {"id": 512, "x": 3105, "y": 9936, "walkRange": 2},  //Chaos Druids
+  {"id": 512, "x": 3105, "y": 9940, "walkRange": 2},  //Chaos Druids
+  {"id": 512, "x": 3107, "y": 9943, "walkRange": 2},  //Chaos Druids
+  {"id": 512, "x": 3110, "y": 9941, "walkRange": 2},  //Chaos Druids
+  {"id": 512, "x": 3105, "y": 9941, "walkRange": 2},  //Chaos Druids
+  {"id": 512, "x": 3111, "y": 9931, "walkRange": 2},  //Chaos Druids
+  {"id": 512, "x": 3111, "y": 9929, "walkRange": 2},  //Chaos Druids
+  {"id": 3021, "x": 3126, "y": 9950, "walkRange": 3},  //Deadly Red Spider
+  {"id": 3021, "x": 3127, "y": 9953, "walkRange": 3},  //Deadly Red Spider
+  {"id": 3021, "x": 3122, "y": 9956, "walkRange": 3},  //Deadly Red Spider
+  {"id": 3021, "x": 3119, "y": 9952, "walkRange": 3},  //Deadly Red Spider
+  {"id": 3021, "x": 3121, "y": 9949, "walkRange": 3},  //Deadly Red Spider
+  {"id": 3021, "x": 3119, "y": 9957, "walkRange": 3},  //Deadly Red Spider
+  {"id": 3021, "x": 3116, "y": 9957, "walkRange": 3},  //Deadly Red Spider
+  {"id": 3021, "x": 3120, "y": 9960, "walkRange": 3},  //Deadly Red Spider
+  {"id": 4987, "x": 3086, "y": 9937, "walkRange": 4},  //Chronozon
+  {"id": 3023, "x": 3084, "y": 9937, "walkRange": 3},  //Poison Spider
+  {"id": 3023, "x": 3089, "y": 9936, "walkRange": 3},  //Poison Spider
+  {"id": 3023, "x": 3089, "y": 9941, "walkRange": 3},  //Poison Spider
+  {"id": 2050, "x": 3082, "y": 9957, "walkRange": 5},  //Black Demon
+  {"id": 2052, "x": 3090, "y": 9955, "walkRange": 5},  //Black Demon
+  {"id": 2049, "x": 3094, "y": 9960, "walkRange": 5},  //Black Demon
+  {"id": 82, "x": 3101, "y": 9954, "walkRange": 2},  //Skeleton
+  {"id": 82, "x": 3100, "y": 9957, "walkRange": 2},  //Skeleton
+  {"id": 2840, "x": 3118, "y": 9972, "walkRange": 3},  //Earth Warrior
+  {"id": 2840, "x": 3122, "y": 9972, "walkRange": 3},  //Earth Warrior
+  {"id": 2840, "x": 3121, "y": 9975, "walkRange": 3},  //Earth Warrior
+  {"id": 2840, "x": 3123, "y": 9877, "walkRange": 3},  //Earth Warrior
+  {"id": 2840, "x": 3117, "y": 9988, "walkRange": 3},  //Earth Warrior3
+  {"id": 2840, "x": 3120, "y": 9988, "walkRange": 3},  //Earth Warrior
+  {"id": 2840, "x": 3121, "y": 9991, "walkRange": 3},  //Earth Warrior
+  {"id": 2840, "x": 3124, "y": 9992, "walkRange": 3},  //Earth Warrior
+  {"id": 2840, "x": 3121, "y": 9995, "walkRange": 3},  //Earth Warrior
+  {"id": 2840, "x": 3123, "y": 9988, "walkRange": 3},  //Earth Warrior
+  {"id": 2864, "x": 3117, "y": 9890, "walkRange": 2}  //Rat
+]

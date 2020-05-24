@@ -1,0 +1,24 @@
+{
+  "name": "Construction Supplies",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 5422, "option": "trade" }
+  ],
+  "items": [
+    {"id": 8794, "price": 150},  // Saw
+    {"id": 2347, "price": 150},   // Hammer
+    {"id": 8790, "price": 650},    // Bolt of cloth
+    {"id": 4819, "price": 100},    // Bronze nails
+    {"id": 4820, "price": 250},    // Iron nails
+    {"id": 1539, "price": 400},    // Steel nails
+    {"id": 3420, "price": 500},    // Limestone brick
+    {"id": 8786, "price": 300000},    // Marble block
+    {"id": 4703, "price": 950000},    // Magic stone
+    {"id": 4692, "price": 125000},    // Gold leaf
+    {"id": 20609, "price": 750000},    // Fairy enchantment
+    {"id": 20611, "price": 1000000},    // Ancient signets
+    {"id": 20615, "price": 1000000},    // Arceuus signet
+    {"id": 20613, "price": 1000000}     // Lunar signet
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {"id": 4773, "x": 3010, "y": 3518, "walkRange": 0}, // Fortress Guard
+  {"id": 821, "x": 3011, "y": 3503, "walkRange": 2}, // Oracle
+  {"id": 4774, "x": 3010, "y": 3513, "walkRange": 0}, // Fortress Guard
+  {"id": 5185, "x": 3013, "y": 3460, "walkRange": 1}, // Guard
+  {"id": 4775, "x": 3016, "y": 3512, "walkRange": 0}, // Fortress Guard
+  {"id": 4776, "x": 3012, "y": 3509, "walkRange": 0}, // Fortress Guard
+  {"id": 4331, "x": 3016, "y": 3515, "walkRange": 0}, // Black Knight
+  {"id": 4774, "x": 3014, "y": 3512, "walkRange": 0}, // Fortress Guard
+  {"id": 4775, "x": 3019, "y": 3513, "walkRange": 0}, // Fortress Guard
+  {"id": 508, "x": 3029, "y": 3512, "walkRange": 1}, // Black Knight
+  {"id": 4813, "x": 2999, "y": 3473, "walkRange": 0}, // Icefiend
+  {"id": 4813, "x": 2998, "y": 3465, "walkRange": 0}, // Icefiend
+  {"id": 508, "x": 3021, "y": 3512, "walkRange": 1}, // Black Knight
+  {"id": 4813, "x": 3001, "y": 3471, "walkRange": 2}, // Icefiend
+  {"id": 4813, "x": 3001, "y": 3493, "walkRange": 0}, // Icefiend
+  {"id": 4813, "x": 3002, "y": 3483, "walkRange": 2}, // Icefiend
+  {"id": 5185, "x": 3027, "y": 3457, "walkRange": 0}, // Guard
+  {"id": 4778, "x": 3028, "y": 3505, "walkRange": 1}, // Witch
+  {"id": 4813, "x": 3005, "y": 3501, "walkRange": 2}, // Icefiend
+  {"id": 7749, "x": 3027, "y": 3509, "walkRange": 0}, // 
+  {"id": 4813, "x": 3004, "y": 3495, "walkRange": 1}, // Icefiend
+  {"id": 508, "x": 3024, "y": 3512, "walkRange": 1}, // Black Knight
+  {"id": 4813, "x": 3005, "y": 3469, "walkRange": 2}, // Icefiend
+  {"id": 4780, "x": 3028, "y": 3505, "walkRange": 1}, // Black Cat
+  {"id": 4813, "x": 3005, "y": 3480, "walkRange": 2}, // Icefiend
+  {"id": 4777, "x": 3029, "y": 3509, "walkRange": 1}, // Black Knight Captain
+  {"id": 4813, "x": 3006, "y": 3481, "walkRange": 3}, // Icefiend
+  {"id": 508, "x": 3026, "y": 3511, "walkRange": 3}, // Black Knight
+  {"id": 3078, "x": 3009, "y": 3458, "walkRange": 0}, // Man
+  {"id": 508, "x": 3026, "y": 3513, "walkRange": 3}, // Black Knight
+  {"id": 4813, "x": 3006, "y": 3466, "walkRange": 0}, // Icefiend
+  {"id": 508, "x": 3027, "y": 3501, "walkRange": 4}, // Black Knight
+  {"id": 4779, "x": 3027, "y": 3506, "walkRange": 0}, // Greldo
+  {"id": 508, "x": 3032, "y": 3504, "walkRange": 0}, // Black Knight
+  {"id": 2579, "x": 3048, "y": 3483, "walkRange": 0}, // Monk
+  {"id": 1420, "x": 3032, "y": 3457, "walkRange": 0} // Raccoon
+]

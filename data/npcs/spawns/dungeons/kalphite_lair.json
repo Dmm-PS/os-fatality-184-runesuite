@@ -1,0 +1,55 @@
+[
+  {"id": 957, "x": 3466, "y": 9486, "walkRange": 2, "z": 2}, // Kalphite Soldier
+  {"id": 955, "x": 3469, "y": 9516, "walkRange": 11, "z": 2}, // Kalphite Worker
+  {"id": 957, "x": 3471, "y": 9483, "walkRange": 2, "z": 2}, // Kalphite Soldier
+  {"id": 966, "x": 3477, "y": 9480, "walkRange": 3, "z": 2}, // Kalphite Larva
+  {"id": 957, "x": 3468, "y": 9485, "walkRange": 2, "z": 2}, // Kalphite Soldier
+  {"id": 966, "x": 3471, "y": 9486, "walkRange": 2, "z": 2}, // Kalphite Larva
+  {"id": 957, "x": 3465, "y": 9489, "walkRange": 2, "z": 2}, // Kalphite Soldier
+  {"id": 955, "x": 3464, "y": 9512, "walkRange": 5, "z": 2}, // Kalphite Worker
+  {"id": 957, "x": 3481, "y": 9500, "walkRange": 7, "z": 2}, // Kalphite Soldier
+  {"id": 955, "x": 3469, "y": 9482, "walkRange": 1, "z": 2}, // Kalphite Worker
+  {"id": 955, "x": 3485, "y": 9525, "walkRange": 5, "z": 2}, // Kalphite Worker
+  {"id": 966, "x": 3507, "y": 9490, "walkRange": 6, "z": 2}, // Kalphite Larva
+  {"id": 955, "x": 3488, "y": 9502, "walkRange": 7, "z": 2}, // Kalphite Worker
+  {"id": 955, "x": 3491, "y": 9526, "walkRange": 8, "z": 2}, // Kalphite Worker
+  {"id": 957, "x": 3487, "y": 9490, "walkRange": 8, "z": 2}, // Kalphite Soldier
+  {"id": 955, "x": 3504, "y": 9483, "walkRange": 3, "z": 2}, // Kalphite Worker
+  {"id": 955, "x": 3494, "y": 9509, "walkRange": 6, "z": 2}, // Kalphite Worker
+  {"id": 955, "x": 3497, "y": 9514, "walkRange": 6, "z": 2}, // Kalphite Worker
+  {"id": 955, "x": 3501, "y": 9518, "walkRange": 10, "z": 2}, // Kalphite Worker
+  {"id": 959, "x": 3506, "y": 9494, "walkRange": 4, "z": 2}, // Kalphite Guardian
+  {"id": 955, "x": 3505, "y": 9520, "walkRange": 6, "z": 2}, // Kalphite Worker
+  {"id": 966, "x": 3489, "y": 9524, "walkRange": 7, "z": 2}, // Kalphite Larva
+  {"id": 955, "x": 3501, "y": 9517, "walkRange": 6, "z": 2}, // Kalphite Worker
+  {"id": 959, "x": 3509, "y": 9498, "walkRange": 3, "z": 2}, // Kalphite Guardian
+  {"id": 966, "x": 3469, "y": 9504, "walkRange": 8}, // Kalphite Larva
+  {"id": 963, "x": 3475, "y": 9491, "walkRange": 6}, // Kalphite Queen
+  {"id": 966, "x": 3471, "y": 9498, "walkRange": 2}, // Kalphite Larva
+  {"id": 966, "x": 3491, "y": 9499, "walkRange": 1}, // Kalphite Larva
+  {"id": 966, "x": 3493, "y": 9505, "walkRange": 3}, // Kalphite Larva
+  {"id": 966, "x": 3491, "y": 9498, "walkRange": 2}, // Kalphite Larva
+  {"id": 962, "x": 3494, "y": 9487, "walkRange": 1}, // Kalphite Guardian
+  {"id": 966, "x": 3502, "y": 9490, "walkRange": 4}, // Kalphite Larva
+  {"id": 962, "x": 3493, "y": 9501, "walkRange": 2}, // Kalphite Guardian
+  {"id": 957, "x": 3466, "y": 9482, "walkRange": 2, "z": 2}, // Kalphite Soldier
+  
+  {"id": 955, "x": 3474, "y": 9498, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3471, "y": 9493, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3477, "y": 9492, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3482, "y": 9486, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3485, "y": 9492, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3489, "y": 9488, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3491, "y": 9498, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3496, "y": 9495, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3505, "y": 9494, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3497, "y": 9505, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3489, "y": 9511, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3491, "y": 9507, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3481, "y": 9511, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3475, "y": 9505, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3480, "y": 9504, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3486, "y": 9507, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3491, "y": 9494, "walkRange":  6}, // Kalphite Worker
+  {"id": 955, "x": 3477, "y": 9487, "walkRange":  6} // Kalphite Worker
+]

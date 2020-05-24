@@ -1,0 +1,10 @@
+[
+  {"id": 3082, "x": 2884, "y": 3174, "walkRange": 7}, //Man
+  {"id": 1331, "x": 2954, "y": 3157, "walkRange": 3}, //Trader crewmember
+  {"id": 1333, "x": 2954, "y": 3152, "walkRange": 3}, //Trader crewmember
+  {"id": 3648, "x": 2953, "y": 3146, "walkRange": 2}, //Customs officer
+  {"id": 3652, "x": 2948, "y": 3146, "walkRange": 4}, //Man
+  {"id": 3205, "x": 2926, "y": 3143, "walkRange": 4}, //Zambo
+  {"id": 3647, "x": 2940, "y": 3154, "walkRange": 1}, //Luthas
+  {"id": 6092, "x": 2969, "y": 2972, "walkRange": 4} // Gnome Glider captain
+]

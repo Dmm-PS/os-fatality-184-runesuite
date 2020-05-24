@@ -1,0 +1,8 @@
+[
+  {"id": 3308, "x": 3094, "y": 3107, "walkRange": 2}, // Tutor
+  {"id": 3309, "x": 3142, "y": 3088, "walkRange": 0, "direction": "W"}, // Magic instructor
+
+  {"id": 311, "x": 3136, "y": 3087, "walkRange": 1}, // Iron Man Guide
+  {"id": 317, "x": 3137, "y": 3087, "walkRange": 1}, // Iron Man Guide
+  {"id": 3369, "x": 3138, "y": 3087, "walkRange": 1} // Iron Man Guide
+]

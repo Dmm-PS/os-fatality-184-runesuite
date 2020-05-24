@@ -1,0 +1,150 @@
+[
+  {"id": 2504, "x": 2005, "y": 5202, "walkRange": 7}, // Zombie
+  {"id": 2505, "x": 2005, "y": 5204, "walkRange": 6}, // Zombie
+  {"id": 2500, "x": 2005, "y": 5202, "walkRange": 5}, // Flesh Crawler
+  {"id": 2500, "x": 2005, "y": 5202, "walkRange": 5}, // Flesh Crawler
+  {"id": 2513, "x": 2005, "y": 5203, "walkRange": 5}, // Rat
+  {"id": 2504, "x": 2005, "y": 5208, "walkRange": 8}, // Zombie
+  {"id": 2507, "x": 2013, "y": 5189, "walkRange": 5}, // Zombie
+  {"id": 2500, "x": 2005, "y": 5201, "walkRange": 6}, // Flesh Crawler
+  {"id": 2500, "x": 2005, "y": 5202, "walkRange": 5}, // Flesh Crawler
+  {"id": 2513, "x": 2013, "y": 5189, "walkRange": 5}, // Rat
+  {"id": 2505, "x": 2005, "y": 5201, "walkRange": 6}, // Zombie
+  {"id": 2506, "x": 2005, "y": 5203, "walkRange": 6}, // Zombie
+  {"id": 2508, "x": 2013, "y": 5189, "walkRange": 5}, // Zombie
+  {"id": 2513, "x": 2014, "y": 5192, "walkRange": 7}, // Rat
+  {"id": 2513, "x": 2015, "y": 5236, "walkRange": 3}, // Rat
+  {"id": 2498, "x": 2013, "y": 5237, "walkRange": 0}, // Flesh Crawler
+  {"id": 2507, "x": 2013, "y": 5189, "walkRange": 5}, // Zombie
+  {"id": 2513, "x": 2014, "y": 5189, "walkRange": 6}, // Rat
+  {"id": 2513, "x": 2014, "y": 5189, "walkRange": 6}, // Rat
+  {"id": 2513, "x": 2015, "y": 5189, "walkRange": 7}, // Rat
+  {"id": 2510, "x": 2015, "y": 5235, "walkRange": 0}, // Giant rat
+  {"id": 2508, "x": 2018, "y": 5190, "walkRange": 8}, // Zombie
+  {"id": 2513, "x": 2019, "y": 5190, "walkRange": 11}, // Rat
+  {"id": 2509, "x": 2014, "y": 5188, "walkRange": 4}, // Zombie
+  {"id": 2513, "x": 2025, "y": 5189, "walkRange": 7}, // Rat
+  {"id": 2513, "x": 2017, "y": 5236, "walkRange": 4}, // Rat
+  {"id": 2511, "x": 2019, "y": 5235, "walkRange": 0}, // Giant rat
+  {"id": 2512, "x": 2017, "y": 5236, "walkRange": 0}, // Giant rat
+  {"id": 2498, "x": 2019, "y": 5237, "walkRange": 0}, // Flesh Crawler
+  {"id": 2508, "x": 2023, "y": 5189, "walkRange": 7}, // Zombie
+  {"id": 2513, "x": 2026, "y": 5190, "walkRange": 7}, // Rat
+  {"id": 2507, "x": 2026, "y": 5190, "walkRange": 5}, // Zombie
+  {"id": 2513, "x": 2016, "y": 5193, "walkRange": 5}, // Rat
+  {"id": 2507, "x": 2025, "y": 5190, "walkRange": 7}, // Zombie
+  {"id": 2503, "x": 2029, "y": 5235, "walkRange": 7}, // Zombie
+  {"id": 2501, "x": 2029, "y": 5234, "walkRange": 4}, // Zombie
+  {"id": 2509, "x": 2028, "y": 5189, "walkRange": 4}, // Zombie
+  {"id": 2513, "x": 2027, "y": 5189, "walkRange": 6}, // Rat
+  {"id": 2513, "x": 2026, "y": 5191, "walkRange": 6}, // Rat
+  {"id": 2513, "x": 2029, "y": 5234, "walkRange": 6}, // Rat
+  {"id": 2501, "x": 2029, "y": 5234, "walkRange": 6}, // Zombie
+  {"id": 2513, "x": 2027, "y": 5188, "walkRange": 5}, // Rat
+  {"id": 2509, "x": 2027, "y": 5189, "walkRange": 5}, // Zombie
+  {"id": 2501, "x": 2030, "y": 5233, "walkRange": 5}, // Zombie
+  {"id": 2502, "x": 2029, "y": 5237, "walkRange": 7}, // Zombie
+  {"id": 2513, "x": 2030, "y": 5236, "walkRange": 8}, // Rat
+  {"id": 2513, "x": 2032, "y": 5241, "walkRange": 5}, // Rat
+  {"id": 2513, "x": 2027, "y": 5189, "walkRange": 6}, // Rat
+  {"id": 2508, "x": 2027, "y": 5192, "walkRange": 4}, // Zombie
+  {"id": 2502, "x": 2029, "y": 5233, "walkRange": 5}, // Zombie
+  {"id": 2503, "x": 2029, "y": 5233, "walkRange": 5}, // Zombie
+  {"id": 2502, "x": 2029, "y": 5235, "walkRange": 7}, // Zombie
+  {"id": 2513, "x": 2030, "y": 5239, "walkRange": 7}, // Rat
+  {"id": 2513, "x": 2030, "y": 5234, "walkRange": 6}, // Rat
+  {"id": 2498, "x": 2029, "y": 5232, "walkRange": 4}, // Flesh Crawler
+  {"id": 2513, "x": 2031, "y": 5238, "walkRange": 8}, // Rat
+  {"id": 2501, "x": 2030, "y": 5233, "walkRange": 5}, // Zombie
+  {"id": 2513, "x": 2033, "y": 5241, "walkRange": 4}, // Rat
+  {"id": 2513, "x": 2032, "y": 5239, "walkRange": 7}, // Rat
+  {"id": 2513, "x": 2029, "y": 5234, "walkRange": 6}, // Rat
+  {"id": 2513, "x": 2031, "y": 5239, "walkRange": 6}, // Rat
+  {"id": 2513, "x": 2036, "y": 5202, "walkRange": 1}, // Rat
+  {"id": 2499, "x": 2040, "y": 5191, "walkRange": 3}, // Flesh Crawler
+  {"id": 2510, "x": 2040, "y": 5211, "walkRange": 5}, // Giant rat
+  {"id": 2499, "x": 2040, "y": 5189, "walkRange": 3}, // Flesh Crawler
+  {"id": 2513, "x": 2039, "y": 5209, "walkRange": 5}, // Rat
+  {"id": 2504, "x": 2041, "y": 5212, "walkRange": 8}, // Zombie
+  {"id": 2504, "x": 2041, "y": 5213, "walkRange": 6}, // Zombie
+  {"id": 2504, "x": 2041, "y": 5216, "walkRange": 6}, // Zombie
+  {"id": 2499, "x": 2040, "y": 5187, "walkRange": 3}, // Flesh Crawler
+  {"id": 2513, "x": 2041, "y": 5189, "walkRange": 5}, // Rat
+  {"id": 2504, "x": 2041, "y": 5212, "walkRange": 7}, // Zombie
+  {"id": 2511, "x": 2040, "y": 5214, "walkRange": 3}, // Giant rat
+  {"id": 2498, "x": 2041, "y": 5231, "walkRange": 1}, // Flesh Crawler
+  {"id": 2513, "x": 2041, "y": 5189, "walkRange": 5}, // Rat
+  {"id": 2499, "x": 2041, "y": 5189, "walkRange": 3}, // Flesh Crawler
+  {"id": 2504, "x": 2041, "y": 5216, "walkRange": 7}, // Zombie
+  {"id": 2499, "x": 2042, "y": 5189, "walkRange": 3}, // Flesh Crawler
+  {"id": 2513, "x": 2041, "y": 5203, "walkRange": 4}, // Rat
+  {"id": 2513, "x": 2043, "y": 5203, "walkRange": 4}, // Rat
+  {"id": 2504, "x": 2041, "y": 5213, "walkRange": 6}, // Zombie
+  {"id": 2504, "x": 2041, "y": 5217, "walkRange": 6}, // Zombie
+  {"id": 2499, "x": 2042, "y": 5188, "walkRange": 2}, // Flesh Crawler
+  {"id": 2504, "x": 2041, "y": 5216, "walkRange": 8}, // Zombie
+  {"id": 2504, "x": 2041, "y": 5218, "walkRange": 7}, // Zombie
+  {"id": 2499, "x": 2041, "y": 5189, "walkRange": 2}, // Flesh Crawler
+  {"id": 2513, "x": 2042, "y": 5189, "walkRange": 3}, // Rat
+  {"id": 2513, "x": 2042, "y": 5190, "walkRange": 4}, // Rat
+  {"id": 2499, "x": 2043, "y": 5191, "walkRange": 2}, // Flesh Crawler
+  {"id": 2498, "x": 2042, "y": 5233, "walkRange": 2}, // Flesh Crawler
+  {"id": 2513, "x": 2041, "y": 5202, "walkRange": 5}, // Rat
+  {"id": 2513, "x": 1991, "y": 5207, "walkRange": 8}, // Rat
+  {"id": 2505, "x": 1990, "y": 5190, "walkRange": 4}, // Zombie
+  {"id": 2510, "x": 1990, "y": 5189, "walkRange": 3}, // Giant rat
+  {"id": 2504, "x": 1990, "y": 5189, "walkRange": 4}, // Zombie
+  {"id": 2513, "x": 1990, "y": 5203, "walkRange": 6}, // Rat
+  {"id": 2513, "x": 1990, "y": 5206, "walkRange": 9}, // Rat
+  {"id": 2500, "x": 1989, "y": 5237, "walkRange": 3}, // Flesh Crawler
+  {"id": 2509, "x": 1993, "y": 5238, "walkRange": 6}, // Zombie
+  {"id": 2507, "x": 1991, "y": 5240, "walkRange": 3}, // Zombie
+  {"id": 2506, "x": 1992, "y": 5189, "walkRange": 5}, // Zombie
+  {"id": 2510, "x": 1990, "y": 5191, "walkRange": 3}, // Giant rat
+  {"id": 2513, "x": 1990, "y": 5225, "walkRange": 7}, // Rat
+  {"id": 2513, "x": 1990, "y": 5229, "walkRange": 8}, // Rat
+  {"id": 2513, "x": 1991, "y": 5238, "walkRange": 5}, // Rat
+  {"id": 2500, "x": 1990, "y": 5236, "walkRange": 4}, // Flesh Crawler
+  {"id": 2504, "x": 1992, "y": 5189, "walkRange": 5}, // Zombie
+  {"id": 2511, "x": 1991, "y": 5189, "walkRange": 4}, // Giant rat
+  {"id": 2513, "x": 1991, "y": 5223, "walkRange": 8}, // Rat
+  {"id": 2507, "x": 1992, "y": 5233, "walkRange": 3}, // Zombie
+  {"id": 2508, "x": 1991, "y": 5236, "walkRange": 4}, // Zombie
+  {"id": 2513, "x": 1992, "y": 5240, "walkRange": 4}, // Rat
+  {"id": 2513, "x": 1991, "y": 5228, "walkRange": 6}, // Rat
+  {"id": 2500, "x": 1991, "y": 5238, "walkRange": 5}, // Flesh Crawler
+  {"id": 2511, "x": 1991, "y": 5189, "walkRange": 4}, // Giant rat
+  {"id": 2505, "x": 1992, "y": 5190, "walkRange": 5}, // Zombie
+  {"id": 2513, "x": 1990, "y": 5204, "walkRange": 7}, // Rat
+  {"id": 2500, "x": 1991, "y": 5235, "walkRange": 3}, // Flesh Crawler
+  {"id": 2507, "x": 1995, "y": 5239, "walkRange": 5}, // Zombie
+  {"id": 2513, "x": 1998, "y": 5238, "walkRange": 6}, // Rat
+  {"id": 2504, "x": 1993, "y": 5190, "walkRange": 6}, // Zombie
+  {"id": 2513, "x": 1995, "y": 5189, "walkRange": 7}, // Rat
+  {"id": 2506, "x": 1993, "y": 5190, "walkRange": 7}, // Zombie
+  {"id": 2513, "x": 1990, "y": 5202, "walkRange": 5}, // Rat
+  {"id": 2513, "x": 1991, "y": 5230, "walkRange": 6}, // Rat
+  {"id": 2513, "x": 1991, "y": 5208, "walkRange": 11}, // Rat
+  {"id": 2513, "x": 1991, "y": 5208, "walkRange": 8}, // Rat
+  {"id": 2513, "x": 1992, "y": 5215, "walkRange": 8}, // Rat
+  {"id": 2508, "x": 1994, "y": 5238, "walkRange": 4}, // Zombie
+  {"id": 2500, "x": 1992, "y": 5238, "walkRange": 3}, // Flesh Crawler
+  {"id": 2500, "x": 1992, "y": 5239, "walkRange": 3}, // Flesh Crawler
+  {"id": 2506, "x": 1995, "y": 5189, "walkRange": 6}, // Zombie
+  {"id": 2512, "x": 1992, "y": 5190, "walkRange": 3}, // Giant rat
+  {"id": 2505, "x": 1996, "y": 5189, "walkRange": 5}, // Zombie
+  {"id": 2513, "x": 1992, "y": 5214, "walkRange": 8}, // Rat
+  {"id": 2513, "x": 1991, "y": 5236, "walkRange": 6}, // Rat
+  {"id": 2508, "x": 1993, "y": 5239, "walkRange": 3}, // Zombie
+  {"id": 2513, "x": 1997, "y": 5188, "walkRange": 8}, // Rat
+  {"id": 2504, "x": 2005, "y": 5202, "walkRange": 7}, // Zombie
+  {"id": 2500, "x": 2005, "y": 5201, "walkRange": 6}, // Flesh Crawler
+  {"id": 2500, "x": 2005, "y": 5201, "walkRange": 5}, // Flesh Crawler
+  {"id": 2513, "x": 1999, "y": 5189, "walkRange": 5}, // Rat
+  {"id": 2513, "x": 1999, "y": 5188, "walkRange": 6}, // Rat
+  {"id": 2505, "x": 2005, "y": 5202, "walkRange": 6}, // Zombie
+  {"id": 2513, "x": 2005, "y": 5207, "walkRange": 9}, // Rat
+  {"id": 2513, "x": 2004, "y": 5214, "walkRange": 6}, // Rat
+  {"id": 2513, "x": 2002, "y": 5188, "walkRange": 3}, // Rat
+  {"id": 2500, "x": 2005, "y": 5201, "walkRange": 6} // Flesh Crawler
+]

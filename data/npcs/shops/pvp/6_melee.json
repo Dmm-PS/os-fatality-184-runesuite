@@ -1,0 +1,52 @@
+{
+  "name": "Blood Money Melee Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 2153, "option": "melee" }
+  ],
+  "items": [
+    { "id": 11335, "price": 200 }, //Dragon full helm
+    { "id": 3140, "price": 200 }, //Dragon chainbody
+    { "id": 4087, "price": 100 }, //Dragon platelegs
+    { "id": 4585, "price": 100 }, //Dragon plateskirt
+    { "id": 1187, "price": 50 }, //Dragon sq shield
+    { "id": 11840, "price": 150 }, //Dragon boots
+    { "id": 4745, "price": 100 }, //Torag's helm
+    { "id": 4716, "price": 150 }, //Dharok's helm
+    { "id": 4753, "price": 100 }, //Verac's helm
+    { "id": 4724, "price": 100 }, //Guthan's helm
+    { "id": 21298, "price": 75 }, //Obsidian helmet
+    { "id": 21301, "price": 75 }, //Obsidian platebody
+    { "id": 21304, "price": 75 }, //Obsidian platelegs
+    { "id": 6568, "price": 20 }, //Obsidian cape
+    { "id": 6524, "price": 50 }, //Toktz-ket-xil
+    { "id": 4749, "price": 100 }, //Torag's platebody
+    { "id": 4720, "price": 150}, //Dharok's platebody
+    { "id": 4757, "price": 100}, //Verac's brassard
+    { "id": 4728, "price": 100 }, //Guthan's platebody
+    { "id": 4751, "price": 100 }, //Torag's platelegs
+    { "id": 4722, "price": 150 }, //Dharok's platelegs
+    { "id": 4759, "price": 100 }, //Verac's plateskirt
+    { "id": 4730, "price": 100 }, //Guthan's chainskirt
+    { "id": 12829, "price": 200 }, //Spirit shield
+    { "id": 12831, "price": 300 }, //Blessed spirit shield
+    { "id": 4747, "price": 100 }, //Torag's hammers
+    { "id": 4718, "price": 150 }, //Dharok's greataxe
+    { "id": 4755, "price": 100 }, //Verac's flail
+    { "id": 4726, "price": 100 }, //Guthan's warspear
+    { "id": 11284, "price": 2000 }, //Dragonfire shield
+    { "id": 6528, "price": 150 }, //Tzhaar-ket-om
+    { "id": 4153, "price": 175 }, //Granite maul
+    { "id": 10887, "price": 100 }, //Barrelchest anchor
+    { "id": 11061, "price": 75}, //Ancient mace
+    { "id": 1249, "price": 100 }, //Dragon spear
+    { "id": 4151, "price": 100 }, //Abyssal whip
+    { "id": 12006, "price": 500 }, //Abyssal tentacle
+    { "id": 11838, "price": 175 }, //Saradomin sword
+    { "id": 11802, "price": 5000 }, //Armadyl godsword
+    { "id": 13576, "price": 8000 }, //Dragon warhammer
+    { "id": 13271, "price": 1000 }, //Abyssal dagger (p++)
+    { "id": 13263, "price": 5000} //Abyssal bludgeon
+  ]
+}

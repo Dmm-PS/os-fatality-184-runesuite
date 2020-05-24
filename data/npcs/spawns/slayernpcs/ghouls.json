@@ -1,0 +1,11 @@
+[
+  {"id": 289, "x": 3439, "y": 3466, "walkRange": 3}, // Ghoul
+  {"id": 289, "x": 3441, "y": 3461, "walkRange": 3}, // Ghoul
+  {"id": 289, "x": 3438, "y": 3459, "walkRange": 3}, // Ghoul
+  {"id": 289, "x": 3433, "y": 3461, "walkRange": 3}, // Ghoul
+  {"id": 289, "x": 3431, "y": 3467, "walkRange": 3}, // Ghoul
+  {"id": 289, "x": 3426, "y": 3464, "walkRange": 3}, // Ghoul
+  {"id": 289, "x": 3422, "y": 3460, "walkRange": 3}, // Ghoul
+  {"id": 289, "x": 3427, "y": 3458, "walkRange": 3}, // Ghoul
+  {"id": 289, "x": 3435, "y": 3468, "walkRange": 3} // Ghoul
+]

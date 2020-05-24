@@ -1,0 +1,26 @@
+{
+  "name": "LMS Reward Shop",
+  "currency": "SURVIVAL_TOKENS",
+  "ironman": true,
+  "npcs": [
+    { "id": 7317, "option": "trade" }
+  ],
+  "items": [
+    {"id": 12791, "price": 250},   // Rune Pouch
+    {"id": 6758, "price": 125},   // Double Experience Scroll
+    {"id": 6828, "price": 750},   // Pet Box
+    {"id": 11802, "price": 450},   // Armadyl Godsword
+    {"id": 13652, "price": 450},   // Dragon Claws
+    {"id": 4151, "price": 65},   // Abyssal Whip
+    {"id": 11826, "price": 200},   // Armadyl Helmet
+    {"id": 11828, "price": 500},   // Armadyl Chestplate
+    {"id": 11830, "price": 500},   // Armadyl Skirt
+    {"id": 22296, "price": 300},   // Staff of Light
+    {"id": 12877, "price": 50},   // Dharok's Set
+    {"id": 6199, "price": 225},   // Mystery Box
+    {"id": 9477, "price": 30},   // Coin Box
+    {"id": 6806, "price": 750},   // Green Skin Scroll
+    {"id": 6807, "price": 750},   // Blue Skin Scroll
+    {"id": 6808, "price": 750}   // Purple Skin Scroll
+  ]
+}

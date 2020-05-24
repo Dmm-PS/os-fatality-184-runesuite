@@ -1,0 +1,10 @@
+{
+  "name": "Boss Points Exchange",
+  "currency": "BOSS_POINTS",
+  "ironman": false,
+  "npcs": [
+    { "id": 728, "option": "trade" }
+  ],
+  "items": [
+  ]
+}

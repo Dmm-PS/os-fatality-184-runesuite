@@ -1,0 +1,27 @@
+[
+  {"id": 1881, "x": 2334, "y": 3798, "walkRange": 0}, // Thakkrad Sigmundson
+  {"id": 1880, "x": 2334, "y": 3800, "walkRange": 0}, // Fridleif Shieldson
+  {"id": 2979, "x": 2335, "y": 3799, "walkRange": 1}, // Mawnis Burowgar
+  {"id": 1884, "x": 2335, "y": 3806, "walkRange": 1}, // Jofridr Mordstatter
+  {"id": 1895, "x": 2336, "y": 3811, "walkRange": 2}, // Slug Hemligssen
+  {"id": 1893, "x": 2338, "y": 3798, "walkRange": 0}, // Kjedelig Uppsen
+  {"id": 1894, "x": 2338, "y": 3800, "walkRange": 0}, // Trogen Konungarde
+  {"id": 1890, "x": 2340, "y": 3818, "walkRange": 3}, // Honour guard
+  {"id": 1888, "x": 2350, "y": 3803, "walkRange": 3}, // Lisse Isaakson
+  {"id": 1882, "x": 2311, "y": 3781, "walkRange": 0}, // Maria Gunnars
+  {"id": 1620, "x": 2335, "y": 3806, "walkRange": 0}, // Cat
+  {"id": 1890, "x": 2316, "y": 3814, "walkRange": 3}, // Honour guard
+  {"id": 5816, "x": 2319, "y": 3793, "walkRange": 4}, // Yak
+  {"id": 1887, "x": 2320, "y": 3797, "walkRange": 3}, // Anne Isaakson
+  {"id": 5816, "x": 2321, "y": 3792, "walkRange": 4}, // Yak
+  {"id": 5816, "x": 2321, "y": 3796, "walkRange": 5}, // Yak
+  {"id": 5816, "x": 2321, "y": 3791, "walkRange": 3}, // Yak
+  {"id": 5816, "x": 2325, "y": 3792, "walkRange": 4}, // Yak
+  {"id": 1886, "x": 2325, "y": 3794, "walkRange": 4}, // Gunnar Holdstrom
+  {"id": 5816, "x": 2324, "y": 3795, "walkRange": 4}, // Yak
+  {"id": 1890, "x": 2325, "y": 3813, "walkRange": 3}, // Honour guard
+  {"id": 1874, "x": 2332, "y": 3826, "walkRange": 0}, // Ice troll runt
+  {"id": 1889, "x": 2330, "y": 3803, "walkRange": 3}, // Honour guard
+  {"id": 1889, "x": 2330, "y": 3806, "walkRange": 3}, // Honour guard
+  {"id": 1885, "x": 2332, "y": 3803, "walkRange": 4} // Morten Holdstrom
+]

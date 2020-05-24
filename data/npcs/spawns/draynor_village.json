@@ -1,0 +1,40 @@
+[
+  {"id": 1032, "x": 3090, "y": 3245, "direction": "E"}, //Banker
+  {"id": 1033, "x": 3090, "y": 3243, "direction": "E"}, //Banker
+  {"id": 1033, "x": 3090, "y": 3242, "direction": "E"}, //Banker
+  {"id": 1032, "x": 3088, "y": 3242, "direction": "S"}, //Banker
+  {"id": 3091, "x": 3119, "y": 3280, "walkRange": 7}, //Farmer
+  {"id": 3034, "x": 3105, "y": 3281, "walkRange": 5}, //Goblin
+  {"id": 2854, "x": 3103, "y": 3283, "walkRange": 10}, //Rat
+  {"id": 3078, "x": 3099, "y": 3280, "walkRange": 3}, //Man
+  {"id": 3479, "x": 3098, "y": 3268, "walkRange": 3}, //Morgan
+  {"id": 4280, "x": 3098, "y": 3258, "walkRange": 2}, //Ned
+  {"id": 2854, "x": 3097, "y": 3258, "walkRange": 10}, //Rat
+  {"id": 4284, "x": 3086, "y": 3258, "walkRange": 2}, //Aggie
+  {"id": 2116, "x": 3095, "y": 3252, "direction": "S"}, //Miss Schism
+  {"id": 2109, "x": 3088, "y": 3255, "direction": "S"}, //Wise Old Man
+  {"id": 2123, "x": 3087, "y": 3248, "walkRange": 3}, //Bank Guard
+  {"id": 1260, "x": 3085, "y": 3250, "walkRange": 2}, //Fortunato
+  {"id": 8693, "x": 3081, "y": 3246, "walkRange": 2}, //Diango
+  {"id": 3257, "x": 3079, "y": 3251, "walkRange": 6}, //Master Farmer
+  {"id": 5832, "x": 3080, "y": 3258, "walkRange": 5}, //Martin the master gardener
+  {"id": 2796, "x": 3078, "y": 3258, "walkRange": 2}, //Pig
+  {"id": 2797, "x": 3076, "y": 3260, "walkRange": 3}, //Pig
+  {"id": 2797, "x": 3076, "y": 3260, "walkRange": 1}, //Pig
+  {"id": 2799, "x": 3078, "y": 3261, "walkRange": 1}, //Pig
+  {"id": 2800, "x": 3079, "y": 3260, "walkRange": 1}, //Pig
+  {"id": 2796, "x": 3076, "y": 3261, "walkRange": 1}, //Pig
+  {"id": 2798, "x": 3076, "y": 3261, "walkRange": 1}, //Pig
+  {"id": 474, "x": 3085, "y": 3234, "walkRange": 1}, //Dark wizard
+  {"id": 474, "x": 3088, "y": 3237, "walkRange": 2}, //Dark wizard
+  {"id": 4289, "x": 3079, "y": 3230, "walkRange": 5}, //Gull
+  {"id": 4290, "x": 3081, "y": 3224, "walkRange": 4}, //Gull
+  {"id": 508, "x": 3097, "y": 3219, "walkRange": 5}, //Black knight
+  {"id": 5528, "x": 3096, "y": 3225, "walkRange": 4}, //Squirrel
+  {"id": 4274, "x": 3113, "y": 3262, "walkRange": 3}, //Leela
+  {"id": 4275, "x": 3123, "y": 3245, "walkRange": 2}, //Jail Guard
+  {"id": 4282, "x": 3123, "y": 3241, "walkRange": 2}, //Prince Ali
+  {"id": 4281, "x": 3129, "y": 3245, "walkRange": 2}, //Lady Keli
+  {"id": 4279, "x": 3128, "y": 3249, "walkRange": 5}, //Jail Guard
+  {"id": 4276, "x": 3126, "y": 3251, "walkRange": 5} //Jail Guard
+]

@@ -1,0 +1,166 @@
+[
+  {"id": 453, "x": 3412, "y": 3563, "walkRange": 2}, // Crawling Hand
+  {"id": 2827, "x": 3414, "y": 3539, "walkRange": 8}, // Bat
+  {"id": 453, "x": 3414, "y": 3545, "walkRange": 5}, // Crawling Hand
+  {"id": 453, "x": 3416, "y": 3556, "walkRange": 4}, // Crawling Hand
+  {"id": 448, "x": 3410, "y": 3546, "walkRange": 4}, // Crawling Hand
+  {"id": 448, "x": 3413, "y": 3562, "walkRange": 4}, // Crawling Hand
+  {"id": 448, "x": 3405, "y": 3573, "walkRange": 2}, // Crawling Hand
+  {"id": 448, "x": 3414, "y": 3561, "walkRange": 3}, // Crawling Hand
+  {"id": 448, "x": 3414, "y": 3566, "walkRange": 1}, // Crawling Hand
+  {"id": 453, "x": 3422, "y": 3570, "walkRange": 6}, // Crawling Hand
+  {"id": 2827, "x": 3412, "y": 3522, "walkRange": 0}, // Bat
+  {"id": 454, "x": 3421, "y": 3570, "walkRange": 5}, // Crawling Hand
+  {"id": 448, "x": 3419, "y": 3553, "walkRange": 0}, // Crawling Hand
+  {"id": 453, "x": 3424, "y": 3537, "walkRange": 3}, // Crawling Hand
+  {"id": 448, "x": 3423, "y": 3574, "walkRange": 3}, // Crawling Hand
+  {"id": 453, "x": 3423, "y": 3553, "walkRange": 6}, // Crawling Hand
+  {"id": 448, "x": 3421, "y": 3559, "walkRange": 3}, // Crawling Hand
+  {"id": 448, "x": 3421, "y": 3567, "walkRange": 3}, // Crawling Hand
+  {"id": 2827, "x": 3436, "y": 3523, "walkRange": 0}, // Bat
+  {"id": 454, "x": 3431, "y": 3543, "walkRange": 1}, // Crawling Hand
+  {"id": 448, "x": 3427, "y": 3544, "walkRange": 4}, // Crawling Hand
+  {"id": 448, "x": 3424, "y": 3553, "walkRange": 6}, // Crawling Hand
+  {"id": 454, "x": 3430, "y": 3571, "walkRange": 4}, // Crawling Hand
+  {"id": 2827, "x": 3432, "y": 3543, "walkRange": 4}, // Bat
+  {"id": 414, "x": 3430, "y": 3564, "walkRange": 4}, // Banshee
+  {"id": 453, "x": 3428, "y": 3572, "walkRange": 6}, // Crawling Hand
+  {"id": 448, "x": 3428, "y": 3571, "walkRange": 8}, // Crawling Hand
+  {"id": 2827, "x": 3429, "y": 3521, "walkRange": 1}, // Bat
+  {"id": 414, "x": 3435, "y": 3549, "walkRange": 5}, // Banshee
+  {"id": 414, "x": 3434, "y": 3560, "walkRange": 6}, // Banshee
+  {"id": 414, "x": 3438, "y": 3537, "walkRange": 4}, // Banshee
+  {"id": 414, "x": 3439, "y": 3541, "walkRange": 2}, // Banshee
+  {"id": 448, "x": 3439, "y": 3576, "walkRange": 0}, // Crawling Hand
+  {"id": 414, "x": 3438, "y": 3561, "walkRange": 5}, // Banshee
+  {"id": 453, "x": 3438, "y": 3572, "walkRange": 6}, // Crawling Hand
+  {"id": 414, "x": 3446, "y": 3541, "walkRange": 0}, // Banshee
+  {"id": 414, "x": 3446, "y": 3534, "walkRange": 0}, // Banshee
+  {"id": 485, "x": 3413, "y": 3575, "walkRange": 0, "z": 1}, // Bloodveld
+  {"id": 4, "x": 3410, "y": 3534, "walkRange": 2, "z": 1}, // Aberrant spectre
+  {"id": 485, "x": 3415, "y": 3565, "walkRange": 2, "z": 1}, // Bloodveld
+  {"id": 485, "x": 3411, "y": 3574, "walkRange": 3, "z": 1}, // Bloodveld
+  {"id": 485, "x": 3414, "y": 3560, "walkRange": 3, "z": 1}, // Bloodveld
+  {"id": 5, "x": 3410, "y": 3547, "walkRange": 2, "z": 1}, // Aberrant spectre
+  {"id": 2, "x": 3415, "y": 3550, "walkRange": 6, "z": 1}, // Aberrant spectre
+  {"id": 485, "x": 3413, "y": 3558, "walkRange": 1, "z": 1}, // Bloodveld
+  {"id": 484, "x": 3412, "y": 3561, "walkRange": 3, "z": 1}, // Bloodveld
+  {"id": 485, "x": 3418, "y": 3573, "walkRange": 2, "z": 1}, // Bloodveld
+  {"id": 484, "x": 3418, "y": 3560, "walkRange": 4, "z": 1}, // Bloodveld
+  {"id": 484, "x": 3415, "y": 3558, "walkRange": 2, "z": 1}, // Bloodveld
+  {"id": 5, "x": 3416, "y": 3538, "walkRange": 4, "z": 1}, // Aberrant spectre
+  {"id": 487, "x": 3401, "y": 9932, "walkRange": 0, "z": 3}, // Bloodveld
+  {"id": 485, "x": 3419, "y": 3573, "walkRange": 4, "z": 1}, // Bloodveld
+  {"id": 11, "x": 3403, "y": 9970, "walkRange": 0, "z": 3}, // Nechryael
+  {"id": 484, "x": 3422, "y": 3564, "walkRange": 4, "z": 1}, // Bloodveld
+  {"id": 487, "x": 3405, "y": 9942, "walkRange": 2, "z": 3}, // Bloodveld
+  {"id": 4, "x": 3423, "y": 3547, "walkRange": 2, "z": 1}, // Aberrant spectre
+  {"id": 487, "x": 3407, "y": 9931, "walkRange": 1, "z": 3}, // Bloodveld
+  {"id": 2, "x": 3424, "y": 3551, "walkRange": 4, "z": 1}, // Aberrant spectre
+  {"id": 487, "x": 3406, "y": 9950, "walkRange": 1, "z": 3}, // Bloodveld
+  {"id": 484, "x": 3422, "y": 3560, "walkRange": 4, "z": 1}, // Bloodveld
+  {"id": 11, "x": 3409, "y": 9963, "walkRange": 2, "z": 3}, // Nechryael
+  {"id": 484, "x": 3426, "y": 3565, "walkRange": 2, "z": 1}, // Bloodveld
+  {"id": 11, "x": 3405, "y": 9972, "walkRange": 3, "z": 3}, // Nechryael
+  {"id": 484, "x": 3425, "y": 3558, "walkRange": 2, "z": 1}, // Bloodveld
+  {"id": 11, "x": 3408, "y": 9960, "walkRange": 0, "z": 3}, // Nechryael
+  {"id": 485, "x": 3425, "y": 3573, "walkRange": 3, "z": 1}, // Bloodveld
+  {"id": 486, "x": 3409, "y": 9937, "walkRange": 3, "z": 3}, // Bloodveld
+  {"id": 5, "x": 3427, "y": 3540, "walkRange": 4, "z": 1}, // Aberrant spectre
+  {"id": 487, "x": 3409, "y": 9946, "walkRange": 4, "z": 3}, // Bloodveld
+  {"id": 2, "x": 3430, "y": 3547, "walkRange": 5, "z": 1}, // Aberrant spectre
+  {"id": 11, "x": 3414, "y": 9961, "walkRange": 2, "z": 3}, // Nechryael
+  {"id": 3, "x": 3427, "y": 3550, "walkRange": 6, "z": 1}, // Aberrant spectre
+  {"id": 487, "x": 3414, "y": 9936, "walkRange": 4, "z": 3}, // Bloodveld
+  {"id": 5, "x": 3428, "y": 3547, "walkRange": 5, "z": 1}, // Aberrant spectre
+  {"id": 11, "x": 3408, "y": 9968, "walkRange": 0, "z": 3}, // Nechryael
+  {"id": 443, "x": 3433, "y": 3556, "walkRange": 3, "z": 1}, // Infernal Mage
+  {"id": 11, "x": 3413, "y": 9965, "walkRange": 4, "z": 3}, // Nechryael
+  {"id": 443, "x": 3434, "y": 3562, "walkRange": 4, "z": 1}, // Infernal Mage
+  {"id": 11, "x": 3413, "y": 9953, "walkRange": 4, "z": 3}, // Nechryael
+  {"id": 446, "x": 3434, "y": 3568, "walkRange": 3, "z": 1}, // Infernal Mage
+  {"id": 486, "x": 3414, "y": 9942, "walkRange": 3, "z": 3}, // Bloodveld
+  {"id": 447, "x": 3434, "y": 3573, "walkRange": 4, "z": 1}, // Infernal Mage
+  {"id": 486, "x": 3419, "y": 9934, "walkRange": 4, "z": 3}, // Bloodveld
+  {"id": 4, "x": 3432, "y": 3546, "walkRange": 6, "z": 1}, // Aberrant spectre
+  {"id": 486, "x": 3418, "y": 9937, "walkRange": 3, "z": 3}, // Bloodveld
+  {"id": 446, "x": 3435, "y": 3558, "walkRange": 5, "z": 1}, // Infernal Mage
+  {"id": 11, "x": 3419, "y": 9961, "walkRange": 1, "z": 3}, // Nechryael
+  {"id": 3, "x": 3439, "y": 3549, "walkRange": 4, "z": 1}, // Aberrant spectre
+  {"id": 11, "x": 3419, "y": 9966, "walkRange": 1, "z": 3}, // Nechryael
+  {"id": 445, "x": 3437, "y": 3557, "walkRange": 3, "z": 1}, // Infernal Mage
+  {"id": 487, "x": 3417, "y": 9943, "walkRange": 2, "z": 3}, // Bloodveld
+  {"id": 446, "x": 3437, "y": 3565, "walkRange": 1, "z": 1}, // Infernal Mage
+  {"id": 486, "x": 3420, "y": 9935, "walkRange": 3, "z": 3}, // Bloodveld
+  {"id": 444, "x": 3436, "y": 3574, "walkRange": 2, "z": 1}, // Infernal Mage
+  {"id": 5790, "x": 3424, "y": 9952, "walkRange": 1, "z": 3}, // Raulyn
+  {"id": 444, "x": 3440, "y": 3568, "walkRange": 3, "z": 1}, // Infernal Mage
+  {"id": 11, "x": 3421, "y": 9961, "walkRange": 2, "z": 3}, // Nechryael
+  {"id": 5, "x": 3441, "y": 3545, "walkRange": 3, "z": 1}, // Aberrant spectre
+  {"id": 11, "x": 3423, "y": 9971, "walkRange": 2, "z": 3}, // Nechryael
+  {"id": 4, "x": 3442, "y": 3545, "walkRange": 2, "z": 1}, // Aberrant spectre
+  {"id": 1543, "x": 3427, "y": 9944, "walkRange": 3, "z": 3}, // Gargoyle
+  {"id": 447, "x": 3442, "y": 3555, "walkRange": 0, "z": 1}, // Infernal Mage
+  {"id": 416, "x": 3426, "y": 9966, "walkRange": 2, "z": 3}, // Abyssal demon
+  {"id": 445, "x": 3442, "y": 3559, "walkRange": 4, "z": 1}, // Infernal Mage
+  {"id": 1543, "x": 3432, "y": 9930, "walkRange": 2, "z": 3}, // Gargoyle
+  {"id": 445, "x": 3444, "y": 3572, "walkRange": 4, "z": 1}, // Infernal Mage
+  {"id": 1543, "x": 3435, "y": 9945, "walkRange": 4, "z": 3}, // Gargoyle
+  {"id": 444, "x": 3447, "y": 3568, "walkRange": 4, "z": 1}, // Infernal Mage
+  {"id": 1543, "x": 3430, "y": 9952, "walkRange": 2, "z": 3}, // Gargoyle
+  {"id": 443, "x": 3445, "y": 3577, "walkRange": 1, "z": 1}, // Infernal Mage
+  {"id": 416, "x": 3430, "y": 9964, "walkRange": 2, "z": 3}, // Abyssal demon
+  {"id": 6122, "x": 3448, "y": 3549, "walkRange": 1, "z": 1}, // null
+  {"id": 1543, "x": 3432, "y": 9946, "walkRange": 4, "z": 3}, // Gargoyle
+  {"id": 444, "x": 3448, "y": 3572, "walkRange": 3, "z": 1}, // Infernal Mage
+  {"id": 416, "x": 3432, "y": 9955, "walkRange": 2, "z": 3}, // Abyssal demon
+  {"id": 415, "x": 3409, "y": 3575, "walkRange": 2, "z": 2}, // Abyssal demon
+  {"id": 416, "x": 3433, "y": 9963, "walkRange": 2, "z": 3}, // Abyssal demon
+  {"id": 415, "x": 3412, "y": 3562, "walkRange": 3, "z": 2}, // Abyssal demon
+  {"id": 1543, "x": 3435, "y": 9931, "walkRange": 2, "z": 3}, // Gargoyle
+  {"id": 415, "x": 3412, "y": 3571, "walkRange": 3, "z": 2}, // Abyssal demon
+  {"id": 416, "x": 3436, "y": 9965, "walkRange": 2, "z": 3}, // Abyssal demon
+  {"id": 415, "x": 3406, "y": 3576, "walkRange": 0, "z": 2}, // Abyssal demon
+  {"id": 416, "x": 3435, "y": 9970, "walkRange": 1, "z": 3}, // Abyssal demon
+  {"id": 415, "x": 3415, "y": 3573, "walkRange": 5, "z": 2}, // Abyssal demon
+  {"id": 1543, "x": 3431, "y": 9947, "walkRange": 0, "z": 3}, // Gargoyle
+  {"id": 415, "x": 3414, "y": 3563, "walkRange": 4, "z": 2}, // Abyssal demon
+  {"id": 416, "x": 3436, "y": 9967, "walkRange": 4, "z": 3}, // Abyssal demon
+  {"id": 415, "x": 3415, "y": 3569, "walkRange": 0, "z": 2}, // Abyssal demon
+  {"id": 416, "x": 3438, "y": 9954, "walkRange": 1, "z": 3}, // Abyssal demon
+  {"id": 415, "x": 3417, "y": 3566, "walkRange": 2, "z": 2}, // Abyssal demon
+  {"id": 1543, "x": 3441, "y": 9936, "walkRange": 0, "z": 3}, // Gargoyle
+  {"id": 415, "x": 3419, "y": 3560, "walkRange": 1, "z": 2}, // Abyssal demon
+  {"id": 1543, "x": 3432, "y": 9937, "walkRange": 1, "z": 3}, // Gargoyle
+  {"id": 415, "x": 3424, "y": 3573, "walkRange": 1, "z": 2}, // Abyssal demon
+  {"id": 1543, "x": 3430, "y": 9934, "walkRange": 1, "z": 3}, // Gargoyle
+  {"id": 415, "x": 3421, "y": 3571, "walkRange": 1, "z": 2}, // Abyssal demon
+  {"id": 1543, "x": 3439, "y": 9930, "walkRange": 3, "z": 3}, // Gargoyle
+  {"id": 415, "x": 3422, "y": 3567, "walkRange": 4, "z": 2}, // Abyssal demon
+  {"id": 416, "x": 3439, "y": 9961, "walkRange": 2, "z": 3}, // Abyssal demon
+  {"id": 415, "x": 3424, "y": 3570, "walkRange": 4, "z": 2}, // Abyssal demon
+  {"id": 416, "x": 3443, "y": 9970, "walkRange": 1, "z": 3}, // Abyssal demon
+  {"id": 415, "x": 3428, "y": 3571, "walkRange": 2, "z": 2}, // Abyssal demon
+  {"id": 416, "x": 3442, "y": 9973, "walkRange": 1, "z": 3}, // Abyssal demon
+  {"id": 412, "x": 3439, "y": 3548, "walkRange": 4, "z": 2}, // Gargoyle
+  {"id": 416, "x": 3443, "y": 9953, "walkRange": 0, "z": 3}, // Abyssal demon
+  {"id": 8, "x": 3435, "y": 3572, "walkRange": 4, "z": 2}, // Nechryael
+  {"id": 416, "x": 3443, "y": 9963, "walkRange": 0, "z": 3}, // Abyssal demon
+  {"id": 412, "x": 3434, "y": 3546, "walkRange": 6, "z": 2}, // Gargoyle
+  {"id": 1543, "x": 3445, "y": 9931, "walkRange": 0, "z": 3}, // Gargoyle
+  {"id": 8, "x": 3438, "y": 3572, "walkRange": 1, "z": 2}, // Nechryael
+  {"id": 412, "x": 3434, "y": 3538, "walkRange": 4, "z": 2}, // Gargoyle
+  {"id": 8, "x": 3439, "y": 3561, "walkRange": 4, "z": 2}, // Nechryael
+  {"id": 412, "x": 3433, "y": 3545, "walkRange": 1, "z": 2}, // Gargoyle
+  {"id": 412, "x": 3436, "y": 3547, "walkRange": 5, "z": 2}, // Gargoyle
+  {"id": 8, "x": 3440, "y": 3572, "walkRange": 2, "z": 2}, // Nechryael
+  {"id": 8, "x": 3441, "y": 3566, "walkRange": 3, "z": 2}, // Nechryael
+  {"id": 412, "x": 3443, "y": 3548, "walkRange": 2, "z": 2}, // Gargoyle
+  {"id": 8, "x": 3443, "y": 3569, "walkRange": 3, "z": 2}, // Nechryael
+  {"id": 8, "x": 3441, "y": 3563, "walkRange": 5, "z": 2}, // Nechryael
+  {"id": 412, "x": 3445, "y": 3537, "walkRange": 3, "z": 2}, // Gargoyle
+  {"id": 8, "x": 3442, "y": 3554, "walkRange": 1, "z": 2}, // Nechryael
+  {"id": 412, "x": 3441, "y": 3535, "walkRange": 0, "z": 2}, // Gargoyle
+  {"id": 8, "x": 3445, "y": 3562, "walkRange": 4, "z": 2}, // Nechryael
+  {"id": 8, "x": 3451, "y": 3572, "walkRange": 0, "z": 2} // Nechryael
+]

@@ -1,0 +1,16 @@
+{
+  "name": "Blood Money Consumable Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 1199, "option": "consumable" }
+  ],
+  "items": [
+    { "id": 12695, "price": 5 }, //Super combat potion(4)
+    { "id": 12905, "price": 4 }, //Anti-venom(4)
+    { "id": 12913, "price": 5 }, //Anti-venom+(4)
+    { "id": 12625, "price": 3 }, //Stamina potion(4)
+    { "id": 11936, "price": 3 }, //Dark crab
+    { "id": 13441, "price": 6 } //Anglerfish
+  ]
+}

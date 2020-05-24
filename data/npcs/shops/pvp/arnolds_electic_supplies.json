@@ -1,0 +1,22 @@
+{
+  "name": "Arnold's Electic Supplies",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 4293, "option": "trade" }
+  ],
+  "items": [
+    {"id": 303, "price": 10},   // Small fishing net
+    {"id": 311, "price": 10},   // Harpoon
+    {"id": 7944, "price": 140},  // Raw monkfish
+    {"id": 7946, "price": 140},  // Monkfish
+    {"id": 2309, "price": 10},  // Bread
+    {"id": 1931, "price": 10},  // Pot
+    {"id": 1927, "price": 10},  // Bucket of milk
+    {"id": 1733, "price": 10},  // Needle
+    {"id": 1734, "price": 10},  // Thread
+    {"id": 1917, "price": 10},  // Beer
+    {"id": 1785, "price": 10},  // Glassblowing pipe
+    {"id": 946, "price": 10}    // Knife
+  ]
+}

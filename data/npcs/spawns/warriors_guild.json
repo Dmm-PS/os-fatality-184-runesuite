@@ -1,0 +1,53 @@
+[
+
+  {"id": 2457, "x": 2879, "y": 3548, "walkRange": 4}, //Ghommal
+  {"id": 2458, "x": 2870, "y": 3547, "walkRange": 4}, //Harrallak Menarous
+  //Lilly
+  {"id": 2470, "x": 2847, "y": 3551, "walkRange": 2},
+  //Ajjat
+  {"id": 2460, "x": 2851, "y": 3553, "walkRange": 1},
+  //Shanomi
+  {"id": 2462, "x": 2856, "y": 3543, "walkRange": 4},
+  //Lidio
+  {"id": 2469, "x": 2840, "y": 3551, "walkRange": 3},
+  //Jade
+  {"id": 2472, "x": 2841, "y": 3543,  "direction": "E"},
+  //Anoton
+  {"id": 2471, "x": 2855, "y": 3536, "z": 1, "walkRange": 4},
+  //Sloane
+  {"id": 2473, "x": 2855, "y": 3548, "z": 1, "walkRange": 4},
+  //Gamfred
+  {"id": 2459, "x": 2839, "y": 3541, "z": 1, "walkRange": 4},
+  //Kamfreena
+  {"id": 2461, "x": 2844, "y": 3539, "z": 2, "walkRange": 4},
+
+  //Cyclops upper room
+  {"id": 2465, "x": 2840, "y": 3551, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2840, "y": 3546, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2846, "y": 3549, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2850, "y": 3545, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2851, "y": 3536, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2857, "y": 3537, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2864, "y": 3539, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2871, "y": 3540, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2870, "y": 3547, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2870, "y": 3553, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2863, "y": 3552, "z": 2, "walkRange": 4},
+  {"id": 2465, "x": 2855, "y": 3551, "z": 2, "walkRange": 4},
+  {"id": 2464, "x": 2850, "y": 3544, "z": 2, "walkRange": 4},
+  {"id": 2464, "x": 2858, "y": 3544, "z": 2, "walkRange": 4},
+  {"id": 2464, "x": 2865, "y": 3545, "z": 2, "walkRange": 4},
+  {"id": 2464, "x": 2871, "y": 3545, "z": 2, "walkRange": 4},
+
+  //Cyclops basement
+  {"id": 2137, "x": 2908, "y": 9961, "walkRange": 3},
+  {"id": 2137, "x": 2911, "y": 9958, "walkRange": 3},
+  {"id": 2137, "x": 2917, "y": 9970, "walkRange": 3},
+  {"id": 2137, "x": 2921, "y": 9965, "walkRange": 3},
+  {"id": 2137, "x": 2925, "y": 9970, "walkRange": 3},
+  {"id": 2137, "x": 2931, "y": 9970, "walkRange": 3},
+  {"id": 2137, "x": 2936, "y": 9967, "walkRange": 3},
+  {"id": 2137, "x": 2936, "y": 9961, "walkRange": 3},
+  {"id": 2137, "x": 2929, "y": 9962, "walkRange": 3},
+  {"id": 2137, "x": 2922, "y": 9960, "walkRange": 3}
+]

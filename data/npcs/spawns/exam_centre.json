@@ -1,0 +1,6 @@
+[
+  {"id": 3635, "x": 3364, "y": 3343, "walkRange": 2}, // Examiner
+  {"id": 3637, "x": 3364, "y": 3338, "walkRange": 2}, // Examiner
+  {"id": 3638, "x": 3361, "y": 3335, "walkRange": 2}, // Examiner
+  {"id": 3639, "x": 3352, "y": 3334, "walkRange": 2}  // Advanced expert
+]

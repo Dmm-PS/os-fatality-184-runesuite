@@ -1,0 +1,56 @@
+[
+  {"id": 6606, "x": 3022, "y": 3624, "walkRange": 2}, // Dark warrior
+  {"id": 6606, "x": 3020, "y": 3638, "walkRange": 2}, // Dark warrior
+  {"id": 523, "x": 3022, "y": 3625, "walkRange": 2}, // Dark warrior
+  {"id": 6606, "x": 3025, "y": 3625, "walkRange": 0}, // Dark warrior
+  {"id": 523, "x": 3022, "y": 3639, "walkRange": 2}, // Dark warrior
+  {"id": 6606, "x": 3026, "y": 3625, "walkRange": 1}, // Dark warrior
+  {"id": 6606, "x": 3023, "y": 3630, "walkRange": 2}, // Dark warrior
+  {"id": 6606, "x": 3026, "y": 3627, "walkRange": 1}, // Dark warrior
+  {"id": 6606, "x": 3023, "y": 3637, "walkRange": 0}, // Dark warrior
+  {"id": 6606, "x": 3025, "y": 3637, "walkRange": 1}, // Dark warrior
+  {"id": 6606, "x": 3027, "y": 3626, "walkRange": 1}, // Dark warrior
+  {"id": 523, "x": 3027, "y": 3636, "walkRange": 1}, // Dark warrior
+  {"id": 523, "x": 3031, "y": 3627, "walkRange": 1}, // Dark warrior
+  {"id": 6606, "x": 3029, "y": 3638, "walkRange": 1}, // Dark warrior
+  {"id": 6606, "x": 3031, "y": 3626, "walkRange": 1}, // Dark warrior
+  {"id": 6606, "x": 3035, "y": 3628, "walkRange": 0}, // Dark warrior
+  {"id": 6606, "x": 3035, "y": 3624, "walkRange": 1}, // Dark warrior
+  {"id": 6606, "x": 3035, "y": 3626, "walkRange": 1}, // Dark warrior
+  {"id": 523, "x": 3035, "y": 3629, "walkRange": 1}, // Dark warrior
+  {"id": 6606, "x": 3035, "y": 3632, "walkRange": 2}, // Dark warrior
+  {"id": 523, "x": 3034, "y": 3625, "walkRange": 2}, // Dark warrior
+  {"id": 523, "x": 3036, "y": 3638, "walkRange": 2}, // Dark warrior
+  {"id": 6606, "x": 3036, "y": 3637, "walkRange": 2}, // Dark warrior
+  {"id": 6606, "x": 3035, "y": 3638, "walkRange": 2}, // Dark warrior
+  {"id": 2204, "x": 3048, "y": 3627, "walkRange": 0}, // Sam
+  {"id": 6605, "x": 3025, "y": 3695, "walkRange": 3}, // Bandit
+  {"id": 8692, "x": 3024, "y": 3700, "walkRange": 0}, // Noterazzo
+  {"id": 2201, "x": 3024, "y": 3707, "walkRange": 0}, // Neil
+  {"id": 526, "x": 3034, "y": 3699, "walkRange": 3}, // Bandit
+  {"id": 6605, "x": 3027, "y": 3704, "walkRange": 0}, // Bandit
+  {"id": 526, "x": 3033, "y": 3689, "walkRange": 3}, // Bandit
+  {"id": 6605, "x": 3036, "y": 3697, "walkRange": 3}, // Bandit
+  {"id": 526, "x": 3034, "y": 3694, "walkRange": 3}, // Bandit
+  {"id": 526, "x": 3035, "y": 3706, "walkRange": 1}, // Bandit
+  {"id": 303, "x": 3034, "y": 3694, "walkRange": 2}, // Speedy Keith
+  {"id": 6605, "x": 3036, "y": 3705, "walkRange": 1}, // Bandit
+  {"id": 6605, "x": 3036, "y": 3673, "walkRange": 2}, // Bandit
+  {"id": 527, "x": 3038, "y": 3671, "walkRange": 4}, // Guard Bandit
+  {"id": 1303, "x": 3037, "y": 3706, "walkRange": 2}, // Fat Tony
+  {"id": 6605, "x": 3036, "y": 3655, "walkRange": 4}, // Bandit
+  {"id": 527, "x": 3038, "y": 3662, "walkRange": 6}, // Guard Bandit
+  {"id": 526, "x": 3039, "y": 3684, "walkRange": 6}, // Bandit
+  {"id": 6605, "x": 3038, "y": 3661, "walkRange": 3}, // Bandit
+  {"id": 527, "x": 3037, "y": 3671, "walkRange": 3}, // Guard Bandit
+  {"id": 6605, "x": 3033, "y": 3690, "walkRange": 0}, // Bandit
+  {"id": 302, "x": 3041, "y": 3694, "walkRange": 2}, // Donny the lad
+  {"id": 527, "x": 3038, "y": 3661, "walkRange": 1}, // Guard Bandit
+  {"id": 301, "x": 3041, "y": 3700, "walkRange": 2}, // Black Heather
+  {"id": 6605, "x": 3039, "y": 3683, "walkRange": 4}, // Bandit
+  {"id": 526, "x": 3040, "y": 3701, "walkRange": 4}, // Bandit
+  {"id": 6605, "x": 3040, "y": 3706, "walkRange": 1}, // Bandit
+  {"id": 2856, "x": 3051, "y": 3691, "walkRange": 3}, // Giant rat
+  {"id": 2864, "x": 3050, "y": 3693, "walkRange": 2}, // Giant rat
+  {"id": 1524, "x": 3045, "y": 3702, "walkRange": 0} // Fishing spot
+]

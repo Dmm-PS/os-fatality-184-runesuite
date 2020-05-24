@@ -1,0 +1,121 @@
+[
+  {"id": 5086, "x": 3224, "y": 3372, "direction": "E", "walkRange": 3},
+  {"id": 5087, "x": 3225, "y": 3370, "direction": "E", "walkRange":3},
+  {"id": 5088, "x": 3229, "y": 3371, "direction": "E", "walkRange": 3},
+  {"id": 5089, "x": 3229, "y": 3367, "direction": "E", "walkRange": 3},
+  {"id": 5086, "x": 3226, "y": 3367, "direction": "E", "walkRange": 3},
+  {"id": 5087, "x": 3224, "y": 3367, "direction": "E", "walkRange": 3},
+  {"id": 5088, "x": 3227, "y": 3372, "direction": "E", "walkRange": 3},
+  {"id": 5089, "x": 3231, "y": 3369, "direction": "E", "walkRange": 3},
+  {"id": 5088, "x": 3229, "y": 3365, "direction": "E", "walkRange": 2},
+  {"id": 3225, "x": 3188, "y": 3424, "walkRange": 3},
+  {"id": 2897, "x": 3187, "y": 3436, "direction": "W"},
+  {"id": 2898, "x": 3187, "y": 3438, "direction": "W"},
+  {"id": 2897, "x": 3187, "y": 3440, "direction": "W"},
+  {"id": 2898, "x": 3187, "y": 3442, "direction": "W"},
+  {"id": 2897, "x": 3187, "y": 3444, "direction": "W"},
+  {"id": 2898, "x": 3187, "y": 3446, "direction": "W"},
+  {"id": 5885, "x": 3170, "y": 3461, "walkRange": 2},
+  {"id": 1174, "x": 3195, "y": 3404, "walkRange": 2},
+  {"id": 3011, "x": 3173, "y": 3430, "walkRange": 3},
+  {"id": 3010, "x": 3175, "y": 3429, "walkRange": 3},
+  {"id": 3010, "x": 3174, "y": 3426, "walkRange": 3},
+  {"id": 2884, "x": 3205, "y": 3398, "walkRange": 3}, // Varrock sword shopkeeper
+  {"id": 2885, "x": 3205, "y": 3400, "walkRange": 3}, // Varrock sword shop assistant
+  {"id": 2816, "x": 3217, "y": 3414, "walkRange": 3}, // Varrock general store keeper
+  {"id": 2815, "x": 3217, "y": 3416, "walkRange": 3}, // Varrock general store assistant
+  {"id": 5037, "x": 3211, "y": 3424, "walkRange": 2}, //Romeo
+  {"id": 2881, "x": 3217, "y": 3435, "walkRange": 2}, // Baraek
+  {"id": 3501, "x": 3221, "y": 3434, "walkRange": 2}, // Shilop
+  {"id": 3503, "x": 3221, "y": 3435, "walkRange": 2}, // Wilough
+  {"id": 5525, "x": 3223, "y": 3428, "walkRange": 1}, // Toby
+  {"id": 2882, "x": 3229, "y": 3438, "walkRange": 2}, // Horvik
+  {"id": 5216, "x": 3219, "y": 3432, "walkRange": 1}, // Benny
+  {"id": 5082, "x": 3203, "y": 3424, "walkRange": 1}, // Gypsy aris
+  {"id": 2880, "x": 3202, "y": 3434, "walkRange": 2}, // Zaff
+  {"id": 2883, "x": 3232, "y": 3424, "walkRange": 2}, // Lowe
+  {"id": 2886, "x": 3253, "y": 3401, "walkRange": 2}, // Aubury
+  {"id": 3079, "x": 3262, "y": 3402, "walkRange": 5}, // Man
+  {"id": 1147, "x": 3263, "y": 3407, "direction": "W"}, // Guard
+  {"id": 1302, "x": 3271, "y": 3411, "direction": "NW"}, // Guard
+  {"id": 2897, "x": 3251, "y": 3418, "direction": "N"}, // East banker
+  {"id": 2897, "x": 3252, "y": 3418, "direction": "N"}, // East banker
+  {"id": 2897, "x": 3253, "y": 3418, "direction": "N"}, // East banker
+  {"id": 2898, "x": 3254, "y": 3418, "direction": "N"}, // East banker
+  {"id": 2898, "x": 3255, "y": 3418, "direction": "N"}, // East banker
+  {"id": 2898, "x": 3256, "y": 3418, "direction": "N"}, // East banker
+  {"id": 276, "x": 3252, "y": 3428, "walkRange": 1}, // Crier
+  {"id": 2901, "x": 3251, "y": 3428, "walkRange": 2}, // Cleaner
+  {"id": 3010, "x": 3271, "y": 3428, "walkRange": 2}, // Guard
+  {"id": 3010, "x": 3273, "y": 3430, "walkRange": 2}, // Guard
+  {"id": 3011, "x": 3275, "y": 3427, "walkRange": 2}, // Guard
+  {"id": 1912, "x": 3263, "y": 3441, "direction": "S"}, // Museum Guard
+  {"id": 1908, "x": 3267, "y": 3444, "direction": "N"}, // Tinsel
+  {"id": 1907, "x": 3266, "y": 3445, "direction": "S"}, // Sinco
+  {"id": 1910, "x": 3260, "y": 3447, "direction": "E"}, // Museum guard
+  {"id": 1903, "x": 3253, "y": 3445, "direction": "S"}, // Barnabus
+  {"id": 1904, "x": 3254, "y": 3444, "direction": "S"}, // Marius
+  {"id": 1905, "x": 3256, "y": 3443, "direction": "S"}, // Caden
+  {"id": 1906, "x": 3257, "y": 3442, "direction": "S"}, // Caden
+  {"id": 1909, "x": 3253, "y": 3454, "direction": "S"}, // Info clerk
+  {"id": 5041, "x": 3256, "y": 3481, "direction": "N"}, // Martina scorsby
+  {"id": 5042, "x": 3253, "y": 3477, "direction": "N"}, // Jeremy Clerksin
+  {"id": 5214, "x": 3257, "y": 3450, "walkRange": 2}, // Curator
+  {"id": 1922, "x": 3258, "y": 3451, "walkRange": 2}, // Teacher + pupil
+  {"id": 1920, "x": 3259, "y": 3451, "walkRange": 3}, // Schoolboy
+  {"id": 1921, "x": 3260, "y": 3451, "walkRange": 3}, // Schoolgirl
+  {"id": 5419, "x": 3240, "y": 3475, "walkRange": 2}, // Estate agent
+  {"id": 5038, "x": 3255, "y": 3484, "walkRange": 3}, // Father Lawrence
+  {"id": 3010, "x": 3241, "y": 3500, "walkRange": 3}, // North border guard
+  {"id": 3010, "x": 3245, "y": 3503, "walkRange": 3}, // North border guard
+  {"id": 3080, "x": 3238, "y": 3406, "walkRange": 3}, // Man
+  {"id": 2871, "x": 3245, "y": 3394, "walkRange": 2}, // Mugger
+  {"id": 534, "x": 3205, "y": 3417, "walkRange": 3}, // Thessalia
+  {"id": 3502, "x": 3150, "y": 3407, "walkRange": 0}, // Philop
+  {"id": 3500, "x": 3151, "y": 3409, "walkRange": 5}, // Gertrude
+  {"id": 2854, "x": 3158, "y": 3411, "walkRange": 11}, // Rat
+  {"id": 2854, "x": 3150, "y": 3419, "walkRange": 0}, // Rat
+  {"id": 3078, "x": 3152, "y": 3429, "walkRange": 2}, // Man
+  {"id": 5039, "x": 3161, "y": 3434, "walkRange": 2}, // Draul Leptoc
+  {"id": 1324, "x": 3113, "y": 3413, "walkRange": 1}, // Sigurd
+/*  {"id": 3075, "x": 3120, "y": 3433, "walkRange": 3}, // Goblin
+  {"id": 3076, "x": 3119, "y": 3441, "walkRange": 2}, // Goblin
+  {"id": 3073, "x": 3125, "y": 3421, "walkRange": 2}, // Goblin
+  {"id": 3074, "x": 3130, "y": 3434, "walkRange": 3}, // Goblin
+  {"id": 4175, "x": 3115, "y": 3472, "walkRange": 3}, // Outlaw
+  {"id": 3073, "x": 3126, "y": 3454, "walkRange": 3}, // Goblin
+  {"id": 4174, "x": 3116, "y": 3478, "walkRange": 3}, // Outlaw
+  {"id": 4176, "x": 3118, "y": 3469, "walkRange": 3}, // Outlaw
+  {"id": 4167, "x": 3118, "y": 3475, "walkRange": 3}, // Outlaw
+  {"id": 4168, "x": 3121, "y": 3471, "walkRange": 2}, // Outlaw
+  {"id": 4173, "x": 3120, "y": 3477, "walkRange": 3}, // Outlaw
+  {"id": 4169, "x": 3121, "y": 3470, "walkRange": 2}, // Outlaw
+  {"id": 4170, "x": 3122, "y": 3474, "walkRange": 3}, // Outlaw
+  {"id": 4172, "x": 3123, "y": 3478, "walkRange": 3}, // Outlaw
+  {"id": 4171, "x": 3123, "y": 3476, "walkRange": 3}, // Outlaw
+  {"id": 3017, "x": 3130, "y": 3484, "walkRange": 2}, // Giant spider
+  {"id": 3017, "x": 3130, "y": 3483, "walkRange": 3}, // Giant spider
+  {"id": 3017, "x": 3134, "y": 3487, "walkRange": 2}, // Giant spider*/
+  {"id": 2658, "x": 3142, "y": 3445, "walkRange": 2}, // Head chef
+  {"id": 2897, "x": 3147, "y": 3448, "direction": "N"}, // Banker
+  {"id": 2898, "x": 3148, "y": 3448, "direction": "N"}, // Banker
+  {"id": 5956, "x": 3287, "y": 3328, "walkRange": 1}, // Ali the leaflet dropper
+  {"id": 2692, "x": 3238, "y": 3323, "walkRange": 5}, // Chicken
+  {"id": 3087, "x": 3238, "y": 3308, "walkRange": 5}, // Farmer
+  {"id": 3088, "x": 3258, "y": 3324, "walkRange": 5}, // Farmer
+  {"id": 3073, "x": 3255, "y": 3338, "walkRange": 2}, // Goblin
+  {"id": 4158, "x": 3267, "y": 3333, "walkRange": 3}, // Rat Burgiss
+  {"id": 2837, "x": 3276, "y": 3342, "walkRange": 2}, // Unicorn
+  {"id": 2837, "x": 3281, "y": 3349, "walkRange": 2}, // Unicorn
+  {"id": 2839, "x": 3296, "y": 3347, "walkRange": 2}, // Black bear
+  {"id": 381, "x": 3227, "y": 3410, "walkRange": 3}, // Tramp
+  {"id": 2582, "x": 3260, "y": 3384, "walkRange": 2}, // Mage of Zamorak
+  {"id": 1302, "x": 3271, "y": 3411, "walkRange": 0}, // Tea seller
+  {"id": 3078, "x": 3247, "y": 3400, "walkRange": 2}, // Man
+  {"id": 3078, "x": 3237, "y": 3406, "walkRange": 2}, // Man
+  {"id": 3078, "x": 3237, "y": 3399, "walkRange": 2}, // Man
+  {"id": 2680, "x": 3226, "y": 3457, "walkRange": 2}, // Treznor
+  {"id": 0, "x": 3229, "y": 3455, "direction": "N"}, // Tool Leprechaun
+  {"id": 5217, "x": 3234, "y": 3393, "walkRange": 2} // Thief
+  
+]

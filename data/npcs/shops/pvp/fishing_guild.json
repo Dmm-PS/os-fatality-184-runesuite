@@ -1,0 +1,12 @@
+{
+  "name": "Fishing Guild Shop",
+  "currency": "COINS",
+  "ironman": true,
+  "npcs": [
+    { "id": 1299, "option": "trade" }
+  ],
+  "items": [
+    {"id": 313, "price": 2},   // Fishing bait
+	  {"id": 314, "price": 2}   // Feathers
+  ]
+}

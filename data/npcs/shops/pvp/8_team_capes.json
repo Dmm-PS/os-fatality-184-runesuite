@@ -1,0 +1,62 @@
+
+{
+  "name": "Richard's Team Capes",
+  "currency": "BLOOD_MONEY",
+  "ironman": true,
+  "npcs": [
+    { "id": 2200, "option": "trade" }
+  ],
+  "items": [
+      {"id": 4315, "price": 35 }, // Team cape
+      {"id": 4317, "price": 35 },// Team cape
+      {"id": 4319, "price": 35 },// Team cape
+      {"id": 4321, "price": 35 },// Team cape
+      {"id": 4323, "price": 35 },// Team cape
+      {"id": 4325, "price": 35 },// Team cape
+      {"id": 4327, "price": 35 },// Team cape
+      {"id": 4329, "price": 35 },// Team cape
+      {"id": 4331, "price": 35 },// Team cape
+      {"id": 4333, "price": 35 },// Team cape
+      {"id": 4335, "price": 35 },// Team cape
+      {"id": 4337, "price": 35 },// Team cape
+      {"id": 4339, "price": 35 },// Team cape
+      {"id": 4341, "price": 35 },// Team cape
+      {"id": 4343, "price": 35 },// Team cape
+      {"id": 4345, "price": 35 },// Team cape
+      {"id": 4347, "price": 35 },// Team cape
+      {"id": 4349, "price": 35 },// Team cape
+      {"id": 4351, "price": 35 },// Team cape
+      {"id": 4353, "price": 35 },// Team cape
+      {"id": 4355, "price": 35 },// Team cape
+      {"id": 4357, "price": 35 },// Team cape
+      {"id": 4359, "price": 35 },// Team cape
+      {"id": 4361, "price": 35 },// Team cape
+      {"id": 4363, "price": 35 },// Team cape
+      {"id": 4365, "price": 35 },// Team cape
+      {"id": 4367, "price": 35 },// Team cape
+      {"id": 4369, "price": 35 },// Team cape
+      {"id": 4371, "price": 35 },// Team cape
+      {"id": 4373, "price": 35 },// Team cape
+      {"id": 4375, "price": 35 },// Team cape
+      {"id": 4377, "price": 35 },// Team cape
+      {"id": 4379, "price": 35 },// Team cape
+      {"id": 4381, "price": 35 },// Team cape
+      {"id": 4383, "price": 35 },// Team cape
+      {"id": 4385, "price": 35 },// Team cape
+      {"id": 4387, "price": 35 },// Team cape
+      {"id": 4389, "price": 35 },// Team cape
+      {"id": 4391, "price": 35 },// Team cape
+      {"id": 4393, "price": 35 },// Team cape
+      {"id": 4395, "price": 35 },// Team cape
+      {"id": 4397, "price": 35 },// Team cape
+      {"id": 4399, "price": 35 },// Team cape
+      {"id": 4401, "price": 35 },// Team cape
+      {"id": 4403, "price": 35 },// Team cape
+      {"id": 4405, "price": 35 },// Team cape
+      {"id": 4407, "price": 35 },// Team cape
+      {"id": 4409, "price": 35 },// Team cape
+      {"id": 4411, "price": 35 },// Team cape
+      {"id": 4413, "price": 35 } // Team cape
+
+  ]
+}

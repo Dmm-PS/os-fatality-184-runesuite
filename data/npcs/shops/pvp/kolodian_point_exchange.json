@@ -1,0 +1,31 @@
+{
+  "name": "Battle Point Exchange",
+  "currency": "MAGE_ARENA_POINTS",
+  "ironman": true,
+  "npcs": [
+    { "id": 1603, "option": "trade" }
+  ],
+  "items": [
+    {"id": 6918, "price": 200},   // Infinity hat
+    {"id": 6916, "price": 200},   // Infinity top
+    {"id": 6924, "price": 200},   // Infinity bottom
+    {"id": 6920, "price": 200},   // Infinity boots
+    {"id": 6922, "price": 200},   // Infinity gloves
+    {"id": 6889, "price": 400},   // Mage's book
+    {"id": 6914, "price": 100},   // Masters wand
+    {"id": 4712, "price": 150},   // Ahrim's robe top
+    {"id": 4714, "price": 150},   // Ahrim's robe bottom
+    {"id": 21634, "price": 1250},   // Ancient wyvern shield
+    {"id": 20595, "price": 50},   // Elder chaos hood
+    {"id": 20517, "price": 50},   // Elder chaos top
+    {"id": 20520, "price": 50},   // Elder chaos bottom
+    {"id": 23047, "price": 50},   // Mystic hat (dusk)
+    {"id": 23050, "price": 75},   // Mystic robetop (dusk)
+    {"id": 23053, "price": 75},   // Mystic robebottom (dusk)
+    {"id": 23056, "price": 30},   // Mystic gloves (dusk)
+    {"id": 23059, "price": 30},   // Mystic boots (dusk)
+    {"id": 6731, "price": 250},   // Seers ring
+    {"id": 12002, "price": 175},   // Occult necklace
+    {"id": 12791, "price": 500}    // Rune Pouch
+  ]
+}

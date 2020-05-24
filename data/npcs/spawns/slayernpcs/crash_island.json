@@ -1,0 +1,19 @@
+[
+  {"id": 2022, "x": 2892, "y": 2726, "direction": "E"}, // Lumdo
+  {"id": 2021, "x": 2897, "y": 2726, "walkRange": 1}, // Waydar
+  {"id": 5242, "x": 2895, "y": 2721, "walkRange": 5}, // Scorpion
+  {"id": 5242, "x": 2901, "y": 2723, "walkRange": 5}, // Scorpion
+  {"id": 5242, "x": 2902, "y": 2730, "walkRange": 5}, // Scorpion
+  {"id": 5242, "x": 2897, "y": 2735, "walkRange": 5}, // Scorpion
+  {"id": 5242, "x": 2902, "y": 2738, "walkRange": 5}, // Scorpion
+  {"id": 5244, "x": 2905, "y": 2727, "walkRange": 10}, // Snake
+  {"id": 5244, "x": 2909, "y": 2722, "walkRange": 10}, // Snake
+  {"id": 5244, "x": 2907, "y": 2716, "walkRange": 10}, // Snake
+  {"id": 5244, "x": 2920, "y": 2725, "walkRange": 10}, // Snake
+  {"id": 5241, "x": 2907, "y": 2712, "walkRange": 5}, // Bird
+  {"id": 5241, "x": 2917, "y": 2719, "walkRange": 5}, // Bird
+  {"id": 5241, "x": 2910, "y": 2730, "walkRange": 5}, // Bird
+  {"id": 5241, "x": 2921, "y": 2726, "walkRange": 5}, // Bird
+  {"id": 5241, "x": 2901, "y": 2735, "walkRange": 5} // Bird
+
+]

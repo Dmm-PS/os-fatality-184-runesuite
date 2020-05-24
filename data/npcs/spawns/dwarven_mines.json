@@ -1,0 +1,70 @@
+[
+  {"id": 290, "x": 3009, "y": 9811, "walkRange": 5}, // Dwarf
+  {"id": 290, "x": 3013, "y": 9810, "walkRange": 9}, // Dwarf
+  {"id": 290, "x": 3015, "y": 9816, "walkRange": 7}, // Dwarf
+  {"id": 290, "x": 3018, "y": 9820, "walkRange": 8}, // Dwarf
+  {"id": 290, "x": 3019, "y": 9847, "walkRange": 4}, // Dwarf
+  {"id": 290, "x": 3019, "y": 9812, "walkRange": 6}, // Dwarf
+  {"id": 290, "x": 3016, "y": 9812, "walkRange": 5}, // Dwarf
+  {"id": 290, "x": 3021, "y": 9833, "walkRange": 5}, // Dwarf
+  {"id": 290, "x": 3023, "y": 9845, "walkRange": 8}, // Dwarf
+  {"id": 290, "x": 3020, "y": 9845, "walkRange": 7}, // Dwarf
+  {"id": 290, "x": 3026, "y": 9846, "walkRange": 7}, // Dwarf
+  {"id": 290, "x": 3025, "y": 9822, "walkRange": 5}, // Dwarf
+  {"id": 290, "x": 3024, "y": 9828, "walkRange": 5}, // Dwarf
+  {"id": 290, "x": 3026, "y": 9834, "walkRange": 5}, // Dwarf
+  {"id": 2854, "x": 3026, "y": 9834, "walkRange": 5}, // Rat
+  {"id": 290, "x": 3026, "y": 9820, "walkRange": 7}, // Dwarf
+  {"id": 2854, "x": 3030, "y": 9829, "walkRange": 5}, // Rat
+  {"id": 290, "x": 3031, "y": 9845, "walkRange": 7}, // Dwarf
+  {"id": 1048, "x": 3033, "y": 9845, "walkRange": 3}, // Drogo dwarf
+  {"id": 290, "x": 3033, "y": 9845, "walkRange": 6}, // Dwarf
+  {"id": 3024, "x": 3043, "y": 9804, "walkRange": 4}, // Scorpion
+  {"id": 3024, "x": 3041, "y": 9794, "walkRange": 7}, // Scorpion
+  {"id": 3024, "x": 3037, "y": 9811, "walkRange": 3}, // Scorpion
+  {"id": 2854, "x": 3041, "y": 9817, "walkRange": 7}, // Rat
+  {"id": 2854, "x": 3042, "y": 9812, "walkRange": 5}, // Rat
+  {"id": 290, "x": 3039, "y": 9832, "walkRange": 6}, // Dwarf
+  {"id": 290, "x": 3045, "y": 9823, "walkRange": 6}, // Dwarf
+  {"id": 290, "x": 3046, "y": 9809, "walkRange": 7}, // Dwarf
+  {"id": 290, "x": 3045, "y": 9831, "walkRange": 6}, // Dwarf
+  {"id": 290, "x": 3049, "y": 9820, "walkRange": 6}, // Dwarf
+  {"id": 290, "x": 3048, "y": 9821, "walkRange": 4}, // Dwarf
+  {"id": 290, "x": 3052, "y": 9823, "walkRange": 3}, // Dwarf
+  {"id": 290, "x": 2986, "y": 9810, "walkRange": 5}, // Dwarf
+  {"id": 3024, "x": 3042, "y": 9776, "walkRange": 5}, // Scorpion
+  {"id": 4985, "x": 2985, "y": 9811, "walkRange": 5}, // Boot
+  {"id": 3024, "x": 3046, "y": 9789, "walkRange": 5}, // Scorpion
+  {"id": 290, "x": 2994, "y": 9845, "walkRange": 4}, // Dwarf
+  {"id": 3027, "x": 3046, "y": 9769, "walkRange": 1}, // King Scorpion
+  {"id": 1051, "x": 2995, "y": 9829, "walkRange": 8}, // Dwarf
+  {"id": 3024, "x": 3042, "y": 9783, "walkRange": 5}, // Scorpion
+  {"id": 290, "x": 2997, "y": 9835, "walkRange": 2}, // Dwarf
+  {"id": 3024, "x": 3043, "y": 9781, "walkRange": 7}, // Scorpion
+  {"id": 290, "x": 2992, "y": 9810, "walkRange": 4}, // Dwarf
+  {"id": 7712, "x": 3045, "y": 9758, "walkRange": 2}, // Dwarf
+  {"id": 7715, "x": 3043, "y": 9731, "walkRange": 2}, // Dwarf
+  {"id": 2391, "x": 2996, "y": 9836, "walkRange": 1}, // Cart conductor
+  {"id": 3024, "x": 3049, "y": 9771, "walkRange": 4}, // Scorpion
+  {"id": 290, "x": 2998, "y": 9842, "walkRange": 7}, // Dwarf
+  {"id": 3024, "x": 3051, "y": 9771, "walkRange": 6}, // Scorpion
+  {"id": 1301, "x": 2998, "y": 9840, "walkRange": 7}, // Nurmof
+  {"id": 3024, "x": 3043, "y": 9780, "walkRange": 7}, // Scorpion
+  {"id": 290, "x": 3002, "y": 9816, "walkRange": 5}, // Dwarf
+  {"id": 3027, "x": 3047, "y": 9767, "walkRange": 2}, // King Scorpion
+  {"id": 290, "x": 2999, "y": 9809, "walkRange": 5}, // Dwarf
+  {"id": 3024, "x": 3052, "y": 9772, "walkRange": 6}, // Scorpion
+  {"id": 290, "x": 2998, "y": 9823, "walkRange": 4}, // Dwarf
+  {"id": 3024, "x": 3052, "y": 9774, "walkRange": 6}, // Scorpion
+  {"id": 290, "x": 2997, "y": 9803, "walkRange": 4}, // Dwarf
+  {"id": 3024, "x": 3051, "y": 9779, "walkRange": 7}, // Scorpion
+  {"id": 290, "x": 2997, "y": 9844, "walkRange": 6}, // Dwarf
+  {"id": 290, "x": 2997, "y": 9828, "walkRange": 7}, // Dwarf
+  {"id": 2785, "x": 3003, "y": 9799, "walkRange": 0}, // Hura
+  {"id": 290, "x": 2999, "y": 9803, "walkRange": 7}, // Dwarf
+  {"id": 7720, "x": 3023, "y": 9708, "walkRange": 2}, // Utrec
+  {"id": 7719, "x": 3017, "y": 9720, "walkRange": 2}, // Belona
+  {"id": 7714, "x": 3019, "y": 9735, "walkRange": 2}, // Dwarf
+  {"id": 7718, "x": 3030, "y": 9746, "walkRange": 2}, // Yarsul
+  {"id": 7717, "x": 3032, "y": 9747, "walkRange": 2} // Hendor
+]

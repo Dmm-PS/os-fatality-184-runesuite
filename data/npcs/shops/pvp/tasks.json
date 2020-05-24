@@ -1,0 +1,48 @@
+{
+  "name": "Daily Tasks Rewards",
+  "currency": "TASK_POINTS",
+  "ironman": true,
+  "npcs": [
+    { "id": 306, "option": "task-rewards" }
+  ],
+  "items": [
+    {"id": 19689, "price": 30 }, //Clue hunter garb
+    {"id": 19691, "price": 30 }, //Clue hunter gloves
+    {"id": 19693, "price": 30 }, //Clue hunter trousers
+    {"id": 19695, "price": 30 }, //Clue hunter boots
+    {"id": 19697, "price": 30 }, //Clue hunter cloak
+    {"id": 20433, "price": 10 }, //Evil chicken feet
+    {"id": 20436, "price": 10 }, //Evil chicken wings
+    {"id": 20439, "price": 10 }, //Evil chicken head
+    {"id": 20442, "price": 10 }, //Evil chicken legs
+    {"id": 11919, "price": 10 }, //Cow mask
+    {"id": 12956, "price": 10 }, //Cow top
+    {"id": 12957, "price": 10 }, //Cow trousers
+    {"id": 12958, "price": 10 }, //Cow gloves
+    {"id": 12959, "price": 10 }, //Cow shoes
+    {"id": 13283, "price": 10 }, //Gravedigger mask
+    {"id": 13284, "price": 10 }, //Gravedigger top
+    {"id": 13285, "price": 10 }, //Gravedigger leggings
+    {"id": 13286, "price": 10 }, //Gravedigger boots
+    {"id": 10941, "price": 5 }, //lumber hat
+    {"id": 10939, "price": 5 }, //lumber top
+    {"id": 10940, "price": 5 }, //lumber pants
+    {"id": 10933, "price": 5 }, //lumber boots
+    {"id": 12012, "price": 5 }, //prosp helm
+    {"id": 12014, "price": 5 }, //prosp top
+    {"id": 12015, "price": 5 }, //prosp legs
+    {"id": 12016, "price": 5 }, //prosp boots
+    {"id": 13258, "price": 5 }, //Angler hat
+    {"id": 13259, "price": 5 }, //angler top
+    {"id": 13260, "price": 5 }, //angler legs
+    {"id": 13261, "price": 5 }, //angler boots
+    {"id": 13646, "price": 5 }, //farmer hat
+    {"id": 13642, "price": 5 }, //farmer top
+    {"id": 13640, "price": 5 }, //farmer legs
+    {"id": 13644, "price": 5 }, //farmer boots
+    {"id": 20708, "price": 5 }, //pyro hood
+    {"id": 20704, "price": 5 }, //pyro top
+    {"id": 20706, "price": 5 }, //pyro legs
+    {"id": 20710, "price": 5 } //pyro boots
+  ]
+}

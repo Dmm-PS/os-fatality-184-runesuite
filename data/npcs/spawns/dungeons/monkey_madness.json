@@ -1,0 +1,40 @@
+[
+  {"id": 7144, "x": 2074, "y": 5651, "walkRange": 1}, // Demonic gorilla
+  {"id": 7145, "x": 2074, "y": 5673, "walkRange": 3}, // Demonic gorilla
+  {"id": 7144, "x": 2073, "y": 5680, "walkRange": 1}, // Demonic gorilla
+  {"id": 7146, "x": 2075, "y": 5649, "walkRange": 1}, // Demonic gorilla
+  {"id": 7145, "x": 2077, "y": 5644, "walkRange": 2}, // Demonic gorilla
+  {"id": 7144, "x": 2077, "y": 5649, "walkRange": 4}, // Demonic gorilla
+  {"id": 7146, "x": 2087, "y": 5676, "walkRange": 12}, // Demonic gorilla
+  {"id": 7144, "x": 2097, "y": 5675, "walkRange": 8}, // Demonic gorilla
+  {"id": 7145, "x": 2090, "y": 5676, "walkRange": 13}, // Demonic gorilla
+  {"id": 7146, "x": 2105, "y": 5676, "walkRange": 15}, // Demonic gorilla
+  {"id": 7144, "x": 2093, "y": 5654, "walkRange": 1}, // Demonic gorilla
+  {"id": 7144, "x": 2096, "y": 5657, "walkRange": 3}, // Demonic gorilla
+  {"id": 7145, "x": 2097, "y": 5644, "walkRange": 3}, // Demonic gorilla
+  {"id": 7144, "x": 2102, "y": 5642, "walkRange": 3}, // Demonic gorilla
+  {"id": 7144, "x": 2102, "y": 5652, "walkRange": 3}, // Demonic gorilla
+  {"id": 7146, "x": 2106, "y": 5660, "walkRange": 3}, // Demonic gorilla
+  {"id": 7145, "x": 2108, "y": 5647, "walkRange": 4}, // Demonic gorilla
+  {"id": 7144, "x": 2105, "y": 5658, "walkRange": 6}, // Demonic gorilla
+  {"id": 7146, "x": 2127, "y": 5675, "walkRange": 5}, // Demonic gorilla
+  {"id": 7144, "x": 2141, "y": 5677, "walkRange": 13}, // Demonic gorilla
+  {"id": 7150, "x": 2134, "y": 5645, "walkRange": 4}, // Tortured gorilla
+  {"id": 7144, "x": 2130, "y": 5676, "walkRange": 6}, // Demonic gorilla
+  {"id": 7151, "x": 2134, "y": 5645, "walkRange": 4}, // Tortured gorilla
+  {"id": 7144, "x": 2141, "y": 5678, "walkRange": 11}, // Demonic gorilla
+  {"id": 7150, "x": 2149, "y": 5649, "walkRange": 6}, // Tortured gorilla
+  {"id": 7151, "x": 2152, "y": 5659, "walkRange": 11}, // Tortured gorilla
+  {"id": 7150, "x": 2155, "y": 5659, "walkRange": 4}, // Tortured gorilla
+  {"id": 7144, "x": 2152, "y": 5656, "walkRange": 3}, // Demonic gorilla
+  {"id": 7144, "x": 2150, "y": 5673, "walkRange": 8}, // Demonic gorilla
+  {"id": 7144, "x": 2146, "y": 5677, "walkRange": 6}, // Demonic gorilla
+  {"id": 1459, "x": 2028, "y": 5609, "walkRange": 0}, // null
+  {"id": 7144, "x": 2154, "y": 5659, "walkRange": 4}, // Demonic gorilla
+  {"id": 1458, "x": 2026, "y": 5611, "walkRange": 0}, // null
+  {"id": 7146, "x": 2110, "y": 5649, "walkRange": 4}, // Demonic gorilla
+  {"id": 7146, "x": 2113, "y": 5662, "walkRange": 6}, // Demonic gorilla
+  {"id": 7151, "x": 2132, "y": 5660, "walkRange": 8}, // Tortured gorilla
+  {"id": 7150, "x": 2136, "y": 5660, "walkRange": 5}, // Tortured gorilla
+  {"id": 7151, "x": 2139, "y": 5661, "walkRange": 3}  // Tortured gorilla
+]

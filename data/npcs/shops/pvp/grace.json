@@ -1,0 +1,65 @@
+{
+  "name": "Grace's Graceful Clothing",
+  "currency": "MARKS_OF_GRACE",
+  "ironman": true,
+  "npcs": [
+    { "id": 5919, "option": "trade" }
+  ],
+  "items": [
+    { "id": 11850, "price": 35 }, // Graceful hood
+    { "id": 11854, "price": 55 }, // Graceful top
+    { "id": 11856, "price": 60 }, // Graceful legs
+    { "id": 11858, "price": 30 }, // Graceful gloves
+    { "id": 11860, "price": 40 }, // Graceful boots
+    { "id": 11852, "price": 40 }, // Graceful cape
+
+    { "id": 13579, "price": 35 }, // Graceful hood
+    { "id": 13583, "price": 55 }, // Graceful top
+    { "id": 13585, "price": 60 }, // Graceful legs
+    { "id": 13587, "price": 30 }, // Graceful gloves
+    { "id": 13589, "price": 40 }, // Graceful boots
+    { "id": 13581, "price": 40 }, // Graceful cape
+
+    { "id": 13591, "price": 35 }, // Graceful hood
+    { "id": 13595, "price": 55 }, // Graceful top
+    { "id": 13597, "price": 60 }, // Graceful legs
+    { "id": 13599, "price": 30 }, // Graceful gloves
+    { "id": 13601, "price": 40 }, // Graceful boots
+    { "id": 13593, "price": 40 }, // Graceful cape
+
+    { "id": 13603, "price": 35 }, // Graceful hood
+    { "id": 13607, "price": 55 }, // Graceful top
+    { "id": 13609, "price": 60 }, // Graceful legs
+    { "id": 13611, "price": 30 }, // Graceful gloves
+    { "id": 13613, "price": 40 }, // Graceful boots
+    { "id": 13605, "price": 40 }, // Graceful cape
+
+    { "id": 13615, "price": 35 }, // Graceful hood
+    { "id": 13619, "price": 55 }, // Graceful top
+    { "id": 13621, "price": 60 }, // Graceful legs
+    { "id": 13623, "price": 30 }, // Graceful gloves
+    { "id": 13625, "price": 40 }, // Graceful boots
+    { "id": 13617, "price": 40 }, // Graceful cape
+
+    { "id": 13627, "price": 35 }, // Graceful hood
+    { "id": 13631, "price": 55 }, // Graceful top
+    { "id": 13633, "price": 60 }, // Graceful legs
+    { "id": 13635, "price": 30 }, // Graceful gloves
+    { "id": 13637, "price": 40 }, // Graceful boots
+    { "id": 13629, "price": 40 }, // Graceful cape
+
+    { "id": 13667, "price": 35 }, // Graceful hood
+    { "id": 13671, "price": 55 }, // Graceful top
+    { "id": 13673, "price": 60 }, // Graceful legs
+    { "id": 13675, "price": 30 }, // Graceful gloves
+    { "id": 13677, "price": 40 }, // Graceful boots
+    { "id": 13669, "price": 40 }, // Graceful cape
+
+    { "id": 21061, "price": 35 }, // Graceful hood
+    { "id": 21067, "price": 55 }, // Graceful top
+    { "id": 21070, "price": 60 }, // Graceful legs
+    { "id": 21073, "price": 30 }, // Graceful gloves
+    { "id": 21076, "price": 40 }, // Graceful boots
+    { "id": 21064, "price": 40 } // Graceful cape
+  ]
+}

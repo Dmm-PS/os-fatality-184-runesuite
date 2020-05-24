@@ -1,0 +1,27 @@
+[
+  {"id": 84, "x": 2585, "y": 9884, "walkRange": 3}, // Skeleton Mage
+  {"id": 84, "x": 2589, "y": 9883, "walkRange": 3}, // Skeleton Mage
+  {"id": 84, "x": 2591, "y": 9884, "walkRange": 3}, // Skeleton Mage
+  {"id": 84, "x": 2587, "y": 9879, "walkRange": 3}, // Skeleton Mage
+  {"id": 84, "x": 2591, "y": 9880, "walkRange": 3}, // Skeleton Mage
+  {"id": 82, "x": 2587, "y": 9880, "walkRange": 3}, // Skeleton
+  {"id": 82, "x": 2588, "y": 9885, "walkRange": 3}, // Skeleton
+  {"id": 82, "x": 2591, "y": 9885, "walkRange": 3}, // Skeleton
+  {"id": 3016, "x": 2572, "y": 9875, "walkRange": 3}, // Shadow Spider
+  {"id": 3016, "x": 2576, "y": 9875, "walkRange": 3}, // Shadow Spider
+  {"id": 3016, "x": 2579, "y": 9876, "walkRange": 3}, // Shadow Spider
+  {"id": 3016, "x": 2574, "y": 9878, "walkRange": 3}, // Shadow Spider
+  {"id": 3016, "x": 2573, "y": 9873, "walkRange": 3}, // Shadow Spider
+  {"id": 2854, "x": 2566, "y": 9898, "walkRange": 3}, // Rat
+  {"id": 2854, "x": 2584, "y": 9884, "walkRange": 3}, // Rat
+  {"id": 2075, "x": 2564, "y": 9884, "walkRange": 3}, // Fire Giant
+  {"id": 2075, "x": 2567, "y": 9888, "walkRange": 3}, // Fire Giant
+  {"id": 2075, "x": 2563, "y": 9888, "walkRange": 3}, // Fire Giant
+  {"id": 2075, "x": 2569, "y": 9885, "walkRange": 3}, // Fire Giant
+  {"id": 2075, "x": 2576, "y": 9888, "walkRange": 3}, // Fire Giant
+  {"id": 2075, "x": 2579, "y": 9890, "walkRange": 3}, // Fire Giant
+  {"id": 2075, "x": 2581, "y": 9895, "walkRange": 3}, // Fire Giant
+  {"id": 2075, "x": 2575, "y": 9896, "walkRange": 3}, // Fire Giant
+  {"id": 2077, "x": 2575, "y": 9894, "walkRange": 3}, // Fire Giant
+  {"id": 2077, "x": 2575, "y": 9889, "walkRange": 3} // Fire Giant
+]

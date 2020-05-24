@@ -1,0 +1,17 @@
+[
+{"id": 3972, "x": 2858, "y": 9571, "walkRange": 3}, // Skeleton
+{"id": 3972, "x": 2856, "y": 9576, "walkRange": 3}, // Skeleton
+{"id": 3973, "x": 2860, "y": 9573, "walkRange": 5}, // Skeleton
+{"id": 3974, "x": 2852, "y": 9577, "walkRange": 4}, // Skeleton
+{"id": 2005, "x": 2842, "y": 9558, "walkRange": 3}, // Lesser demon
+{"id": 2006, "x": 2837, "y": 9554, "walkRange": 2}, // Lesser demon
+{"id": 2007, "x": 2833, "y": 9561, "walkRange": 3}, // Lesser demon
+{"id": 2006, "x": 2836, "y": 9566, "walkRange": 2}, // Lesser demon
+{"id": 3021, "x": 2840, "y": 9583, "walkRange": 4}, // Deadly red spider
+{"id": 3021, "x": 2836, "y": 9583, "walkRange": 4}, // Deadly red spider
+{"id": 3021, "x": 2833, "y": 9581, "walkRange": 4}, // Deadly red spider
+{"id": 3021, "x": 2849, "y": 9581, "walkRange": 4}, // Deadly red spider
+{"id": 3021, "x": 2843, "y": 9581, "walkRange": 4}, // Deadly red spider
+{"id": 3021, "x": 2838, "y": 9579, "walkRange": 4}, // Deadly red spider
+{"id": 6118, "x": 2853, "y": 9636, "walkRange": 8} // Elvarg
+]

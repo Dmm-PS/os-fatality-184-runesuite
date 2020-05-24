@@ -1,0 +1,36 @@
+[
+  {"id": 1795, "x": 3397, "y": 2930, "walkRange": 2}, // Goat
+  {"id": 2552, "x": 3395, "y": 2909, "walkRange": 25}, // Wingstone
+  {"id": 4185, "x": 3378, "y": 2910, "walkRange": 2}, // Jackal
+  {"id": 1796, "x": 3401, "y": 2932, "walkRange": 1}, // Goat
+  {"id": 4185, "x": 3391, "y": 2906, "walkRange": 10}, // Jackal
+  {"id": 1797, "x": 3396, "y": 2930, "walkRange": 0}, // Billy Goat
+  {"id": 4185, "x": 3386, "y": 2912, "walkRange": 3}, // Jackal
+  {"id": 23, "x": 3399, "y": 2916, "walkRange": 4}, // Monkey
+  {"id": 4185, "x": 3386, "y": 2913, "walkRange": 7}, // Jackal
+  {"id": 22, "x": 3401, "y": 2917, "walkRange": 2}, // Rug Merchant
+  {"id": 4754, "x": 3406, "y": 2924, "walkRange": 1}, // Seddu
+  {"id": 1792, "x": 3410, "y": 2891, "walkRange": 2}, // Goat
+  {"id": 1794, "x": 3412, "y": 2893, "walkRange": 1}, // Billy Goat
+  {"id": 4755, "x": 3414, "y": 2906, "walkRange": 2}, // Kazemde
+  {"id": 4748, "x": 3416, "y": 2934, "walkRange": 3}, // Nkuku
+  {"id": 4746, "x": 3421, "y": 2914, "walkRange": 2}, // Ali the Carter
+  {"id": 4753, "x": 3424, "y": 2906, "walkRange": 1}, // Zahur
+  {"id": 4760, "x": 3424, "y": 2928, "walkRange": 4}, // Shiratti the Custodian
+  {"id": 4762, "x": 3425, "y": 2889, "direction": "E"}, // Nardah Banker
+  {"id": 4762, "x": 3425, "y": 2891, "direction": "E"}, // Nardah Banker
+  {"id": 4762, "x": 3425, "y": 2893, "direction": "E"}, // Nardah Banker
+  {"id": 4762, "x": 3425, "y": 2894, "direction": "E"}, // Nardah Banker
+  {"id": 4751, "x": 3426, "y": 2899, "walkRange": 3}, // Meskhenet
+  {"id": 7369, "x": 3428, "y": 2910, "walkRange": 0}, // Wesley
+  {"id": 4761, "x": 3430, "y": 2914, "walkRange": 2}, // Rokuh
+  {"id": 4749, "x": 3436, "y": 2901, "walkRange": 5}, // Garai
+  {"id": 4758, "x": 3437, "y": 2914, "walkRange": 2}, // Poltenip
+  {"id": 4757, "x": 3437, "y": 2917, "walkRange": 2}, // Tarik
+  {"id": 4747, "x": 3439, "y": 2890, "walkRange": 1}, // Usi
+  {"id": 4745, "x": 3441, "y": 2933, "walkRange": 2}, // Ghaslor the Elder
+  {"id": 4756, "x": 3442, "y": 2913, "walkRange": 4}, // Awusah the Mayor
+  {"id": 4759, "x": 3442, "y": 2920, "walkRange": 0}, // Radat
+  {"id": 1350, "x": 3442, "y": 2902, "walkRange": 3}, // Artimeus
+  {"id": 4752, "x": 3448, "y": 2896, "walkRange": 2} // Zahra
+]
